@@ -1,0 +1,38 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "p--lock"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "p"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "p--lock"
+verify_ssl = true
+name = ""
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
+numpy = "*"
+faker = "*"
+scikit-learn = "*"
+scipy = "*"
+prince = "*"
+plotly = "*"
+pingouin = "*"
+imblearn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

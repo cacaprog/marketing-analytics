@@ -1,0 +1,1031 @@
+campaign_id,campaign_name,date_sent,subject_line,platform,country,recipient_count,delivered_count,opened_count,clicked_count,bounced_count,unsubscribe_count,spam_report_count,conversions
+campaign_2,Campaign 2 - Brother Promotion,2024-08-01,Your Feedback Matters,GAds,United Kingdom,49368,35694,21778,14918,257,369,30,983
+campaign_18,Campaign 18 - Almost Promotion,2024-08-01,Welcome to Our Newsletter,Google Ads,India,25670,7756,1289,942,878,97,197,495
+campaign_43,Campaign 43 - Save Promotion,2024-08-01,New Arrivals Available Now,FB Ads,France,7461,5927,5007,529,799,184,97,55
+campaign_24,Campaign 24 - Play Promotion,2024-08-01,Unlock Your Premium Features,LinkedIn Ads,France,8339,2404,2390,366,479,334,97,832
+campaign_38,Campaign 38 - True Promotion,2024-08-01,Your Feedback Matters,LinkedIn Ads,China,91308,22793,308,300,221,454,22,244
+campaign_32,Campaign 32 - Kind Promotion,2024-08-01,New Arrivals Available Now,LinkedIn Ads,France,41086,6826,2663,812,207,362,86,927
+campaign_19,Campaign 19 - All Promotion,2024-08-01,Welcome to Our Newsletter,Instagram Ads,China,43636,4733,908,472,264,423,13,780
+campaign_35,Campaign 35 - Perform Promotion,2024-08-01,Thank You for Being a Loyal Customer,LinkedIn Ads,Canada,94796,13221,12372,9939,35,282,115,430
+campaign_5,Campaign 5 - Face Promotion,2024-08-01,Special Invitation: Join Us Today,Instagram Ads,Australia,33512,-13468,-341,-507,976,298,2,378
+campaign_22,Campaign 22 - Early Promotion,2024-08-01,Your Feedback Matters,Email Campaign,France,59495,32499,7993,1446,675,54,183,961
+campaign_9,Campaign 9 - Since Promotion,2024-08-01,New Arrivals Available Now,Insta Ads,China,60839,26178,15771,10680,170,356,40,943
+campaign_41,Campaign 41 - Sure Promotion,2024-08-01,Unlock Your Premium Features,Instagram Ads,Germany,73449,4075,3241,2174,681,402,89,338
+campaign_12,Campaign 12 - Sit Promotion,2024-08-01,Limited Time Discount Inside,FB Ads,Brazil,82937,47498,46062,7088,238,285,193,923
+campaign_33,Campaign 33 - Discussion Promotion,2024-08-01,New Arrivals Available Now,Insta Ads,China,85305,42884,13078,10311,445,251,26,505
+campaign_29,Campaign 29 - Rate Promotion,2024-08-01,Last Chance to Save Big!,Google Ads,Germany,7840,7512,5546,2528,120,201,98,373
+campaign_4,Campaign 4 - Site Promotion,2024-09-01,Don't Miss Out on Our Summer Sale,FB Ads,Japan,86990,52274,46554,20338,658,416,179,766
+campaign_5,Campaign 5 - Face Promotion,2024-09-01,Thank You for Being a Loyal Customer,Google Ads,United States,21701,16487,6635,2403,661,393,146,766
+campaign_20,Campaign 20 - Better Promotion,2024-09-01,Last Chance to Save Big!,GAds,Australia,22270,2282,115,79,218,376,84,394
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-01,Exclusive Offer Just for You!,Email Campaign,United States,35838,32951,8451,6601,945,422,28,821
+campaign_35,Campaign 35 - Perform Promotion,2024-09-01,Limited Time Discount Inside,FB Ads,United States,52216,11730,7967,2387,683,127,27,883
+campaign_35,Campaign 35 - Perform Promotion,2024-09-01,Special Invitation: Join Us Today,Facebook Ads,Canada,64733,26282,21526,12394,187,443,126,465
+campaign_37,Campaign 37 - Table Promotion,2024-09-01,Last Chance to Save Big!,GAds,France,68763,58361,28503,1234,561,289,39,396
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-01,Thank You for Being a Loyal Customer,,Canada,17581,3750,3709,1518,986,295,47,319
+campaign_48,Campaign 48 - Dinner Promotion,2024-10-01,Don't Miss Out on Our Summer Sale,Email Campaign,India,54248,39832,18298,17313,164,101,140,-234
+campaign_36,Campaign 36 - Fall Promotion,2024-10-01,Limited Time Discount Inside,FB Ads,Australia,54941,40074,12443,2331,704,351,182,338
+campaign_25,Campaign 25 - Agreement Promotion,2024-10-01,New Arrivals Available Now,Insta Ads,Brazil,28810,4272,712,711,774,416,50,515
+campaign_26,Campaign 26 - Option Promotion,2024-10-01,Your Feedback Matters,Instagram Ads,Brazil,1780,1681,1042,136,849,54,24,589
+campaign_6,Campaign 6 - Election Promotion,2024-10-01,Limited Time Discount Inside,,Brazil,77550,55632,12957,6273,251,335,86,851
+campaign_8,Campaign 8 - Pm Blitz,2024-10-01,Super Sale! Unbeatable Prices Inside!,Instagram Ads,Japan,946980,161725,298492,10824,3725,262,156,5012
+campaign_36,Campaign 36 - Fall Promotion,2024-10-01,Limited Time Discount Inside,Google Ads,Australia,46243,2243,1924,233,356,187,66,182
+campaign_8,Campaign 8 - Chair Promotion,2024-10-01,Limited Time Discount Inside,Email Campaign,France,24010,3857,2564,2206,339,103,87,950
+campaign_43,Campaign 43 - Save Promotion,2024-10-01,Special Invitation: Join Us Today,Email Campaign,Canada,98979,68505,34007,2791,979,1,118,158
+campaign_45,Campaign 45 - Grow Promotion,2024-10-01,Welcome to Our Newsletter,Insta Ads,United States,52805,16646,5971,5737,378,95,118,921
+campaign_10,Campaign 10 - Blue Promotion,2024-10-01,Thank You for Being a Loyal Customer,FB Ads,China,90714,18025,16094,6788,64,160,-173,771
+campaign_28,Campaign 28 - Blue Blitz,2024-08-02,Super Sale! Unbeatable Prices Inside!,Insta Ads,Australia,152701,587959,56291,29570,4474,408,229,3782
+campaign_18,Campaign 18 - Almost Promotion,2024-08-02,Welcome to Our Newsletter,Instagram Ads,Australia,27462,14523,207,171,517,136,193,654
+campaign_13,Campaign 13 - Wait Promotion,2024-08-02,Last Chance to Save Big!,,United States,51010,4564,2839,1828,888,394,167,960
+campaign_20,Campaign 20 - Better Promotion,2024-08-02,Don't Miss Out on Our Summer Sale,,France,26774,9092,4596,1179,770,278,2,298
+campaign_49,Campaign 49 - Source Promotion,2024-08-02,Limited Time Discount Inside,Email Campaign,Brazil,18980,12293,2823,2490,758,65,23,79
+campaign_38,Campaign 38 - True Promotion,2024-08-02,Special Invitation: Join Us Today,LinkedIn Ads,Australia,45059,16705,16259,15737,706,289,59,54
+campaign_45,Campaign 45 - Grow Promotion,2024-08-02,Special Invitation: Join Us Today,,Japan,45521,32275,26586,7126,384,79,148,186
+campaign_29,Campaign 29 - Rate Promotion,2024-08-02,Special Invitation: Join Us Today,,Brazil,76324,60497,-42948,-736,789,217,162,836
+campaign_2,Campaign 2 - Brother Promotion,2024-09-02,Exclusive Offer Just for You!,Email Campaign,Brazil,34862,19005,17028,2855,416,388,121,512
+campaign_38,Campaign 38 - True Promotion,2024-09-02,Limited Time Discount Inside,Facebook Ads,Australia,43613,25720,22392,21779,650,199,170,688
+campaign_41,Campaign 41 - Sure Promotion,2024-09-02,Thank You for Being a Loyal Customer,Insta Ads,India,76424,29952,7383,5030,378,440,129,737
+campaign_44,Campaign 44 - Knowledge Promotion,2024-09-02,Special Invitation: Join Us Today,Instagram Ads,Japan,18827,16301,8342,5425,906,2,124,978
+campaign_13,Campaign 13 - Wait Promotion,2024-09-02,Special Invitation: Join Us Today,Insta Ads,China,89866,82888,54800,10060,319,168,33,151
+campaign_19,Campaign 19 - All Promotion,2024-09-02,Special Invitation: Join Us Today,Instagram Ads,Brazil,67160,59873,9863,5378,639,209,101,56
+campaign_5,Campaign 5 - Face Promotion,2024-09-02,Unlock Your Premium Features,LinkedIn Ads,China,53610,3869,3022,1990,152,263,156,412
+campaign_21,Campaign 21 - Discover Promotion,2024-09-02,Exclusive Offer Just for You!,Facebook Ads,Germany,-35875,-996,-107,-731,42,267,96,995
+campaign_14,Campaign 14 - Offer Promotion,2024-09-02,Unlock Your Premium Features,Facebook Ads,China,94311,64683,39164,36428,455,489,153,843
+campaign_12,Campaign 12 - Sit Promotion,2024-10-02,Special Invitation: Join Us Today,Instagram Ads,United Kingdom,42088,19994,19937,8938,799,185,133,433
+campaign_18,Campaign 18 - Almost Promotion,2024-10-02,Welcome to Our Newsletter,Email Campaign,United States,44077,8894,1837,364,471,337,160,618
+campaign_19,Campaign 19 - All Promotion,2024-10-02,Exclusive Offer Just for You!,LinkedIn Ads,India,38294,10073,8614,1774,596,398,25,445
+campaign_11,Campaign 11 - Require Promotion,2024-10-02,Your Feedback Matters,Email Campaign,France,45520,30971,29477,946,264,324,56,245
+campaign_27,Campaign 27 - Decide Promotion,2024-10-02,,GAds,United States,86594,80591,-40325,-632,856,91,4,487
+campaign_4,Campaign 4 - Site Promotion,2024-10-02,Welcome to Our Newsletter,GAds,Australia,15869,3948,1685,291,266,109,73,512
+campaign_46,Campaign 46 - Fall Promotion,2024-10-02,Special Invitation: Join Us Today,LinkedIn Ads,France,1446,963,147,130,834,224,16,968
+campaign_27,Campaign 27 - Decide Promotion,2024-10-02,Unlock Your Premium Features,Facebook Ads,Brazil,70174,62809,34200,17691,589,124,196,246
+campaign_38,Campaign 38 - True Promotion,2024-10-02,Welcome to Our Newsletter,LinkedIn Ads,United States,6269,2947,395,118,283,294,-53,859
+campaign_13,Campaign 13 - Wait Promotion,2024-10-02,Welcome to Our Newsletter,Instagram Ads,China,49114,17274,9940,6600,222,370,123,855
+campaign_10,Campaign 10 - Blue Promotion,2024-10-02,Unlock Your Premium Features,FB Ads,Japan,25100,17452,13319,3674,679,184,192,496
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-03,Special Invitation: Join Us Today,LinkedIn Ads,India,61332,54674,15015,10863,336,35,71,531
+campaign_44,Campaign 44 - Knowledge Promotion,2024-08-03,Unlock Your Premium Features,Email Campaign,Australia,6946,5043,4834,3057,0,9,12,418
+campaign_24,Campaign 24 - Play Promotion,2024-08-03,Your Feedback Matters,GAds,China,94232,1185,404,125,399,407,122,125
+campaign_8,Campaign 8 - Chair Promotion,2024-08-03,,Insta Ads,United States,55266,25719,12399,7905,591,351,115,876
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-03,Welcome to Our Newsletter,Instagram Ads,United States,80276,45842,41665,33172,927,26,108,55
+campaign_25,Campaign 25 - Agreement Promotion,2024-08-03,Last Chance to Save Big!,Instagram Ads,Canada,95641,59378,49060,20939,621,102,95,849
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-03,Welcome to Our Newsletter,FB Ads,Brazil,53990,28733,9226,4522,820,204,170,424
+campaign_14,Campaign 14 - Offer Promotion,2024-08-03,Special Invitation: Join Us Today,FB Ads,India,10296,9628,6873,2046,997,33,177,813
+campaign_34,Campaign 34 - List Promotion,2024-09-03,Limited Time Discount Inside,GAds,China,22137,2957,347,270,782,228,-190,336
+campaign_29,Campaign 29 - Rate Promotion,2024-09-03,Special Invitation: Join Us Today,LinkedIn Ads,Germany,24462,1249,839,55,336,188,128,631
+campaign_4,Campaign 4 - Site Promotion,2024-09-03,New Arrivals Available Now,Instagram Ads,China,20194,6585,6327,667,791,237,194,707
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-03,,Google Ads,Canada,45845,40030,28564,9297,779,316,130,297
+campaign_9,Campaign 9 - Since Promotion,2024-09-03,Special Invitation: Join Us Today,Email Campaign,Brazil,37099,27227,10962,857,942,190,77,873
+campaign_22,Campaign 22 - Early Promotion,2024-10-03,Exclusive Offer Just for You!,Email Campaign,United Kingdom,76649,64134,9591,3255,9,438,173,889
+campaign_16,Campaign 16 - Performance Promotion,2024-10-03,Limited Time Discount Inside,FB Ads,Germany,36043,28617,2176,1903,539,240,173,931
+campaign_20,Campaign 20 - Better Promotion,2024-10-03,Exclusive Offer Just for You!,Email Campaign,United States,52891,28754,18822,12308,86,43,132,607
+campaign_36,Campaign 36 - Fall Promotion,2024-10-03,Unlock Your Premium Features,GAds,Germany,27965,21656,6099,4121,401,138,117,159
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-04,Special Invitation: Join Us Today,GAds,United States,85678,26112,24349,22737,200,148,113,863
+campaign_8,Campaign 8 - Chair Promotion,2024-08-04,Limited Time Discount Inside,,France,2610,1866,407,68,935,335,82,947
+campaign_28,Campaign 28 - Sense Promotion,2024-08-04,Welcome to Our Newsletter,Facebook Ads,France,53178,51604,32158,22568,297,110,200,585
+campaign_47,Campaign 47 - Clearly Promotion,2024-08-04,Limited Time Discount Inside,Insta Ads,Canada,70306,52228,38264,30940,568,497,146,977
+campaign_30,Campaign 30 - Science Promotion,2024-08-04,Thank You for Being a Loyal Customer,LinkedIn Ads,India,40316,39023,7408,3676,199,325,116,267
+campaign_27,Campaign 27 - Decide Promotion,2024-08-04,Limited Time Discount Inside,Insta Ads,India,47135,5909,5452,1937,428,423,32,260
+campaign_7,Campaign 7 - Dog Promotion,2024-08-04,New Arrivals Available Now,Instagram Ads,India,93535,81441,17656,7867,187,72,107,598
+campaign_37,Campaign 37 - Table Promotion,2024-08-04,Thank You for Being a Loyal Customer,Email Campaign,Canada,64077,19138,11773,5837,825,483,4,645
+campaign_24,Campaign 24 - Play Promotion,2024-08-04,Limited Time Discount Inside,FB Ads,Germany,44741,6457,5052,3561,614,217,170,649
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-04,New Arrivals Available Now,Google Ads,Australia,56374,28501,22905,778,386,165,125,701
+campaign_16,Campaign 16 - Performance Promotion,2024-08-04,Exclusive Offer Just for You!,Email Campaign,United Kingdom,25182,24071,10485,2473,552,273,6,521
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-04,New Arrivals Available Now,Insta Ads,United States,53620,1452,1293,719,550,158,192,866
+campaign_7,Campaign 7 - Dog Promotion,2024-08-04,Exclusive Offer Just for You!,Instagram Ads,China,98057,23765,10945,7620,414,95,110,765
+campaign_49,Campaign 49 - Source Promotion,2024-08-04,Unlock Your Premium Features,Facebook Ads,United Kingdom,8174,1327,196,73,465,241,93,375
+campaign_1,Campaign 1 - Purpose Promotion,2024-09-04,Unlock Your Premium Features,Instagram Ads,United Kingdom,32029,27110,13610,12117,801,410,188,283
+campaign_16,Campaign 16 - Performance Promotion,2024-09-04,Special Invitation: Join Us Today,Insta Ads,Germany,42193,8129,4161,2411,41,252,72,763
+campaign_16,Campaign 16 - Performance Promotion,2024-09-04,Special Invitation: Join Us Today,Insta Ads,Germany,42193,8129,4161,2411,41,252,72,763
+campaign_10,Campaign 10 - Blue Promotion,2024-09-04,Unlock Your Premium Features,Insta Ads,Germany,70979,56263,34357,25010,686,136,41,709
+campaign_32,Campaign 32 - Kind Promotion,2024-09-04,Unlock Your Premium Features,Google Ads,China,48534,46361,34891,10453,169,439,192,563
+campaign_11,Campaign 11 - Require Promotion,2024-09-04,Unlock Your Premium Features,GAds,Australia,13190,13168,1345,415,362,293,191,941
+campaign_42,Campaign 42 - Collection Promotion,2024-09-04,Welcome to Our Newsletter,Google Ads,Canada,99383,6200,2378,1017,660,293,146,481
+campaign_4,Campaign 4 - Site Promotion,2024-09-04,Unlock Your Premium Features,Email Campaign,India,63722,54082,47026,30044,206,102,80,537
+campaign_9,Campaign 9 - Since Promotion,2024-10-04,Unlock Your Premium Features,Google Ads,United Kingdom,84928,70988,6386,5404,49,213,31,495
+campaign_42,Campaign 42 - Collection Promotion,2024-10-04,Exclusive Offer Just for You!,GAds,China,15029,5177,1399,1343,227,443,63,27
+campaign_37,Campaign 37 - Table Promotion,2024-10-04,Your Feedback Matters,GAds,France,61599,17938,16971,7383,32,173,177,473
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-04,Special Invitation: Join Us Today,Google Ads,Australia,7039,6375,2300,103,402,153,181,870
+campaign_7,Campaign 7 - Dog Promotion,2024-10-04,New Arrivals Available Now,Insta Ads,Japan,19249,7681,4770,2352,172,360,146,888
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-04,Thank You for Being a Loyal Customer,Facebook Ads,China,15775,11705,592,210,580,88,131,738
+campaign_9,Campaign 9 - Since Promotion,2024-08-05,Exclusive Offer Just for You!,Email Campaign,Australia,63204,23821,8575,1530,395,437,54,672
+campaign_11,Campaign 11 - Require Promotion,2024-08-05,Don't Miss Out on Our Summer Sale,Google Ads,China,89940,69325,5793,3564,821,393,150,939
+campaign_46,Campaign 46 - Fall Promotion,2024-08-05,Don't Miss Out on Our Summer Sale,LinkedIn Ads,China,88223,45926,36459,17518,103,435,10,514
+campaign_31,Campaign 31 - Offer Promotion,2024-08-05,Thank You for Being a Loyal Customer,FB Ads,Germany,28568,27107,15762,1884,16,-411,25,978
+campaign_16,Campaign 16 - Performance Promotion,2024-08-05,Limited Time Discount Inside,LinkedIn Ads,China,28504,3475,3225,368,-495,21,8,535
+campaign_13,Campaign 13 - Wait Promotion,2024-08-05,Don't Miss Out on Our Summer Sale,FB Ads,United Kingdom,93704,67965,21058,12521,174,289,38,158
+campaign_41,Campaign 41 - Sure Promotion,2024-08-05,Thank You for Being a Loyal Customer,LinkedIn Ads,United Kingdom,95004,74888,24498,1009,176,489,157,431
+campaign_26,Campaign 26 - Option Promotion,2024-08-05,Unlock Your Premium Features,Email Campaign,China,67296,8194,2556,803,861,133,174,683
+campaign_7,Campaign 7 - Dog Promotion,2024-09-05,Unlock Your Premium Features,,Australia,72611,56625,54499,16272,33,178,22,130
+campaign_12,Campaign 12 - Sit Promotion,2024-09-05,Limited Time Discount Inside,LinkedIn Ads,Germany,11480,11368,9242,6864,813,421,135,82
+campaign_41,Campaign 41 - Sure Promotion,2024-09-05,Special Invitation: Join Us Today,Google Ads,France,23710,2357,2102,1957,518,224,53,749
+campaign_26,Campaign 26 - Option Promotion,2024-09-05,Special Invitation: Join Us Today,FB Ads,Canada,96679,96357,65134,13647,485,182,143,830
+campaign_1,Campaign 1 - Purpose Promotion,2024-09-05,Last Chance to Save Big!,LinkedIn Ads,United Kingdom,11458,2554,1957,797,363,136,174,633
+campaign_34,Campaign 34 - List Promotion,2024-09-05,Last Chance to Save Big!,GAds,Brazil,42820,32386,9938,5185,762,300,176,486
+campaign_30,Campaign 30 - Science Promotion,2024-09-05,Special Invitation: Join Us Today,LinkedIn Ads,Germany,28536,11714,1313,1056,775,151,84,726
+campaign_43,Campaign 43 - Save Promotion,2024-09-05,Thank You for Being a Loyal Customer,Google Ads,United Kingdom,41438,15365,8397,523,248,189,103,812
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-05,Last Chance to Save Big!,GAds,Canada,51338,7870,6183,386,934,418,180,111
+campaign_11,Campaign 11 - Require Promotion,2024-09-05,Welcome to Our Newsletter,Email Campaign,Canada,48020,32814,5859,721,879,456,67,651
+campaign_41,Campaign 41 - Sure Promotion,2024-09-05,Unlock Your Premium Features,Insta Ads,United Kingdom,75870,43555,6013,5536,391,283,26,572
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-05,Unlock Your Premium Features,FB Ads,Australia,30004,8201,4611,1726,187,208,171,44
+campaign_2,Campaign 2 - Brother Promotion,2024-09-05,Thank You for Being a Loyal Customer,GAds,China,71539,61831,48008,21172,850,142,62,593
+campaign_18,Campaign 18 - Almost Promotion,2024-10-05,Special Invitation: Join Us Today,FB Ads,Germany,57899,6991,2899,2820,702,476,161,95
+campaign_6,Campaign 6 - Election Promotion,2024-10-05,New Arrivals Available Now,LinkedIn Ads,United Kingdom,37064,12377,7099,434,964,195,81,428
+campaign_39,Campaign 39 - According Promotion,2024-10-05,Don't Miss Out on Our Summer Sale,Google Ads,Canada,90144,49122,22761,1948,618,63,163,303
+campaign_23,Campaign 23 - Mouth Promotion,2024-10-05,Exclusive Offer Just for You!,,Japan,72089,45253,5668,3985,913,83,122,67
+campaign_15,Campaign 15 - Begin Promotion,2024-10-05,Last Chance to Save Big!,Insta Ads,United Kingdom,97721,43398,37846,21125,812,23,85,290
+campaign_7,Campaign 7 - Dog Promotion,2024-10-05,Don't Miss Out on Our Summer Sale,FB Ads,United States,18299,14690,11289,7767,788,300,67,954
+campaign_18,Campaign 18 - Almost Promotion,2024-10-05,Your Feedback Matters,Google Ads,France,31781,12509,11090,9851,829,129,97,414
+campaign_42,Campaign 42 - Collection Promotion,2024-10-05,Unlock Your Premium Features,Email Campaign,India,15674,8181,6087,4175,987,338,18,960
+campaign_30,Campaign 30 - Science Promotion,2024-10-05,Exclusive Offer Just for You!,GAds,Germany,49608,47679,47013,41592,730,150,177,632
+campaign_46,Campaign 46 - Fall Promotion,2024-10-05,Limited Time Discount Inside,Email Campaign,India,77619,71320,9411,2702,91,452,190,315
+campaign_27,Campaign 27 - Decide Promotion,2024-08-06,Exclusive Offer Just for You!,,Canada,10570,9572,7019,3345,247,60,86,641
+campaign_3,Campaign 3 - Ago Promotion,2024-08-06,Unlock Your Premium Features,GAds,India,34681,32478,9771,5599,479,72,57,751
+campaign_45,Campaign 45 - Grow Promotion,2024-08-06,Exclusive Offer Just for You!,FB Ads,Japan,30576,18946,-6294,-491,172,407,169,371
+campaign_39,Campaign 39 - According Promotion,2024-08-06,New Arrivals Available Now,Insta Ads,United States,41577,17405,1436,647,646,181,95,897
+campaign_19,Campaign 19 - All Promotion,2024-08-06,Thank You for Being a Loyal Customer,Facebook Ads,France,60694,49822,36736,7833,418,189,10,130
+campaign_20,Campaign 20 - Better Promotion,2024-08-06,Limited Time Discount Inside,FB Ads,Brazil,57300,16926,6296,2459,335,322,32,608
+campaign_46,Campaign 46 - Fall Promotion,2024-08-06,Welcome to Our Newsletter,Instagram Ads,United States,14531,12661,12540,1582,907,129,0,854
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-06,Your Feedback Matters,Insta Ads,Australia,15663,15368,2542,1562,151,21,10,225
+campaign_28,Campaign 28 - Sense Promotion,2024-08-06,Last Chance to Save Big!,Google Ads,Germany,12829,6360,4629,453,370,80,101,244
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-06,Exclusive Offer Just for You!,Facebook Ads,India,77221,3047,3039,719,135,451,112,749
+campaign_36,Campaign 36 - Fall Promotion,2024-08-06,Limited Time Discount Inside,GAds,Japan,60630,8100,1427,136,386,147,125,414
+campaign_5,Campaign 5 - Face Promotion,2024-08-06,New Arrivals Available Now,LinkedIn Ads,United Kingdom,36058,10132,4854,3475,886,416,147,204
+campaign_29,Campaign 29 - Rate Promotion,2024-08-06,New Arrivals Available Now,Facebook Ads,Australia,19541,15931,7646,-1258,176,41,52,751
+campaign_22,Campaign 22 - Early Promotion,2024-08-06,,Instagram Ads,Germany,19700,9661,6164,2090,428,93,90,524
+campaign_46,Campaign 46 - Fall Promotion,2024-09-06,Last Chance to Save Big!,Email Campaign,Germany,32395,-29411,-382,-189,795,60,98,843
+campaign_28,Campaign 28 - Sense Promotion,2024-09-06,New Arrivals Available Now,LinkedIn Ads,Canada,5728,5213,3359,223,308,323,63,777
+campaign_46,Campaign 46 - Fall Promotion,2024-09-06,Last Chance to Save Big!,LinkedIn Ads,Australia,20445,15406,10191,8605,178,-186,176,925
+campaign_16,Campaign 16 - Performance Promotion,2024-09-06,Thank You for Being a Loyal Customer,,France,51446,22717,9818,4470,627,406,175,911
+campaign_21,Campaign 21 - Discover Promotion,2024-09-06,Don't Miss Out on Our Summer Sale,FB Ads,Germany,22605,17482,975,761,472,381,49,20
+campaign_19,Campaign 19 - All Promotion,2024-09-06,Your Feedback Matters,,China,78283,40898,14228,12168,125,34,106,327
+campaign_27,Campaign 27 - Decide Promotion,2024-09-06,New Arrivals Available Now,Google Ads,France,13057,4621,4492,172,255,39,112,54
+campaign_21,Campaign 21 - Discover Promotion,2024-09-06,Exclusive Offer Just for You!,GAds,United Kingdom,66480,14244,13064,9375,982,166,178,956
+campaign_16,Campaign 16 - Performance Promotion,2024-09-06,Don't Miss Out on Our Summer Sale,Facebook Ads,Japan,24437,3421,1230,353,895,487,75,708
+campaign_38,Campaign 38 - True Promotion,2024-09-06,Unlock Your Premium Features,GAds,Brazil,3660,1338,679,300,684,438,135,652
+campaign_22,Campaign 22 - Early Promotion,2024-10-06,Limited Time Discount Inside,Facebook Ads,Canada,54317,42854,21957,4844,231,50,56,117
+campaign_13,Campaign 13 - Wait Promotion,2024-10-06,Thank You for Being a Loyal Customer,Insta Ads,China,19024,8314,345,261,687,387,45,459
+campaign_30,Campaign 30 - Science Promotion,2024-10-06,New Arrivals Available Now,LinkedIn Ads,Japan,10154,-1429,-798,-743,532,441,200,276
+campaign_30,Campaign 30 - Science Promotion,2024-10-06,Your Feedback Matters,LinkedIn Ads,Canada,9345,3071,349,174,595,50,200,818
+campaign_32,Campaign 32 - Kind Promotion,2024-10-06,Limited Time Discount Inside,LinkedIn Ads,United Kingdom,76269,61224,32680,2168,175,229,14,498
+campaign_30,Campaign 30 - Science Promotion,2024-10-06,Unlock Your Premium Features,Google Ads,Canada,53218,48423,23914,16812,450,63,67,603
+campaign_31,Campaign 31 - Offer Promotion,2024-10-06,Exclusive Offer Just for You!,GAds,Canada,87032,81327,12735,12317,584,112,36,94
+campaign_11,Campaign 11 - Require Promotion,2024-10-06,Don't Miss Out on Our Summer Sale,FB Ads,China,64113,32293,5383,3416,44,303,161,922
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-07,Your Feedback Matters,Facebook Ads,Germany,65297,45816,30890,28045,57,253,96,371
+campaign_35,Campaign 35 - Perform Promotion,2024-08-07,Welcome to Our Newsletter,Google Ads,Canada,49060,29078,17308,12118,108,17,142,78
+campaign_47,Campaign 47 - Clearly Promotion,2024-08-07,Exclusive Offer Just for You!,Instagram Ads,China,10321,9028,1571,200,585,366,158,554
+campaign_39,Campaign 39 - According Promotion,2024-08-07,,LinkedIn Ads,France,29902,3828,2659,1779,559,389,42,877
+campaign_21,Campaign 21 - Discover Promotion,2024-08-07,Limited Time Discount Inside,Facebook Ads,Canada,28862,2832,885,468,934,444,20,396
+campaign_37,Campaign 37 - Table Promotion,2024-08-07,Limited Time Discount Inside,GAds,France,95474,5939,5273,2859,381,53,128,161
+campaign_21,Campaign 21 - Discover Promotion,2024-08-07,New Arrivals Available Now,Email Campaign,Canada,72883,58273,53867,10625,18,90,136,182
+campaign_39,Campaign 39 - According Promotion,2024-08-07,,LinkedIn Ads,France,29902,3828,2659,1779,559,389,42,877
+campaign_24,Campaign 24 - Play Promotion,2024-08-07,Don't Miss Out on Our Summer Sale,FB Ads,United States,53551,41511,8553,8446,974,42,129,908
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-07,Limited Time Discount Inside,Insta Ads,Japan,53350,9965,1589,274,163,216,98,489
+campaign_7,Campaign 7 - Dog Promotion,2024-08-07,Your Feedback Matters,Insta Ads,Canada,10694,8751,8400,6903,809,359,137,946
+campaign_42,Campaign 42 - Collection Promotion,2024-08-07,Exclusive Offer Just for You!,Facebook Ads,Australia,51145,9387,785,82,740,380,194,264
+campaign_24,Campaign 24 - Play Promotion,2024-08-07,Your Feedback Matters,Insta Ads,China,30437,5415,1272,103,434,359,148,867
+campaign_49,Campaign 49 - Source Promotion,2024-08-07,,Google Ads,Japan,-72350,-922,-377,-597,367,394,142,596
+campaign_47,Campaign 47 - Husband Blitz,2024-08-07,Super Sale! Unbeatable Prices Inside!,Facebook Ads,China,477897,296143,264575,81264,4779,31,5,6553
+campaign_50,Campaign 50 - Great Promotion,2024-09-07,Thank You for Being a Loyal Customer,Insta Ads,France,78658,78081,40783,26005,619,454,110,937
+campaign_40,Campaign 40 - Song Promotion,2024-09-07,Don't Miss Out on Our Summer Sale,FB Ads,China,65978,64891,8047,3715,683,157,12,182
+campaign_22,Campaign 22 - Early Promotion,2024-09-07,Don't Miss Out on Our Summer Sale,Insta Ads,Canada,86615,2420,438,378,521,300,146,720
+campaign_28,Campaign 28 - Sense Promotion,2024-09-07,Special Invitation: Join Us Today,GAds,France,11030,7705,6183,5005,97,405,155,813
+campaign_39,Campaign 39 - According Promotion,2024-09-07,Limited Time Discount Inside,GAds,India,89211,53339,19443,17145,685,157,40,910
+campaign_16,Campaign 16 - Performance Promotion,2024-09-07,Your Feedback Matters,,Germany,77704,74206,29528,130,307,427,31,924
+campaign_46,Campaign 46 - Fall Promotion,2024-09-07,Don't Miss Out on Our Summer Sale,Instagram Ads,France,45991,2350,132,129,313,417,194,156
+campaign_4,Campaign 4 - Site Promotion,2024-09-07,Unlock Your Premium Features,FB Ads,United Kingdom,98260,3356,418,344,414,213,103,342
+campaign_38,Campaign 38 - True Promotion,2024-09-07,Welcome to Our Newsletter,Facebook Ads,France,48682,21110,13432,4721,728,70,154,112
+campaign_14,Campaign 14 - Offer Promotion,2024-09-07,New Arrivals Available Now,Facebook Ads,Germany,19208,906,776,594,630,100,81,823
+campaign_14,Campaign 14 - Offer Promotion,2024-10-07,Last Chance to Save Big!,Email Campaign,United States,24580,8525,3271,-148,815,434,157,433
+campaign_8,Campaign 8 - Chair Promotion,2024-10-07,Limited Time Discount Inside,Email Campaign,Canada,98693,46357,11102,1503,686,453,2,265
+campaign_29,Campaign 29 - Rate Promotion,2024-10-07,Welcome to Our Newsletter,Instagram Ads,France,16653,11344,5248,4507,873,314,85,878
+campaign_23,Campaign 23 - Mouth Promotion,2024-10-07,Limited Time Discount Inside,Insta Ads,France,92771,31233,14061,8403,52,137,89,262
+campaign_12,Campaign 12 - Sit Promotion,2024-10-07,Your Feedback Matters,GAds,Germany,9973,5644,3830,1164,503,9,136,114
+campaign_10,Campaign 10 - Blue Promotion,2024-10-07,Limited Time Discount Inside,Insta Ads,Brazil,25979,4431,480,478,126,230,150,147
+campaign_16,Campaign 16 - Performance Promotion,2024-10-07,Limited Time Discount Inside,Google Ads,Canada,94822,37843,35301,-6517,942,362,178,460
+campaign_47,Campaign 47 - Clearly Promotion,2024-10-07,Special Invitation: Join Us Today,Insta Ads,China,44307,20046,10172,1245,312,202,154,781
+campaign_34,Campaign 34 - List Promotion,2024-10-07,Limited Time Discount Inside,Email Campaign,India,42085,7164,1315,216,473,456,186,470
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-07,Unlock Your Premium Features,Facebook Ads,France,12239,1764,284,280,761,109,16,941
+campaign_36,Campaign 36 - Fall Promotion,2024-10-07,Exclusive Offer Just for You!,GAds,China,17326,14216,7628,7356,225,1,78,891
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-07,Welcome to Our Newsletter,Facebook Ads,United States,87106,25270,24595,24425,969,406,145,54
+campaign_41,Campaign 41 - Sure Promotion,2024-10-07,Your Feedback Matters,Instagram Ads,France,97909,36191,14661,3237,923,478,103,91
+campaign_40,Campaign 40 - Song Promotion,2024-08-08,Special Invitation: Join Us Today,,Japan,57512,4366,1778,1753,481,474,118,521
+campaign_26,Campaign 26 - Option Promotion,2024-08-08,Thank You for Being a Loyal Customer,GAds,United States,88073,64709,52514,29794,289,63,78,-370
+campaign_24,Campaign 24 - Play Promotion,2024-08-08,Your Feedback Matters,Facebook Ads,Brazil,60612,20272,9278,5839,183,235,121,791
+campaign_26,Campaign 26 - Option Promotion,2024-08-08,Exclusive Offer Just for You!,LinkedIn Ads,India,98211,27160,9603,1688,504,140,178,485
+campaign_19,Campaign 19 - All Promotion,2024-08-08,Special Invitation: Join Us Today,Email Campaign,Japan,86033,26759,2861,1420,736,64,138,105
+campaign_26,Campaign 26 - Option Promotion,2024-08-08,Exclusive Offer Just for You!,LinkedIn Ads,India,98211,27160,9603,1688,504,140,178,485
+campaign_32,Campaign 32 - Kind Promotion,2024-08-08,Your Feedback Matters,,Germany,41784,40119,28822,4141,624,36,193,359
+campaign_26,Campaign 26 - Option Promotion,2024-08-08,Exclusive Offer Just for You!,Insta Ads,Brazil,-40683,-904,-760,-716,634,464,35,750
+campaign_21,Campaign 21 - Discover Promotion,2024-08-08,Limited Time Discount Inside,LinkedIn Ads,Brazil,11245,8552,3336,772,310,229,51,810
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-08,Thank You for Being a Loyal Customer,Email Campaign,Japan,18643,2631,2140,783,695,155,24,686
+campaign_32,Campaign 32 - Kind Promotion,2024-08-08,Unlock Your Premium Features,Google Ads,United Kingdom,7943,3835,3272,2564,423,375,153,193
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-08,Thank You for Being a Loyal Customer,FB Ads,Australia,99093,37337,13902,2885,752,394,124,39
+campaign_32,Campaign 32 - Kind Promotion,2024-08-08,Unlock Your Premium Features,Google Ads,United Kingdom,7943,3835,3272,2564,423,375,153,193
+campaign_31,Campaign 31 - Offer Promotion,2024-09-08,,Instagram Ads,United Kingdom,30214,26058,15099,3332,588,457,147,801
+campaign_31,Campaign 31 - Offer Promotion,2024-09-08,Exclusive Offer Just for You!,Google Ads,Brazil,5471,2848,1421,-1034,352,445,147,229
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-08,Exclusive Offer Just for You!,GAds,Brazil,31862,29061,14480,14459,659,17,20,973
+campaign_41,Campaign 41 - Sure Promotion,2024-09-08,Special Invitation: Join Us Today,Email Campaign,United Kingdom,5015,2275,820,400,274,478,117,210
+campaign_46,Campaign 46 - Fall Promotion,2024-09-08,Last Chance to Save Big!,Email Campaign,China,94337,36060,22087,11862,447,241,69,963
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-08,Welcome to Our Newsletter,GAds,Canada,31046,24496,12072,5191,809,185,145,188
+campaign_49,Campaign 49 - Source Promotion,2024-09-08,Special Invitation: Join Us Today,FB Ads,United States,3265,2364,497,442,845,277,75,593
+campaign_36,Campaign 36 - Fall Promotion,2024-09-08,Thank You for Being a Loyal Customer,Facebook Ads,United States,92610,22970,6887,2943,254,460,153,993
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-08,Last Chance to Save Big!,Google Ads,Germany,10689,-8705,-685,-710,702,230,60,637
+campaign_41,Campaign 41 - Sure Promotion,2024-09-08,Special Invitation: Join Us Today,Email Campaign,United Kingdom,91486,30009,29554,14502,299,76,33,537
+campaign_22,Campaign 22 - Early Promotion,2024-09-08,Special Invitation: Join Us Today,Instagram Ads,United Kingdom,79855,14870,8919,5226,965,112,116,300
+campaign_41,Campaign 41 - Sure Promotion,2024-09-08,Special Invitation: Join Us Today,Email Campaign,United Kingdom,91486,30009,29554,14502,299,76,33,537
+campaign_4,Campaign 4 - Site Promotion,2024-10-08,Thank You for Being a Loyal Customer,Facebook Ads,Australia,14875,10548,1388,685,226,86,162,532
+campaign_20,Campaign 20 - Better Promotion,2024-10-08,Special Invitation: Join Us Today,Google Ads,Canada,61844,58567,6737,5585,464,300,26,-740
+campaign_13,Campaign 13 - Wait Promotion,2024-10-08,Welcome to Our Newsletter,Insta Ads,France,87969,34383,18713,8939,670,34,69,944
+campaign_20,Campaign 20 - Better Promotion,2024-10-08,New Arrivals Available Now,Insta Ads,Germany,66213,25959,14573,10623,923,431,139,814
+campaign_45,Campaign 45 - Grow Promotion,2024-10-08,Limited Time Discount Inside,Google Ads,China,76887,37263,2159,1804,626,389,18,651
+campaign_21,Campaign 21 - Discover Promotion,2024-10-08,Don't Miss Out on Our Summer Sale,GAds,India,50250,3384,3070,1867,336,162,194,820
+campaign_46,Campaign 46 - Fall Promotion,2024-10-08,Don't Miss Out on Our Summer Sale,Instagram Ads,Germany,95942,94120,78846,49892,205,412,34,995
+campaign_23,Campaign 23 - Mouth Promotion,2024-10-08,New Arrivals Available Now,LinkedIn Ads,Japan,21142,7181,5929,4640,916,322,111,439
+campaign_4,Campaign 4 - Site Promotion,2024-10-08,New Arrivals Available Now,Instagram Ads,Canada,62462,20745,19479,16674,472,29,73,894
+campaign_34,Campaign 34 - List Promotion,2024-10-08,Exclusive Offer Just for You!,,France,62619,3258,1207,737,524,401,181,975
+campaign_4,Campaign 4 - Site Promotion,2024-10-08,Welcome to Our Newsletter,Instagram Ads,Australia,82885,22597,1531,1435,992,145,200,556
+campaign_41,Campaign 41 - Sure Promotion,2024-08-09,Welcome to Our Newsletter,Email Campaign,France,6004,5259,4395,-1575,811,26,7,898
+campaign_4,Campaign 4 - Best Blitz,2024-08-09,Super Sale! Unbeatable Prices Inside!,Google Ads,United States,723438,441504,458647,40991,3202,914,410,7784
+campaign_11,Campaign 11 - Require Promotion,2024-08-09,Special Invitation: Join Us Today,Insta Ads,India,81200,52995,27181,18320,379,247,78,802
+campaign_43,Campaign 43 - Save Promotion,2024-08-09,Thank You for Being a Loyal Customer,Email Campaign,Australia,7556,5723,1065,859,594,181,126,667
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-09,New Arrivals Available Now,Google Ads,Brazil,65042,-61789,-471,-949,826,29,145,97
+campaign_9,Campaign 9 - Since Promotion,2024-08-09,Don't Miss Out on Our Summer Sale,Insta Ads,Japan,78296,8893,8661,7829,241,40,182,594
+campaign_7,Campaign 7 - Dog Promotion,2024-08-09,New Arrivals Available Now,GAds,United States,12253,3221,1505,473,356,224,115,317
+campaign_31,Campaign 31 - Offer Promotion,2024-08-09,Last Chance to Save Big!,Facebook Ads,Brazil,43970,17986,9649,2351,69,358,80,379
+campaign_32,Campaign 32 - Kind Promotion,2024-09-09,Welcome to Our Newsletter,GAds,Brazil,11775,4583,434,129,280,114,56,241
+campaign_9,Campaign 9 - Since Promotion,2024-09-09,Last Chance to Save Big!,FB Ads,Japan,78826,40021,31671,9109,882,335,166,163
+campaign_19,Campaign 19 - All Promotion,2024-09-09,Exclusive Offer Just for You!,Google Ads,Japan,94502,69028,55059,44671,894,380,88,-296
+campaign_6,Campaign 6 - Election Promotion,2024-09-09,Unlock Your Premium Features,Google Ads,India,40107,36580,24956,8160,158,479,195,838
+campaign_24,Campaign 24 - Play Promotion,2024-09-09,Special Invitation: Join Us Today,FB Ads,France,80215,63319,29891,5153,149,163,153,73
+campaign_42,Campaign 42 - Surface Blitz,2024-09-09,Super Sale! Unbeatable Prices Inside!,Google Ads,United Kingdom,458949,279880,162550,87032,2210,773,42,3325
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-09,New Arrivals Available Now,Instagram Ads,United Kingdom,36321,29642,14496,5845,5,445,28,51
+campaign_7,Campaign 7 - Dog Promotion,2024-09-09,Unlock Your Premium Features,Insta Ads,Canada,53727,36064,10106,5127,943,413,83,659
+campaign_35,Campaign 35 - Perform Promotion,2024-09-09,,Email Campaign,Australia,2739,990,888,776,490,136,69,202
+campaign_10,Campaign 10 - Blue Promotion,2024-09-09,Unlock Your Premium Features,GAds,France,96594,2361,679,55,403,484,53,935
+campaign_27,Campaign 27 - Decide Promotion,2024-10-09,Special Invitation: Join Us Today,Instagram Ads,Japan,40089,33583,21787,9549,257,183,40,86
+campaign_20,Campaign 20 - Better Promotion,2024-10-09,Thank You for Being a Loyal Customer,Google Ads,India,50465,46340,8458,7290,625,33,14,311
+campaign_25,Campaign 25 - Agreement Promotion,2024-10-09,Last Chance to Save Big!,GAds,United Kingdom,21847,7576,310,128,724,497,97,761
+campaign_23,Campaign 23 - Mouth Promotion,2024-10-09,Unlock Your Premium Features,Facebook Ads,Canada,14443,7704,7572,1906,150,146,175,915
+campaign_17,Campaign 17 - Knowledge Promotion,2024-10-09,Your Feedback Matters,Instagram Ads,Germany,94528,85989,77958,41914,894,133,151,828
+campaign_13,Campaign 13 - Wait Promotion,2024-10-09,Special Invitation: Join Us Today,FB Ads,United Kingdom,20605,8135,5618,3268,770,258,110,413
+campaign_42,Campaign 42 - Collection Promotion,2024-08-10,Limited Time Discount Inside,Facebook Ads,China,20557,6387,6078,2902,94,244,188,68
+campaign_2,Campaign 2 - Brother Promotion,2024-08-10,Thank You for Being a Loyal Customer,GAds,Australia,69327,32258,2638,1010,327,41,59,166
+campaign_30,Campaign 30 - Science Promotion,2024-08-10,Welcome to Our Newsletter,GAds,Germany,59090,45920,12070,1831,218,156,135,711
+campaign_9,Campaign 9 - Since Promotion,2024-08-10,Don't Miss Out on Our Summer Sale,Instagram Ads,India,69719,4694,1744,560,51,360,94,527
+campaign_18,Campaign 18 - Almost Promotion,2024-08-10,Last Chance to Save Big!,Facebook Ads,United Kingdom,17920,6022,926,555,214,9,66,172
+campaign_44,Campaign 44 - Knowledge Promotion,2024-08-10,Special Invitation: Join Us Today,LinkedIn Ads,Brazil,74142,16407,16402,10549,629,15,151,381
+campaign_30,Campaign 30 - Science Promotion,2024-08-10,Thank You for Being a Loyal Customer,Instagram Ads,Japan,94427,43200,4347,1745,470,308,61,482
+campaign_26,Campaign 26 - Option Promotion,2024-08-10,New Arrivals Available Now,LinkedIn Ads,India,93566,68145,19944,18503,732,71,195,955
+campaign_37,Campaign 37 - Table Promotion,2024-08-10,Welcome to Our Newsletter,LinkedIn Ads,Canada,83781,45488,28437,16840,412,97,123,775
+campaign_12,Campaign 12 - Sit Promotion,2024-09-10,Your Feedback Matters,LinkedIn Ads,Japan,95478,31807,28159,4829,756,412,-107,924
+campaign_20,Campaign 20 - Better Promotion,2024-09-10,Special Invitation: Join Us Today,Google Ads,France,68193,20466,7557,6186,239,402,119,482
+campaign_42,Campaign 42 - Collection Promotion,2024-09-10,Thank You for Being a Loyal Customer,Email Campaign,Germany,41404,25206,22286,11454,435,484,122,150
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-10,Exclusive Offer Just for You!,LinkedIn Ads,China,56884,32611,26245,25297,448,345,117,722
+campaign_14,Campaign 14 - Offer Promotion,2024-09-10,Special Invitation: Join Us Today,Instagram Ads,Canada,25671,12705,2627,564,73,73,124,149
+campaign_2,Campaign 2 - Brother Promotion,2024-09-10,Unlock Your Premium Features,LinkedIn Ads,China,77019,43137,29077,16800,922,376,21,689
+campaign_34,Campaign 34 - List Promotion,2024-09-10,Thank You for Being a Loyal Customer,Instagram Ads,United Kingdom,99376,4108,3328,2639,374,-405,44,978
+campaign_49,Campaign 49 - Source Promotion,2024-09-10,Unlock Your Premium Features,FB Ads,United States,13347,8243,5152,4682,166,114,171,661
+campaign_38,Campaign 38 - True Promotion,2024-09-10,Exclusive Offer Just for You!,Facebook Ads,Australia,36264,9871,9738,-7864,828,277,40,584
+campaign_18,Campaign 18 - Almost Promotion,2024-09-10,Your Feedback Matters,Instagram Ads,Brazil,65336,49127,20422,19825,681,188,125,407
+campaign_36,Campaign 36 - Fall Promotion,2024-09-10,Unlock Your Premium Features,FB Ads,Germany,76690,54010,34406,10987,511,18,153,872
+campaign_19,Campaign 19 - All Promotion,2024-10-10,Special Invitation: Join Us Today,Email Campaign,Australia,26397,19437,18618,4252,130,291,133,290
+campaign_49,Campaign 49 - Source Promotion,2024-10-10,Welcome to Our Newsletter,Instagram Ads,France,36481,17046,10618,5313,175,342,174,153
+campaign_25,Campaign 25 - Agreement Promotion,2024-10-10,New Arrivals Available Now,LinkedIn Ads,Canada,71178,50459,43305,5487,642,296,28,620
+campaign_3,Campaign 3 - Ago Promotion,2024-10-10,Thank You for Being a Loyal Customer,Insta Ads,United Kingdom,6943,3393,575,188,379,380,138,770
+campaign_21,Campaign 21 - Discover Promotion,2024-10-10,New Arrivals Available Now,Facebook Ads,India,80761,59739,42081,33042,13,315,31,765
+campaign_32,Campaign 32 - Kind Promotion,2024-10-10,Don't Miss Out on Our Summer Sale,GAds,Germany,84920,55903,16565,2772,-730,124,56,691
+campaign_5,Campaign 5 - Face Promotion,2024-10-10,Unlock Your Premium Features,Facebook Ads,Australia,23103,19926,11163,9284,884,23,197,676
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-10,Thank You for Being a Loyal Customer,Email Campaign,India,48203,19699,5813,3232,903,378,76,480
+campaign_39,Campaign 39 - According Promotion,2024-10-10,Unlock Your Premium Features,GAds,Australia,17044,5042,1117,60,750,438,140,520
+campaign_12,Campaign 12 - Sit Promotion,2024-10-10,Last Chance to Save Big!,GAds,Japan,64131,53637,20276,8563,10,-417,34,490
+campaign_11,Campaign 11 - Require Promotion,2024-08-11,Your Feedback Matters,Insta Ads,China,74872,38052,14294,7773,174,210,149,196
+campaign_25,Campaign 25 - Agreement Promotion,2024-08-11,Last Chance to Save Big!,Insta Ads,United Kingdom,85467,7660,4833,3248,177,162,111,737
+campaign_32,Campaign 32 - Kind Promotion,2024-08-11,,GAds,France,92780,39724,35375,5026,92,468,103,159
+campaign_24,Campaign 24 - Play Promotion,2024-08-11,Last Chance to Save Big!,LinkedIn Ads,France,76607,49430,1161,678,888,255,116,370
+campaign_29,Campaign 29 - Rate Promotion,2024-08-11,Last Chance to Save Big!,Google Ads,India,53844,44659,4356,4158,273,227,155,527
+campaign_15,Campaign 15 - Begin Promotion,2024-08-11,New Arrivals Available Now,Instagram Ads,India,84623,23173,18212,2883,534,110,118,757
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-11,Last Chance to Save Big!,Insta Ads,Germany,60468,33284,13413,13376,294,195,52,853
+campaign_15,Campaign 15 - Begin Promotion,2024-08-11,New Arrivals Available Now,Google Ads,Brazil,83863,21577,-16056,-132,-183,361,72,836
+campaign_43,Campaign 43 - Save Promotion,2024-08-11,Special Invitation: Join Us Today,Instagram Ads,United Kingdom,70305,63647,28285,19341,887,24,89,660
+campaign_6,Campaign 6 - Election Promotion,2024-08-11,Special Invitation: Join Us Today,GAds,Germany,9292,5421,4066,1529,252,253,50,148
+campaign_50,Campaign 50 - Great Promotion,2024-08-11,Exclusive Offer Just for You!,Instagram Ads,Germany,31493,20928,11768,2244,-776,10,176,615
+campaign_49,Campaign 49 - Source Promotion,2024-09-11,Don't Miss Out on Our Summer Sale,Facebook Ads,France,78780,70792,39278,32652,691,-366,38,395
+campaign_20,Campaign 20 - Better Promotion,2024-09-11,Special Invitation: Join Us Today,Insta Ads,Brazil,10012,4282,1784,1725,486,294,150,743
+campaign_26,Campaign 26 - Option Promotion,2024-09-11,Limited Time Discount Inside,Email Campaign,Japan,76705,57355,48882,24808,988,320,115,907
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-11,New Arrivals Available Now,Facebook Ads,United States,92551,9598,9073,7476,780,328,113,149
+campaign_14,Campaign 14 - Offer Promotion,2024-09-11,Unlock Your Premium Features,Google Ads,France,96646,70230,63494,39684,723,311,66,648
+campaign_36,Campaign 36 - Fall Promotion,2024-09-11,Special Invitation: Join Us Today,FB Ads,India,99344,-57986,-893,-703,460,404,35,319
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-11,New Arrivals Available Now,LinkedIn Ads,India,35987,11424,9950,3957,196,408,118,456
+campaign_19,Campaign 19 - All Promotion,2024-09-11,Unlock Your Premium Features,Insta Ads,Canada,86078,71501,58450,23183,385,183,196,18
+campaign_40,Campaign 40 - Song Promotion,2024-09-11,Welcome to Our Newsletter,Facebook Ads,Japan,65499,55033,25296,5324,954,393,5,546
+campaign_19,Campaign 19 - All Promotion,2024-09-11,Thank You for Being a Loyal Customer,LinkedIn Ads,United States,19660,6411,4503,3750,832,424,167,10
+campaign_10,Campaign 10 - Blue Promotion,2024-09-11,Exclusive Offer Just for You!,,China,80194,40824,36953,29948,372,418,116,795
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-11,New Arrivals Available Now,Instagram Ads,Germany,66842,34383,25396,18658,600,397,195,72
+campaign_25,Campaign 25 - Agreement Promotion,2024-10-11,,LinkedIn Ads,China,36076,18234,13689,118,424,13,95,541
+campaign_34,Campaign 34 - List Promotion,2024-10-11,Limited Time Discount Inside,Facebook Ads,India,8938,2496,2164,1590,838,152,36,39
+campaign_24,Campaign 24 - Play Promotion,2024-10-11,Exclusive Offer Just for You!,Google Ads,Canada,14801,3492,398,286,357,328,119,194
+campaign_6,Campaign 6 - Election Promotion,2024-10-11,Thank You for Being a Loyal Customer,FB Ads,United Kingdom,95412,25023,17864,1974,859,483,12,432
+campaign_10,Campaign 10 - Blue Promotion,2024-10-11,Unlock Your Premium Features,GAds,France,24770,19489,18084,18061,687,50,148,348
+campaign_19,Campaign 19 - All Promotion,2024-10-11,Don't Miss Out on Our Summer Sale,GAds,Germany,17224,2295,316,146,514,61,136,29
+campaign_21,Campaign 21 - Discover Promotion,2024-10-11,Last Chance to Save Big!,Facebook Ads,India,75135,58086,50645,47383,726,352,14,958
+campaign_7,Campaign 7 - Dog Promotion,2024-10-11,Don't Miss Out on Our Summer Sale,GAds,Australia,91502,87198,27028,16746,401,27,61,125
+campaign_13,Campaign 13 - Wait Promotion,2024-10-11,Thank You for Being a Loyal Customer,Instagram Ads,United Kingdom,92241,52420,29649,14916,729,451,64,674
+campaign_36,Campaign 36 - Fall Promotion,2024-10-11,Unlock Your Premium Features,Google Ads,India,48785,15880,15105,10133,51,268,115,155
+campaign_7,Campaign 7 - Dog Promotion,2024-10-11,Don't Miss Out on Our Summer Sale,GAds,Australia,91502,87198,27028,16746,401,27,61,125
+campaign_15,Campaign 15 - Begin Promotion,2024-10-11,Don't Miss Out on Our Summer Sale,Facebook Ads,India,10229,5005,253,88,0,340,38,936
+campaign_21,Campaign 21 - Discover Promotion,2024-08-12,Last Chance to Save Big!,Instagram Ads,Japan,13521,1615,423,371,682,357,55,431
+campaign_10,Campaign 10 - Blue Promotion,2024-08-12,Unlock Your Premium Features,,Germany,35634,17612,-15380,-776,40,165,198,640
+campaign_5,Campaign 5 - Face Promotion,2024-08-12,Special Invitation: Join Us Today,Google Ads,United Kingdom,53034,13110,4842,125,617,171,164,515
+campaign_13,Campaign 13 - Wait Promotion,2024-08-12,Welcome to Our Newsletter,Instagram Ads,Germany,99216,5597,2551,1602,776,281,120,721
+campaign_8,Campaign 8 - Chair Promotion,2024-08-12,Unlock Your Premium Features,FB Ads,United Kingdom,78194,50495,45221,11696,971,293,197,43
+campaign_22,Campaign 22 - Early Promotion,2024-08-12,Thank You for Being a Loyal Customer,Instagram Ads,Canada,72819,56269,22926,12864,744,356,179,413
+campaign_37,Campaign 37 - Table Promotion,2024-09-12,Welcome to Our Newsletter,Instagram Ads,Germany,38850,36441,4595,1324,873,488,199,786
+campaign_14,Campaign 14 - Offer Promotion,2024-09-12,Thank You for Being a Loyal Customer,Insta Ads,Japan,60558,37079,25312,6138,7,433,182,430
+campaign_3,Campaign 3 - Ago Promotion,2024-09-12,New Arrivals Available Now,Google Ads,Australia,40132,38905,32189,14682,353,390,116,900
+campaign_7,Campaign 7 - Dog Promotion,2024-09-12,Thank You for Being a Loyal Customer,Google Ads,Japan,29905,9906,4829,3796,791,281,146,803
+campaign_5,Campaign 5 - Face Promotion,2024-09-12,Last Chance to Save Big!,GAds,France,40596,27513,2491,697,495,174,80,336
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-12,New Arrivals Available Now,LinkedIn Ads,Canada,4010,3550,1036,523,718,25,109,162
+campaign_2,Campaign 2 - Brother Promotion,2024-09-12,Last Chance to Save Big!,Insta Ads,United Kingdom,59028,39469,20113,2023,757,390,54,93
+campaign_37,Campaign 37 - Table Promotion,2024-09-12,Thank You for Being a Loyal Customer,LinkedIn Ads,India,78449,35594,2636,2423,271,-117,115,12
+campaign_37,Campaign 37 - Table Promotion,2024-09-12,Welcome to Our Newsletter,Instagram Ads,Germany,38850,36441,4595,1324,873,488,199,786
+campaign_48,Campaign 48 - Dinner Promotion,2024-09-12,Don't Miss Out on Our Summer Sale,Facebook Ads,China,80244,49250,10432,4733,330,488,105,165
+campaign_11,Campaign 11 - Require Promotion,2024-10-12,Don't Miss Out on Our Summer Sale,LinkedIn Ads,United Kingdom,47255,23512,15897,158,142,117,164,163
+campaign_3,Campaign 3 - Ago Promotion,2024-10-12,Don't Miss Out on Our Summer Sale,GAds,Brazil,49566,30043,28131,22518,923,183,70,135
+campaign_10,Campaign 10 - Blue Promotion,2024-10-12,Limited Time Discount Inside,LinkedIn Ads,India,60067,44115,38384,37199,323,86,-63,739
+campaign_10,Campaign 10 - Blue Promotion,2024-10-12,Exclusive Offer Just for You!,LinkedIn Ads,France,81439,32858,22465,12546,967,131,72,539
+campaign_27,Campaign 27 - Decide Promotion,2024-10-12,Limited Time Discount Inside,Facebook Ads,United Kingdom,54848,41654,5241,1173,533,379,31,845
+campaign_22,Campaign 22 - Early Promotion,2024-10-12,Don't Miss Out on Our Summer Sale,Facebook Ads,Japan,79525,1597,743,181,668,287,192,137
+campaign_39,Campaign 39 - According Promotion,2024-10-12,Last Chance to Save Big!,Google Ads,Germany,71651,17471,1763,1292,75,282,134,275
+campaign_4,Campaign 4 - Site Promotion,2024-10-12,New Arrivals Available Now,GAds,Canada,62925,9995,7785,93,19,427,186,443
+campaign_43,Campaign 43 - Save Promotion,2024-10-12,Last Chance to Save Big!,GAds,Germany,39445,25478,9077,7175,420,404,41,-819
+campaign_27,Campaign 27 - Decide Promotion,2024-10-12,Limited Time Discount Inside,Insta Ads,Japan,17040,2151,943,802,919,112,77,808
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-12,Your Feedback Matters,,Canada,50431,13318,8098,135,404,392,169,82
+campaign_46,Campaign 46 - Fall Promotion,2024-08-18,Welcome to Our Newsletter,FB Ads,India,62543,60367,30188,6191,509,61,40,214
+campaign_7,Campaign 7 - Throw Blitz,2024-08-16,Super Sale! Unbeatable Prices Inside!,Insta Ads,China,143260,869348,317028,71946,619,670,199,9120
+campaign_44,Campaign 44 - Knowledge Promotion,2024-07-21,Thank You for Being a Loyal Customer,GAds,China,62529,41216,-36911,-828,429,150,96,591
+campaign_46,Campaign 46 - Fall Promotion,22/07/2024,Thank You for Being a Loyal Customer,FB Ads,Australia,73564,24871,16254,13842,945,134,66,499
+campaign_4,Campaign 4 - Site Promotion,2024-09-28,Thank You for Being a Loyal Customer,LinkedIn Ads,Japan,7265,3619,3374,1688,916,173,127,386
+campaign_6,Campaign 6 - Election Promotion,2024-10-18,Last Chance to Save Big!,LinkedIn Ads,France,38101,35873,20312,16853,477,369,81,389
+campaign_22,Campaign 22 - Early Promotion,2024-09-30,Special Invitation: Join Us Today,Facebook Ads,China,15599,13033,3182,525,130,488,188,-73
+campaign_30,Campaign 30 - Science Promotion,2024-08-27,New Arrivals Available Now,Instagram Ads,Canada,22854,19410,867,340,502,192,33,981
+campaign_34,Campaign 34 - List Promotion,16/10/2024,Limited Time Discount Inside,Insta Ads,Canada,70380,26760,16330,3098,749,442,113,16
+campaign_22,Campaign 22 - Early Promotion,05/08/2024,Unlock Your Premium Features,LinkedIn Ads,France,82048,63185,43368,41866,832,324,11,763
+campaign_16,Campaign 16 - Performance Promotion,2024-09-21,,Email Campaign,Germany,9745,6827,4733,2162,487,418,131,27
+campaign_33,Campaign 33 - Discussion Promotion,2024-07-26,,GAds,Brazil,46890,43114,25005,9611,230,99,184,902
+campaign_19,Campaign 19 - All Promotion,28/07/2024,Special Invitation: Join Us Today,Email Campaign,United Kingdom,89712,78001,51844,38342,433,352,125,436
+campaign_24,Campaign 24 - Play Promotion,2024-08-14,Your Feedback Matters,FB Ads,United States,37989,7877,4991,-2582,206,16,21,588
+campaign_30,Campaign 30 - Science Promotion,2024-09-22,Welcome to Our Newsletter,GAds,Japan,40274,35777,18141,16534,450,387,124,-924
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-17,Welcome to Our Newsletter,GAds,Brazil,34332,4565,3169,512,433,126,200,381
+campaign_21,Campaign 21 - Discover Promotion,2024-08-26,Exclusive Offer Just for You!,FB Ads,United States,71688,33450,14678,6300,187,3,125,207
+campaign_3,Campaign 3 - Ago Promotion,26/09/2024,Limited Time Discount Inside,Instagram Ads,Germany,95581,75295,6995,6230,690,226,124,434
+campaign_49,Campaign 49 - Source Promotion,2024-10-14,Exclusive Offer Just for You!,LinkedIn Ads,United States,97586,14791,6915,1987,-947,403,3,227
+campaign_18,Campaign 18 - Almost Promotion,2024-09-30,Exclusive Offer Just for You!,Email Campaign,Germany,62352,21695,14286,1964,130,498,191,450
+campaign_32,Campaign 32 - Kind Promotion,04/09/2024,Don't Miss Out on Our Summer Sale,GAds,Japan,96389,79246,17579,7101,317,345,59,906
+campaign_1,Campaign 1 - Purpose Promotion,2024-07-30,Thank You for Being a Loyal Customer,Facebook Ads,Brazil,71855,13124,3972,2039,885,30,0,281
+campaign_11,Campaign 11 - Require Promotion,07/08/2024,Your Feedback Matters,Facebook Ads,India,72267,25675,-24467,-858,-535,3,52,333
+campaign_7,Campaign 7 - Dog Promotion,2024-09-14,Limited Time Discount Inside,Insta Ads,United Kingdom,81254,41439,11611,2298,167,177,200,275
+campaign_20,Campaign 20 - Better Promotion,2024-07-23,Welcome to Our Newsletter,Google Ads,Canada,18988,4536,1822,541,381,481,159,909
+campaign_32,Campaign 32 - Kind Promotion,11/09/2024,Welcome to Our Newsletter,LinkedIn Ads,United Kingdom,21898,13712,4172,627,971,457,185,977
+campaign_42,Campaign 42 - Collection Promotion,2024-08-17,Exclusive Offer Just for You!,Insta Ads,Canada,71274,-24340,-566,-716,830,266,195,190
+campaign_43,Campaign 43 - Save Promotion,2024-09-28,,LinkedIn Ads,United States,53445,33786,2792,613,404,385,154,445
+campaign_35,Campaign 35 - Perform Promotion,2024-08-31,New Arrivals Available Now,FB Ads,Brazil,46539,10575,8202,3390,442,129,85,670
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-19,Last Chance to Save Big!,Google Ads,France,6624,5542,2593,312,625,27,36,905
+campaign_30,Campaign 30 - Science Promotion,2024-08-28,Last Chance to Save Big!,LinkedIn Ads,United States,7400,4774,3679,2871,283,23,46,289
+campaign_4,Campaign 4 - Site Promotion,2024-09-19,Limited Time Discount Inside,Email Campaign,Japan,37932,33858,10720,9956,256,246,141,738
+campaign_23,Campaign 23 - Mouth Promotion,2024-08-16,,Google Ads,Germany,68213,34825,14539,4449,175,273,10,974
+campaign_40,Campaign 40 - Song Promotion,2024-10-13,Don't Miss Out on Our Summer Sale,Insta Ads,Canada,72991,20199,11854,2452,272,281,96,655
+campaign_11,Campaign 11 - Require Promotion,2024-10-18,Limited Time Discount Inside,FB Ads,Germany,1037,922,898,735,600,7,17,572
+campaign_5,Campaign 5 - Face Promotion,2024-09-18,Your Feedback Matters,Instagram Ads,India,85972,25305,-11146,-859,690,89,163,856
+campaign_34,Campaign 34 - List Promotion,2024-09-22,Exclusive Offer Just for You!,Facebook Ads,China,78289,30981,334,91,376,424,54,17
+campaign_43,Campaign 43 - Save Promotion,2024-09-15,Your Feedback Matters,Facebook Ads,China,43788,26755,8784,4129,595,316,79,400
+campaign_34,Campaign 34 - List Promotion,2024-08-23,Limited Time Discount Inside,Google Ads,Japan,92394,6456,6313,1300,140,165,162,29
+campaign_45,Campaign 45 - Grow Promotion,2024-08-17,Special Invitation: Join Us Today,GAds,Canada,16147,12904,10330,8482,1000,412,137,933
+campaign_15,Campaign 15 - Begin Promotion,2024-10-18,Limited Time Discount Inside,Google Ads,France,12062,10657,2625,1741,243,371,53,872
+campaign_27,Campaign 27 - Decide Promotion,2024-08-31,Last Chance to Save Big!,Insta Ads,France,56898,10276,10044,5538,918,240,75,174
+campaign_50,Campaign 50 - Great Promotion,2024-09-25,Your Feedback Matters,GAds,China,97485,68625,60107,28757,932,421,125,737
+campaign_10,Campaign 10 - Blue Promotion,2024-10-13,New Arrivals Available Now,LinkedIn Ads,India,-47548,-981,-919,-348,382,23,126,744
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-24,Don't Miss Out on Our Summer Sale,Insta Ads,United States,11048,5845,2556,2261,424,319,171,194
+campaign_3,Campaign 3 - Ago Promotion,2024-09-23,Limited Time Discount Inside,,France,87363,60936,2141,2011,436,251,113,92
+campaign_6,Campaign 6 - Election Promotion,2024-07-29,,Instagram Ads,United Kingdom,96589,55997,25166,12419,699,447,167,131
+campaign_13,Campaign 13 - Wait Promotion,2024-07-23,Your Feedback Matters,LinkedIn Ads,Japan,67655,13955,8040,4404,203,234,182,263
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-21,Welcome to Our Newsletter,LinkedIn Ads,Brazil,8331,1162,921,266,580,161,127,946
+campaign_5,Campaign 5 - Face Promotion,2024-09-24,Thank You for Being a Loyal Customer,Google Ads,India,52543,16676,11663,4659,903,344,137,-120
+campaign_43,Campaign 43 - Save Promotion,2024-08-26,Unlock Your Premium Features,Insta Ads,India,61324,57194,44010,11959,46,474,163,634
+campaign_48,Campaign 48 - Dinner Promotion,2024-10-14,Last Chance to Save Big!,Email Campaign,Japan,21207,6547,6020,1523,386,339,131,694
+campaign_15,Campaign 15 - Begin Promotion,2024-07-25,Welcome to Our Newsletter,,Canada,82051,18009,-1737,-976,812,312,151,847
+campaign_9,Campaign 9 - Since Promotion,2024-08-28,Your Feedback Matters,FB Ads,Australia,91017,45822,32224,6224,928,206,-57,144
+campaign_46,Campaign 46 - Fall Promotion,2024-07-26,Welcome to Our Newsletter,LinkedIn Ads,Japan,4823,4349,2360,1635,154,410,30,24
+campaign_14,Campaign 14 - Offer Promotion,2024-08-24,Special Invitation: Join Us Today,FB Ads,Brazil,40666,20712,12362,3361,454,409,128,358
+campaign_12,Campaign 12 - Sit Promotion,2024-08-22,Thank You for Being a Loyal Customer,Google Ads,China,29545,8632,5416,-2311,405,4,148,496
+campaign_29,Campaign 29 - Rate Promotion,2024-08-23,Don't Miss Out on Our Summer Sale,FB Ads,Japan,69556,23244,19276,17677,719,330,73,726
+campaign_43,Campaign 43 - Save Promotion,2024-08-13,Special Invitation: Join Us Today,Facebook Ads,Brazil,44778,23642,1859,-1432,876,89,46,827
+campaign_2,Campaign 2 - Brother Promotion,2024-08-14,Unlock Your Premium Features,Email Campaign,Japan,27680,5193,3689,2035,996,409,40,24
+campaign_41,Campaign 41 - Sure Promotion,2024-08-17,Welcome to Our Newsletter,Insta Ads,Canada,69750,56769,20895,20391,866,442,27,798
+campaign_50,Campaign 50 - Great Promotion,17/08/2024,Welcome to Our Newsletter,LinkedIn Ads,United Kingdom,85311,82346,80856,18982,283,238,186,496
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-20,Your Feedback Matters,,Germany,52592,20876,16992,1210,913,249,1,346
+campaign_4,Campaign 4 - Site Promotion,2024-09-15,Thank You for Being a Loyal Customer,FB Ads,China,38079,23075,1815,1375,337,347,64,682
+campaign_16,Campaign 16 - Performance Promotion,2024-08-30,,FB Ads,Japan,39739,19894,18899,18571,944,352,122,152
+campaign_27,Campaign 27 - Decide Promotion,2024-10-13,,Google Ads,Canada,99890,35310,14291,5636,636,218,188,836
+campaign_25,Campaign 25 - Agreement Promotion,23/07/2024,Last Chance to Save Big!,Facebook Ads,Brazil,66976,5177,3545,3232,390,438,31,822
+campaign_38,Campaign 38 - True Promotion,2024-08-18,Last Chance to Save Big!,LinkedIn Ads,Canada,40268,29199,2173,701,7,17,175,440
+campaign_50,Campaign 50 - Great Promotion,2024-10-15,,Facebook Ads,United States,77610,33487,8334,7821,661,178,185,597
+campaign_43,Campaign 43 - Save Promotion,2024-08-21,Your Feedback Matters,GAds,India,41946,29994,-18477,-396,145,477,194,655
+campaign_28,Campaign 28 - Sense Promotion,18/09/2024,Last Chance to Save Big!,LinkedIn Ads,China,2851,1462,972,363,785,130,164,89
+campaign_31,Campaign 31 - Offer Promotion,2024-09-28,Thank You for Being a Loyal Customer,FB Ads,Japan,25421,16869,15052,10994,781,32,109,997
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-30,Thank You for Being a Loyal Customer,Insta Ads,United States,40025,39768,20384,2967,206,177,8,348
+campaign_38,Campaign 38 - True Promotion,2024-07-21,Welcome to Our Newsletter,Insta Ads,China,1191,995,413,267,823,102,171,626
+campaign_6,Campaign 6 - Election Promotion,2024-09-21,Don't Miss Out on Our Summer Sale,Google Ads,Japan,68272,8467,5149,3293,3,296,108,75
+campaign_41,Campaign 41 - Sure Promotion,2024-09-30,Special Invitation: Join Us Today,Insta Ads,France,59953,19219,5591,2817,758,143,86,442
+campaign_16,Campaign 16 - Performance Promotion,2024-08-28,Last Chance to Save Big!,Instagram Ads,United Kingdom,30724,10341,875,341,170,82,73,189
+campaign_32,Campaign 32 - Kind Promotion,2024-10-16,New Arrivals Available Now,GAds,United Kingdom,7265,6627,2255,707,789,331,102,809
+campaign_8,Campaign 8 - Chair Promotion,2024-08-16,Limited Time Discount Inside,GAds,Canada,39980,4152,2351,679,3,150,160,214
+campaign_15,Campaign 15 - Begin Promotion,2024-07-22,Special Invitation: Join Us Today,GAds,India,12892,-11861,-412,-215,878,298,116,151
+campaign_21,Campaign 21 - Discover Promotion,05/09/2024,Special Invitation: Join Us Today,Insta Ads,United Kingdom,97328,21331,15894,-6299,85,471,137,754
+campaign_31,Campaign 31 - Offer Promotion,2024-07-24,,Instagram Ads,Japan,7094,5802,1490,80,228,33,121,435
+campaign_46,Campaign 46 - Fall Promotion,2024-08-13,New Arrivals Available Now,LinkedIn Ads,Brazil,35175,3176,1086,799,541,14,184,894
+campaign_46,Campaign 46 - Fall Promotion,11/10/2024,Don't Miss Out on Our Summer Sale,FB Ads,India,19623,3501,2348,2331,160,417,71,190
+campaign_50,Campaign 50 - Great Promotion,2024-08-18,Limited Time Discount Inside,Email Campaign,United Kingdom,33908,1452,1375,764,845,214,47,415
+campaign_49,Campaign 49 - Source Promotion,2024-08-31,Exclusive Offer Just for You!,Email Campaign,China,86281,83363,76384,70596,876,136,19,488
+campaign_36,Campaign 36 - Fall Promotion,2024-08-23,Special Invitation: Join Us Today,FB Ads,United Kingdom,4626,3875,1700,510,130,486,104,783
+campaign_39,Campaign 39 - According Promotion,2024-08-13,Special Invitation: Join Us Today,Email Campaign,Australia,74580,19590,17286,9565,41,155,1,468
+campaign_15,Campaign 15 - Begin Promotion,2024-10-18,Limited Time Discount Inside,Google Ads,France,12062,10657,2625,1741,243,371,53,872
+campaign_25,Campaign 25 - Agreement Promotion,2024-07-29,Thank You for Being a Loyal Customer,GAds,China,99787,11355,5231,435,713,252,31,970
+campaign_22,Campaign 22 - Early Promotion,2024-08-25,Limited Time Discount Inside,Facebook Ads,India,71063,65382,45436,14717,784,33,96,770
+campaign_15,Campaign 15 - Begin Promotion,2024-08-21,Limited Time Discount Inside,Instagram Ads,Canada,1665,945,581,566,543,414,25,256
+campaign_45,Campaign 45 - Grow Promotion,2024-09-22,Your Feedback Matters,Facebook Ads,India,14071,2540,2178,438,703,-168,180,708
+campaign_6,Campaign 6 - Election Promotion,2024-08-14,Exclusive Offer Just for You!,Google Ads,Brazil,25662,20153,18412,6894,340,465,-48,130
+campaign_43,Campaign 43 - Save Promotion,2024-08-23,Unlock Your Premium Features,LinkedIn Ads,Canada,34189,18486,14165,10745,667,378,50,88
+campaign_3,Campaign 3 - Ago Promotion,2024-07-29,Welcome to Our Newsletter,FB Ads,Australia,79301,60369,28293,23045,670,393,55,919
+campaign_16,Campaign 16 - Performance Promotion,2024-09-13,Special Invitation: Join Us Today,Facebook Ads,United Kingdom,40745,35326,4432,3128,419,139,142,591
+campaign_2,Campaign 2 - Brother Promotion,2024-08-18,Thank You for Being a Loyal Customer,Google Ads,Brazil,88670,53894,30730,20440,928,288,21,148
+campaign_3,Campaign 3 - Ago Promotion,2024-08-26,Limited Time Discount Inside,Facebook Ads,United Kingdom,93260,59053,19725,1557,57,191,62,589
+campaign_24,Campaign 24 - Play Promotion,17/09/2024,Welcome to Our Newsletter,Insta Ads,India,95671,-59955,-952,-927,460,296,55,202
+campaign_16,Campaign 16 - Performance Promotion,2024-08-30,Your Feedback Matters,FB Ads,Australia,77027,19737,-17079,-338,496,471,26,525
+campaign_35,Campaign 35 - Perform Promotion,2024-08-22,Unlock Your Premium Features,LinkedIn Ads,Australia,44895,22231,12333,6521,839,295,104,118
+campaign_48,Campaign 48 - Dinner Promotion,2024-10-16,Thank You for Being a Loyal Customer,Instagram Ads,China,84186,21866,19686,13619,189,254,43,377
+campaign_42,Campaign 42 - Collection Promotion,05/08/2024,,LinkedIn Ads,Brazil,21523,15300,13835,6499,152,299,61,726
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-23,New Arrivals Available Now,Insta Ads,Canada,84288,10772,8879,4394,587,115,23,602
+campaign_45,Campaign 45 - Grow Promotion,2024-08-25,Limited Time Discount Inside,Facebook Ads,United Kingdom,48173,47465,768,692,130,106,70,722
+campaign_31,Campaign 31 - Offer Promotion,2024-07-26,Special Invitation: Join Us Today,Email Campaign,India,80522,8674,5714,3076,291,68,18,803
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-27,Last Chance to Save Big!,FB Ads,China,84545,83601,40570,39543,788,158,131,814
+campaign_49,Campaign 49 - Source Promotion,2024-09-20,Exclusive Offer Just for You!,Instagram Ads,United States,85245,4993,1771,1458,236,151,64,619
+campaign_39,Campaign 39 - According Promotion,22/07/2024,Exclusive Offer Just for You!,Google Ads,China,22616,21774,2807,2019,100,457,95,655
+campaign_17,Campaign 17 - Knowledge Promotion,2024-07-25,Limited Time Discount Inside,GAds,India,37408,12433,791,547,56,42,76,932
+campaign_4,Campaign 4 - Site Promotion,2024-09-24,Don't Miss Out on Our Summer Sale,Email Campaign,India,41425,26803,1895,-667,785,130,30,-774
+campaign_38,Campaign 38 - True Promotion,11/08/2024,Welcome to Our Newsletter,Facebook Ads,Japan,3207,1418,1143,885,-535,295,198,514
+campaign_5,Campaign 5 - Face Promotion,2024-08-28,Limited Time Discount Inside,GAds,United Kingdom,91471,42455,36832,17971,587,194,101,987
+campaign_37,Campaign 37 - Table Promotion,2024-08-16,Exclusive Offer Just for You!,Google Ads,Brazil,64263,15258,2813,2071,685,460,186,881
+campaign_25,Campaign 25 - Agreement Promotion,2024-07-25,Unlock Your Premium Features,FB Ads,France,16027,6186,1623,198,380,399,2,21
+campaign_24,Campaign 24 - Play Promotion,2024-08-25,Welcome to Our Newsletter,Instagram Ads,Japan,47217,28676,13664,10480,821,471,107,561
+campaign_11,Campaign 11 - Require Promotion,2024-08-30,Thank You for Being a Loyal Customer,GAds,Canada,67995,30010,4302,3516,553,177,175,478
+campaign_17,Campaign 17 - Knowledge Promotion,2024-10-14,Don't Miss Out on Our Summer Sale,Instagram Ads,Australia,75838,16712,8351,1528,125,160,149,835
+campaign_43,Campaign 43 - Save Promotion,2024-08-14,Welcome to Our Newsletter,GAds,United Kingdom,81580,65289,40784,5611,922,391,170,666
+campaign_50,Campaign 50 - Great Promotion,2024-07-31,Limited Time Discount Inside,Insta Ads,Germany,28392,27064,23178,-10990,998,384,110,658
+campaign_30,Campaign 30 - Science Promotion,2024-07-23,Special Invitation: Join Us Today,Email Campaign,Japan,84211,29909,23332,2138,745,423,107,346
+campaign_18,Campaign 18 - Almost Promotion,2024-08-14,Thank You for Being a Loyal Customer,LinkedIn Ads,Brazil,90780,79818,61502,19277,399,426,167,825
+campaign_28,Campaign 28 - Sense Promotion,2024-08-26,Welcome to Our Newsletter,LinkedIn Ads,France,-9816,-962,-671,-675,182,352,97,250
+campaign_6,Campaign 6 - Election Promotion,2024-08-19,Don't Miss Out on Our Summer Sale,,United States,49916,42694,40504,32022,-544,6,-184,303
+campaign_31,Campaign 31 - Offer Promotion,2024-08-22,Your Feedback Matters,,Brazil,51122,37598,14188,7260,109,82,122,617
+campaign_50,Campaign 50 - Great Promotion,2024-08-15,Exclusive Offer Just for You!,Facebook Ads,France,51298,18659,1250,476,778,33,52,463
+campaign_26,Campaign 26 - Option Promotion,07/08/2024,New Arrivals Available Now,Instagram Ads,Canada,94480,26685,2744,181,363,347,108,935
+campaign_17,Campaign 17 - Knowledge Promotion,2024-08-29,Exclusive Offer Just for You!,Google Ads,Australia,87798,8066,6561,2122,316,358,175,897
+campaign_15,Campaign 15 - Begin Promotion,2024-09-28,Unlock Your Premium Features,LinkedIn Ads,Brazil,26391,5789,3986,704,44,186,111,641
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-17,Your Feedback Matters,Facebook Ads,United States,-31407,-984,-561,-781,516,345,101,563
+campaign_23,Campaign 23 - Mouth Promotion,2024-10-18,Limited Time Discount Inside,Email Campaign,United Kingdom,14508,9130,3191,2471,152,67,70,961
+campaign_35,Campaign 35 - Perform Promotion,2024-10-15,Thank You for Being a Loyal Customer,FB Ads,Brazil,92833,51199,50548,45177,901,497,6,995
+campaign_14,Campaign 14 - Offer Promotion,2024-07-25,Exclusive Offer Just for You!,Facebook Ads,Japan,91504,69897,36724,5177,624,241,169,89
+campaign_38,Campaign 38 - True Promotion,10/08/2024,Limited Time Discount Inside,Insta Ads,India,22782,17947,17495,10865,161,304,145,469
+campaign_26,Campaign 26 - Option Promotion,2024-08-26,Last Chance to Save Big!,,France,92812,40919,15738,11214,191,233,3,448
+campaign_21,Campaign 21 - Discover Promotion,07/09/2024,Limited Time Discount Inside,LinkedIn Ads,India,3102,959,296,66,903,427,42,55
+campaign_27,Campaign 27 - Decide Promotion,28/07/2024,Exclusive Offer Just for You!,Insta Ads,China,97721,-64099,-153,-446,712,359,35,130
+campaign_40,Campaign 40 - Song Promotion,2024-08-26,Last Chance to Save Big!,,China,34455,11752,9895,6943,586,445,75,667
+campaign_49,Campaign 49 - Source Promotion,2024-09-26,Your Feedback Matters,Email Campaign,India,77097,75752,34173,13365,236,273,49,232
+campaign_30,Campaign 30 - Science Promotion,31/08/2024,,Facebook Ads,Australia,96079,84358,55481,12104,263,380,110,822
+campaign_12,Campaign 12 - Sit Promotion,17/08/2024,Unlock Your Premium Features,Insta Ads,United Kingdom,69969,24348,18389,3507,590,234,109,180
+campaign_50,Campaign 50 - Great Promotion,2024-08-31,Unlock Your Premium Features,Facebook Ads,United Kingdom,43957,9788,7653,620,955,402,52,421
+campaign_13,Campaign 13 - Wait Promotion,2024-08-24,Special Invitation: Join Us Today,Facebook Ads,United States,55209,23726,11389,446,173,315,113,461
+campaign_28,Campaign 28 - Sense Promotion,2024-07-23,Your Feedback Matters,GAds,India,76523,39073,14665,9241,291,273,97,-518
+campaign_42,Campaign 42 - Collection Promotion,2024-08-24,Limited Time Discount Inside,FB Ads,United Kingdom,28647,17788,9573,1916,456,34,67,451
+campaign_32,Campaign 32 - Kind Promotion,2024-08-15,,Insta Ads,Canada,69386,63361,9020,4965,-257,342,187,992
+campaign_4,Campaign 4 - Site Promotion,2024-07-28,Don't Miss Out on Our Summer Sale,Instagram Ads,Brazil,19714,15258,1201,800,972,309,115,390
+campaign_15,Campaign 15 - Begin Promotion,2024-07-29,Unlock Your Premium Features,Email Campaign,Australia,3151,1129,187,104,683,481,137,603
+campaign_3,Campaign 3 - Ago Promotion,2024-09-30,New Arrivals Available Now,GAds,Australia,60609,49987,38409,24394,239,317,143,634
+campaign_34,Campaign 34 - List Promotion,31/08/2024,Thank You for Being a Loyal Customer,Email Campaign,United Kingdom,55571,21085,11194,10183,124,271,185,715
+campaign_40,Campaign 40 - Song Promotion,2024-08-27,Welcome to Our Newsletter,Facebook Ads,Japan,38167,36662,2446,1857,945,458,114,210
+campaign_47,Campaign 47 - Clearly Promotion,21/08/2024,New Arrivals Available Now,LinkedIn Ads,France,97877,36603,12320,7281,903,332,145,238
+campaign_9,Campaign 9 - Since Promotion,2024-09-17,Your Feedback Matters,Instagram Ads,China,39085,21393,3897,3155,9,339,84,458
+campaign_4,Campaign 4 - Site Promotion,2024-09-23,Special Invitation: Join Us Today,Google Ads,United States,75928,43043,32957,4104,830,175,21,186
+campaign_50,Campaign 50 - Great Promotion,2024-09-14,Unlock Your Premium Features,LinkedIn Ads,United Kingdom,65446,6128,2857,142,632,443,184,876
+campaign_18,Campaign 18 - Almost Promotion,2024-10-15,Don't Miss Out on Our Summer Sale,,India,2743,1877,929,812,498,416,92,996
+campaign_44,Campaign 44 - Knowledge Promotion,2024-08-19,New Arrivals Available Now,Instagram Ads,Brazil,31072,8420,293,285,806,53,183,461
+campaign_23,Campaign 23 - Mouth Promotion,2024-07-22,Special Invitation: Join Us Today,Instagram Ads,Japan,68503,17243,6331,6160,-435,383,189,952
+campaign_18,Campaign 18 - Almost Promotion,2024-07-26,Last Chance to Save Big!,Instagram Ads,Australia,7380,3217,327,245,261,494,102,882
+campaign_13,Campaign 13 - Wait Promotion,2024-08-21,Unlock Your Premium Features,Google Ads,United Kingdom,68649,7361,3700,1297,292,216,13,935
+campaign_35,Campaign 35 - Perform Promotion,06/08/2024,Last Chance to Save Big!,Email Campaign,United States,24754,23743,17652,1646,120,251,115,176
+campaign_18,Campaign 18 - Almost Promotion,2024-09-22,Exclusive Offer Just for You!,Email Campaign,United States,15744,15102,5827,2377,172,421,169,607
+campaign_12,Campaign 12 - Sit Promotion,2024-08-30,Thank You for Being a Loyal Customer,Google Ads,Canada,91510,29141,15715,1627,342,184,65,431
+campaign_12,Campaign 12 - Sit Promotion,2024-08-26,New Arrivals Available Now,Facebook Ads,China,9739,3026,228,174,32,428,125,728
+campaign_25,Campaign 25 - Agreement Promotion,2024-09-23,Special Invitation: Join Us Today,GAds,Australia,7440,6896,1688,874,282,252,27,671
+campaign_30,Campaign 30 - Science Promotion,2024-08-15,New Arrivals Available Now,Facebook Ads,Brazil,67508,11313,1017,585,262,93,166,243
+campaign_48,Campaign 48 - Dinner Promotion,19/08/2024,Unlock Your Premium Features,Google Ads,China,74280,37643,22273,11085,771,81,34,166
+campaign_34,Campaign 34 - List Promotion,2024-08-25,Unlock Your Premium Features,,United States,22873,8725,4410,3596,279,388,168,574
+campaign_20,Campaign 20 - Better Promotion,2024-07-29,,Google Ads,Brazil,83090,33721,31136,11217,841,406,18,644
+campaign_4,Campaign 4 - Site Promotion,2024-08-26,Don't Miss Out on Our Summer Sale,Instagram Ads,Canada,13021,4537,2963,1749,514,197,95,336
+campaign_2,Campaign 2 - Brother Promotion,2024-07-22,Last Chance to Save Big!,FB Ads,Canada,7734,4813,635,125,702,76,77,264
+campaign_31,Campaign 31 - Offer Promotion,2024-08-29,New Arrivals Available Now,FB Ads,Australia,56744,50883,50053,3674,362,71,196,848
+campaign_4,Campaign 4 - Site Promotion,2024-07-31,Special Invitation: Join Us Today,Instagram Ads,Germany,43101,22390,10143,7031,454,21,90,455
+campaign_5,Campaign 5 - Face Promotion,2024-10-16,Unlock Your Premium Features,Instagram Ads,Canada,17912,2715,2222,724,957,177,132,876
+campaign_48,Campaign 48 - Dinner Promotion,2024-07-25,Limited Time Discount Inside,GAds,Germany,24357,4484,1514,1058,766,112,46,379
+campaign_36,Campaign 36 - Fall Promotion,04/08/2024,New Arrivals Available Now,GAds,India,31210,20680,8840,5842,155,299,56,999
+campaign_28,Campaign 28 - Sense Promotion,2024-09-14,Thank You for Being a Loyal Customer,GAds,France,16264,14066,13097,1268,519,232,131,85
+campaign_42,Campaign 42 - Collection Promotion,23/07/2024,Unlock Your Premium Features,Instagram Ads,India,2145,1568,407,242,860,99,93,368
+campaign_16,Campaign 16 - Performance Promotion,2024-08-30,Last Chance to Save Big!,FB Ads,Brazil,94842,49348,898,409,456,44,113,435
+campaign_1,Campaign 1 - Purpose Promotion,2024-09-29,Exclusive Offer Just for You!,GAds,Japan,45587,29392,206,117,780,467,160,664
+campaign_40,Campaign 40 - Song Promotion,2024-09-25,Limited Time Discount Inside,Insta Ads,India,7592,2706,1206,-1064,613,83,114,753
+campaign_15,Campaign 15 - Begin Promotion,03/10/2024,Thank You for Being a Loyal Customer,LinkedIn Ads,Brazil,60636,25376,23687,11800,207,16,15,123
+campaign_46,Campaign 46 - Fall Promotion,10/09/2024,Unlock Your Premium Features,Insta Ads,Germany,52544,50257,2759,1663,86,411,92,605
+campaign_15,Campaign 15 - Begin Promotion,23/08/2024,Don't Miss Out on Our Summer Sale,Email Campaign,Japan,98799,70698,51227,9562,445,-474,97,994
+campaign_14,Campaign 14 - Offer Promotion,2024-09-26,Your Feedback Matters,Facebook Ads,United States,68652,18295,1297,1119,318,351,22,920
+campaign_45,Campaign 45 - Grow Promotion,2024-07-28,Exclusive Offer Just for You!,Google Ads,United States,15548,15036,3099,1471,670,301,162,357
+campaign_27,Campaign 27 - Decide Promotion,09/08/2024,,FB Ads,Australia,98261,77116,28263,19143,743,390,20,991
+campaign_46,Campaign 46 - Fall Promotion,14/10/2024,Your Feedback Matters,LinkedIn Ads,United States,21632,4712,2694,924,57,211,197,116
+campaign_6,Campaign 6 - Election Promotion,09/09/2024,New Arrivals Available Now,FB Ads,Brazil,57441,57228,39054,21065,711,160,101,308
+campaign_21,Campaign 21 - Discover Promotion,2024-08-31,New Arrivals Available Now,LinkedIn Ads,Germany,52781,8817,1834,405,-669,199,56,844
+campaign_13,Campaign 13 - Wait Promotion,2024-08-15,Welcome to Our Newsletter,Instagram Ads,India,20025,19408,10503,8782,121,429,186,336
+campaign_19,Campaign 19 - All Promotion,2024-08-14,,GAds,United States,93955,12692,10343,3673,505,18,180,224
+campaign_1,Campaign 1 - Purpose Promotion,2024-08-14,Don't Miss Out on Our Summer Sale,Insta Ads,Germany,96561,86549,12999,11981,882,98,114,197
+campaign_18,Campaign 18 - Almost Promotion,2024-09-23,Exclusive Offer Just for You!,Facebook Ads,United States,16818,8868,5675,432,570,77,131,116
+campaign_10,Campaign 10 - Blue Promotion,15/10/2024,Don't Miss Out on Our Summer Sale,Facebook Ads,Japan,77756,10414,8338,4987,288,224,169,170
+campaign_5,Campaign 5 - Face Promotion,2024-09-22,Exclusive Offer Just for You!,Email Campaign,Canada,73305,12200,6623,5938,420,421,32,667
+campaign_42,Campaign 42 - Collection Promotion,2024-07-21,,Facebook Ads,United States,68394,28060,24239,18198,460,390,125,538
+campaign_12,Campaign 12 - Sit Promotion,2024-09-16,Thank You for Being a Loyal Customer,,Japan,38287,34822,19881,-7320,322,420,70,533
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-18,Limited Time Discount Inside,GAds,United Kingdom,71848,5041,1075,694,453,16,168,320
+campaign_11,Campaign 11 - Require Promotion,2024-10-13,Don't Miss Out on Our Summer Sale,Instagram Ads,India,67629,45259,40340,3461,987,411,37,624
+campaign_43,Campaign 43 - Save Promotion,2024-07-29,Don't Miss Out on Our Summer Sale,Facebook Ads,United States,95997,87562,78702,21446,894,208,54,427
+campaign_28,Campaign 28 - Sense Promotion,2024-08-30,Special Invitation: Join Us Today,Insta Ads,China,8160,6865,5312,2577,226,85,199,980
+campaign_25,Campaign 25 - Agreement Promotion,2024-09-26,Unlock Your Premium Features,GAds,India,86890,67027,17147,11965,463,262,102,294
+campaign_12,Campaign 12 - Sit Promotion,21/09/2024,Thank You for Being a Loyal Customer,GAds,Australia,1946,1286,1248,561,754,424,67,650
+campaign_45,Campaign 45 - Grow Promotion,2024-07-23,Exclusive Offer Just for You!,Instagram Ads,China,2055,1612,249,147,133,94,117,198
+campaign_9,Campaign 9 - Since Promotion,2024-07-26,Unlock Your Premium Features,Email Campaign,Germany,1358,-945,-213,-905,505,46,19,113
+campaign_22,Campaign 22 - Early Promotion,2024-09-28,Welcome to Our Newsletter,Google Ads,Australia,7051,5155,2503,1872,502,267,90,532
+campaign_26,Campaign 26 - Option Promotion,11/10/2024,Thank You for Being a Loyal Customer,Instagram Ads,Canada,67450,34877,21338,19079,632,34,187,108
+campaign_18,Campaign 18 - Almost Promotion,2024-07-23,Don't Miss Out on Our Summer Sale,Instagram Ads,China,6932,6670,4910,3735,271,470,47,90
+campaign_26,Campaign 26 - Option Promotion,2024-08-31,Don't Miss Out on Our Summer Sale,LinkedIn Ads,United Kingdom,65369,19649,5411,4379,196,12,171,44
+campaign_1,Campaign 1 - Purpose Promotion,2024-09-27,Welcome to Our Newsletter,Instagram Ads,Australia,80507,28660,24848,6641,408,332,132,263
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-23,Unlock Your Premium Features,Facebook Ads,United Kingdom,63427,46184,17168,6042,51,327,137,461
+campaign_45,Campaign 45 - Grow Promotion,01/09/2024,Exclusive Offer Just for You!,GAds,France,52573,41524,5346,3302,578,422,-8,351
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-25,Welcome to Our Newsletter,Email Campaign,Germany,84614,81433,56949,47669,534,236,38,793
+campaign_28,Campaign 28 - Sense Promotion,2024-07-24,Last Chance to Save Big!,LinkedIn Ads,Canada,-4378,-947,-308,-338,584,227,116,122
+campaign_22,Campaign 22 - Early Promotion,2024-09-13,Unlock Your Premium Features,LinkedIn Ads,Brazil,12395,7560,7024,701,245,84,21,577
+campaign_41,Campaign 41 - Sure Promotion,2024-08-30,Last Chance to Save Big!,GAds,Australia,16552,14210,5544,101,43,157,58,909
+campaign_19,Campaign 19 - All Promotion,2024-08-21,Last Chance to Save Big!,FB Ads,United Kingdom,6896,1090,284,270,391,58,138,157
+campaign_49,Campaign 49 - Source Promotion,2024-08-13,Don't Miss Out on Our Summer Sale,LinkedIn Ads,India,85871,58516,17048,15791,310,350,95,625
+campaign_30,Campaign 30 - Science Promotion,2024-08-22,,GAds,Brazil,2581,2376,2216,747,659,436,133,896
+campaign_28,Campaign 28 - Sense Promotion,2024-09-25,Last Chance to Save Big!,Email Campaign,Australia,41823,10770,9362,141,214,406,127,677
+campaign_44,Campaign 44 - Knowledge Promotion,2024-07-21,Last Chance to Save Big!,Facebook Ads,Canada,48344,21501,3959,1921,92,70,98,812
+campaign_27,Campaign 27 - Decide Promotion,2024-08-13,Unlock Your Premium Features,Google Ads,Canada,30878,24314,8535,-5839,45,179,129,533
+campaign_44,Campaign 44 - Knowledge Promotion,2024-08-17,Welcome to Our Newsletter,,Japan,25263,969,-808,-584,444,23,130,621
+campaign_20,Campaign 20 - Better Promotion,2024-07-31,Thank You for Being a Loyal Customer,Instagram Ads,India,99475,99352,65450,11780,382,247,126,605
+campaign_38,Campaign 38 - True Promotion,2024-09-15,Your Feedback Matters,Google Ads,Japan,39736,35991,6065,994,129,117,136,125
+campaign_11,Campaign 11 - Require Promotion,23/08/2024,Limited Time Discount Inside,Insta Ads,China,53513,35044,3865,3409,506,103,132,44
+campaign_8,Campaign 8 - Chair Promotion,2024-08-23,,Email Campaign,Australia,13055,6332,3876,3835,841,254,174,372
+campaign_27,Campaign 27 - Decide Promotion,2024-09-20,Unlock Your Premium Features,Facebook Ads,Canada,80996,9294,4327,2312,506,322,158,248
+campaign_27,Campaign 27 - Decide Promotion,2024-10-15,Your Feedback Matters,Email Campaign,Japan,95269,68914,50076,15662,15,349,21,799
+campaign_3,Campaign 3 - Ago Promotion,17/09/2024,Exclusive Offer Just for You!,Instagram Ads,Australia,35737,26949,10866,8792,324,454,138,80
+campaign_34,Campaign 34 - List Promotion,2024-08-25,Welcome to Our Newsletter,Email Campaign,Australia,83977,-47583,-944,-685,149,489,80,559
+campaign_7,Campaign 7 - Dog Promotion,2024-08-28,Welcome to Our Newsletter,Facebook Ads,Japan,33819,11747,10349,3886,93,0,19,241
+campaign_29,Campaign 29 - Rate Promotion,2024-08-14,Exclusive Offer Just for You!,FB Ads,France,24576,10237,7975,7902,183,349,27,94
+campaign_29,Campaign 29 - Rate Promotion,2024-08-21,Your Feedback Matters,LinkedIn Ads,Germany,97745,7890,2451,625,423,96,51,312
+campaign_1,Campaign 1 - Purpose Promotion,2024-07-24,Your Feedback Matters,Facebook Ads,Germany,72482,56202,6240,4189,574,332,107,613
+campaign_24,Campaign 24 - Play Promotion,2024-08-28,Welcome to Our Newsletter,Email Campaign,France,91286,58150,45509,700,915,39,148,341
+campaign_20,Campaign 20 - Better Promotion,2024-09-25,Exclusive Offer Just for You!,GAds,United Kingdom,70784,1576,785,635,755,353,19,211
+campaign_42,Campaign 42 - Collection Promotion,2024-08-26,New Arrivals Available Now,Email Campaign,Brazil,53509,47041,1242,422,880,181,180,269
+campaign_49,Campaign 49 - Source Promotion,2024-08-25,New Arrivals Available Now,Insta Ads,United Kingdom,50050,3430,3325,528,352,223,35,445
+campaign_49,Campaign 49 - Source Promotion,2024-08-29,,Instagram Ads,Canada,21558,8292,2596,2264,748,178,118,755
+campaign_9,Campaign 9 - Since Promotion,2024-09-21,New Arrivals Available Now,Google Ads,India,-36851,-926,-879,-842,782,402,22,454
+campaign_42,Campaign 42 - Collection Promotion,28/07/2024,Your Feedback Matters,GAds,Japan,83160,9788,928,547,127,19,-167,251
+campaign_47,Campaign 47 - Clearly Promotion,12/10/2024,New Arrivals Available Now,GAds,France,77358,20952,3038,2045,292,134,9,871
+campaign_5,Campaign 5 - Face Promotion,2024-07-27,Last Chance to Save Big!,Insta Ads,United States,90224,75947,14504,7275,155,104,198,492
+campaign_49,Campaign 49 - Source Promotion,29/07/2024,Limited Time Discount Inside,Instagram Ads,India,5906,5045,1534,1190,813,278,2,578
+campaign_10,Campaign 10 - Blue Promotion,2024-08-18,New Arrivals Available Now,Facebook Ads,Brazil,96243,46218,42135,36641,627,329,129,882
+campaign_19,Campaign 19 - All Promotion,2024-09-25,New Arrivals Available Now,Google Ads,Canada,71770,32532,10059,8328,61,132,90,784
+campaign_14,Campaign 14 - Offer Promotion,2024-09-14,New Arrivals Available Now,Insta Ads,France,39559,36871,155,155,112,443,110,413
+campaign_7,Campaign 7 - Dog Promotion,2024-07-30,Don't Miss Out on Our Summer Sale,FB Ads,Australia,64968,1062,967,798,650,183,136,449
+campaign_31,Campaign 31 - Offer Promotion,2024-08-17,Welcome to Our Newsletter,FB Ads,France,89823,34851,1616,1365,405,408,135,534
+campaign_8,Campaign 8 - Chair Promotion,2024-09-26,Limited Time Discount Inside,Instagram Ads,China,13193,4692,4357,3101,765,48,163,86
+campaign_45,Campaign 45 - Grow Promotion,2024-08-29,Exclusive Offer Just for You!,Instagram Ads,Germany,99827,1059,664,351,640,117,39,100
+campaign_7,Campaign 7 - Dog Promotion,01/10/2024,Exclusive Offer Just for You!,FB Ads,United Kingdom,83323,54863,29092,2890,143,301,89,332
+campaign_9,Campaign 9 - Since Promotion,2024-10-16,Don't Miss Out on Our Summer Sale,GAds,United States,59079,21928,13756,1512,216,208,194,392
+campaign_2,Campaign 2 - Brother Promotion,2024-08-15,Don't Miss Out on Our Summer Sale,LinkedIn Ads,Brazil,40529,40248,37188,22804,677,259,3,852
+campaign_30,Campaign 30 - Science Promotion,2024-07-24,Last Chance to Save Big!,Facebook Ads,Australia,96964,3892,1123,1016,974,380,167,533
+campaign_22,Campaign 22 - Early Promotion,2024-09-13,Welcome to Our Newsletter,Email Campaign,United Kingdom,7877,5122,4961,1267,413,60,125,620
+campaign_34,Campaign 34 - List Promotion,2024-08-15,Your Feedback Matters,LinkedIn Ads,India,93126,25567,10631,3780,650,151,129,233
+campaign_50,Campaign 50 - Great Promotion,2024-09-15,Thank You for Being a Loyal Customer,Instagram Ads,France,56735,39251,24588,21578,516,10,118,22
+campaign_9,Campaign 9 - Since Promotion,2024-07-28,Last Chance to Save Big!,Instagram Ads,Japan,86904,39645,27531,24191,725,417,185,712
+campaign_8,Campaign 8 - Chair Promotion,2024-08-24,Don't Miss Out on Our Summer Sale,,China,36649,18132,2625,2142,511,85,65,925
+campaign_9,Campaign 9 - Since Promotion,2024-09-20,,FB Ads,Canada,43233,35701,370,177,898,66,128,181
+campaign_39,Campaign 39 - According Promotion,2024-09-19,Exclusive Offer Just for You!,Google Ads,United Kingdom,1366,1353,807,140,528,76,144,432
+campaign_34,Campaign 34 - List Promotion,2024-08-23,Limited Time Discount Inside,Google Ads,Japan,92394,6456,6313,1300,140,165,162,29
+campaign_4,Campaign 4 - Site Promotion,2024-08-20,Your Feedback Matters,Email Campaign,Japan,66513,3054,2455,638,1,123,47,97
+campaign_36,Campaign 36 - Fall Promotion,2024-08-13,Limited Time Discount Inside,Facebook Ads,Canada,13094,10281,2982,1976,916,8,50,88
+campaign_34,Campaign 34 - List Promotion,18/09/2024,Welcome to Our Newsletter,Instagram Ads,Brazil,42168,18827,6580,3763,600,489,-13,575
+campaign_12,Campaign 12 - Sit Promotion,2024-09-23,New Arrivals Available Now,Email Campaign,Germany,42307,22176,13611,7104,331,288,96,958
+campaign_8,Campaign 8 - Chair Promotion,2024-09-14,Welcome to Our Newsletter,FB Ads,France,52505,49092,29771,2497,139,299,27,487
+campaign_12,Campaign 12 - Sit Promotion,2024-08-23,Unlock Your Premium Features,,Japan,50681,2126,845,294,64,275,48,519
+campaign_11,Campaign 11 - Require Promotion,2024-09-30,Last Chance to Save Big!,GAds,Japan,26496,14136,4377,4197,74,174,131,907
+campaign_35,Campaign 35 - Perform Promotion,2024-09-28,Welcome to Our Newsletter,Instagram Ads,Canada,71806,21796,18898,6794,405,214,128,542
+campaign_7,Campaign 7 - Dog Promotion,2024-08-31,Your Feedback Matters,Email Campaign,United Kingdom,90463,6921,6521,183,878,233,-109,715
+campaign_27,Campaign 27 - Everything Blitz,2024-07-27,Super Sale! Unbeatable Prices Inside!,Instagram Ads,Australia,896473,406181,203687,27268,1504,369,73,2521
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-13,Limited Time Discount Inside,Insta Ads,United Kingdom,70045,2445,1647,275,781,478,63,284
+campaign_35,Campaign 35 - Perform Promotion,2024-09-17,Limited Time Discount Inside,Google Ads,United Kingdom,63456,8278,2023,1865,570,11,122,718
+campaign_32,Campaign 32 - Kind Promotion,2024-08-19,New Arrivals Available Now,FB Ads,Germany,13324,1234,224,65,97,493,3,-403
+campaign_31,Campaign 31 - Offer Promotion,2024-08-26,Last Chance to Save Big!,Instagram Ads,United States,40466,31187,17136,8790,134,191,148,881
+campaign_3,Campaign 3 - Ago Promotion,2024-09-17,Special Invitation: Join Us Today,Insta Ads,Japan,34408,10903,7870,6863,442,378,33,610
+campaign_23,Campaign 23 - Mouth Promotion,2024-08-13,,FB Ads,France,62873,40649,12213,8099,311,342,-141,143
+campaign_39,Campaign 39 - According Promotion,2024-09-26,,Google Ads,Germany,4853,2270,558,478,946,-352,120,519
+campaign_22,Campaign 22 - Early Promotion,22/08/2024,Special Invitation: Join Us Today,LinkedIn Ads,India,97033,83884,25348,18519,840,83,39,816
+campaign_2,Campaign 2 - Brother Promotion,11/09/2024,New Arrivals Available Now,LinkedIn Ads,Japan,52049,39178,1380,1229,6,152,107,762
+campaign_41,Campaign 41 - Sure Promotion,20/08/2024,Welcome to Our Newsletter,Facebook Ads,Japan,42599,1265,1084,467,435,93,72,881
+campaign_25,Campaign 25 - Agreement Promotion,2024-08-18,Exclusive Offer Just for You!,FB Ads,Germany,95929,23207,12187,8857,956,26,200,59
+campaign_42,Campaign 42 - Collection Promotion,2024-07-29,Exclusive Offer Just for You!,FB Ads,United Kingdom,92037,3139,1037,171,195,183,138,324
+campaign_50,Campaign 50 - Great Promotion,04/10/2024,Last Chance to Save Big!,,China,7320,5439,1966,1138,852,362,24,563
+campaign_47,Campaign 47 - Clearly Promotion,2024-08-13,Limited Time Discount Inside,,United States,10077,1285,1095,607,576,409,122,-61
+campaign_49,Campaign 49 - Source Promotion,2024-08-28,Welcome to Our Newsletter,Email Campaign,China,63282,41358,38783,20006,448,202,143,-810
+campaign_27,Campaign 27 - Decide Promotion,2024-07-26,Don't Miss Out on Our Summer Sale,Email Campaign,China,83684,58006,31367,24083,784,419,21,17
+campaign_50,Campaign 50 - Great Promotion,2024-07-24,Welcome to Our Newsletter,Insta Ads,Brazil,45972,20232,2793,1094,836,211,26,723
+campaign_34,Campaign 34 - List Promotion,2024-08-25,Unlock Your Premium Features,,United States,22873,8725,4410,3596,279,388,168,574
+campaign_14,Campaign 14 - Offer Promotion,2024-10-16,New Arrivals Available Now,FB Ads,France,20569,1921,868,219,398,59,192,888
+campaign_38,Campaign 38 - True Promotion,02/08/2024,Last Chance to Save Big!,Instagram Ads,United Kingdom,73559,45556,2228,1348,549,150,27,317
+campaign_20,Campaign 20 - Better Promotion,2024-08-30,Limited Time Discount Inside,Insta Ads,India,59978,2872,2465,1301,9,337,86,445
+campaign_28,Campaign 28 - Sense Promotion,2024-08-25,Last Chance to Save Big!,FB Ads,Japan,16538,8873,2874,1112,771,118,36,575
+campaign_25,Campaign 25 - Agreement Promotion,01/09/2024,Last Chance to Save Big!,Instagram Ads,France,77474,17452,4949,3435,684,270,122,297
+campaign_1,Campaign 1 - Purpose Promotion,2024-09-27,New Arrivals Available Now,GAds,Japan,35795,29379,25869,19914,118,295,11,11
+campaign_38,Campaign 38 - True Promotion,2024-09-14,Limited Time Discount Inside,GAds,Germany,54021,27870,9526,2092,261,254,-29,205
+campaign_27,Campaign 27 - Decide Promotion,2024-07-30,Last Chance to Save Big!,Google Ads,Australia,10275,2220,2061,604,106,259,89,320
+campaign_30,Campaign 30 - Science Promotion,2024-09-26,Thank You for Being a Loyal Customer,Google Ads,Japan,9487,5967,1329,294,365,291,3,876
+campaign_15,Campaign 15 - Begin Promotion,2024-10-14,New Arrivals Available Now,GAds,India,51174,4836,2268,334,950,201,125,563
+campaign_19,Campaign 19 - All Promotion,2024-09-26,Special Invitation: Join Us Today,Insta Ads,United Kingdom,54648,34726,23809,14552,10,264,21,421
+campaign_18,Campaign 18 - Almost Promotion,2024-09-29,,Email Campaign,United Kingdom,8956,4357,620,477,119,480,114,31
+campaign_14,Campaign 14 - Offer Promotion,2024-08-29,Last Chance to Save Big!,Google Ads,China,68195,44352,19408,1207,611,372,66,494
+campaign_1,Campaign 1 - Purpose Promotion,2024-10-15,Limited Time Discount Inside,LinkedIn Ads,Canada,6209,4334,2691,886,321,202,165,333
+campaign_10,Campaign 10 - Blue Promotion,2024-07-30,Thank You for Being a Loyal Customer,GAds,United States,30190,13307,3950,1869,458,255,30,773
+campaign_27,Campaign 27 - Decide Promotion,20/08/2024,Thank You for Being a Loyal Customer,Facebook Ads,India,5424,4047,446,362,19,196,57,198
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-22,Your Feedback Matters,Google Ads,United States,12689,10525,9459,5188,547,494,48,560
+campaign_39,Campaign 39 - According Promotion,2024-09-24,Limited Time Discount Inside,Google Ads,United States,23313,13198,9152,7746,212,308,142,373
+campaign_36,Campaign 36 - Fall Promotion,2024-09-21,Last Chance to Save Big!,FB Ads,China,24737,2685,387,330,130,473,108,922
+campaign_29,Campaign 29 - Rate Promotion,2024-09-19,New Arrivals Available Now,Instagram Ads,China,41144,36733,1525,1312,589,374,62,392
+campaign_25,Campaign 25 - Agreement Promotion,2024-08-26,Your Feedback Matters,Email Campaign,Germany,28259,16990,13657,10301,703,455,115,194
+campaign_24,Campaign 24 - Play Promotion,2024-07-24,Welcome to Our Newsletter,Facebook Ads,Brazil,-55590,-919,-883,-236,143,357,120,355
+campaign_9,Campaign 9 - Since Promotion,2024-10-16,Exclusive Offer Just for You!,GAds,India,92845,14651,10220,1917,509,102,133,376
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-25,Special Invitation: Join Us Today,LinkedIn Ads,France,88424,74741,52774,52533,421,125,33,508
+campaign_31,Campaign 31 - Offer Promotion,16/08/2024,Your Feedback Matters,Instagram Ads,China,23890,5860,5577,946,30,156,95,281
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-14,New Arrivals Available Now,Email Campaign,Canada,25251,6670,4118,788,21,453,100,202
+campaign_28,Campaign 28 - Sense Promotion,2024-07-25,Special Invitation: Join Us Today,FB Ads,United Kingdom,74160,5570,5238,-1171,893,344,120,843
+campaign_13,Campaign 13 - Wait Promotion,2024-09-21,Special Invitation: Join Us Today,,Germany,47580,16379,16133,13352,263,455,7,981
+campaign_34,Campaign 34 - List Promotion,2024-09-29,Limited Time Discount Inside,Email Campaign,Canada,12114,6120,1029,181,109,90,39,252
+campaign_47,Campaign 47 - Clearly Promotion,2024-08-23,Welcome to Our Newsletter,LinkedIn Ads,United Kingdom,21023,6188,4264,-919,299,78,171,589
+campaign_19,Campaign 19 - All Promotion,2024-09-23,New Arrivals Available Now,GAds,United States,93766,33134,21178,15116,336,-354,0,14
+campaign_21,Campaign 21 - Discover Promotion,2024-09-18,Your Feedback Matters,Email Campaign,India,18911,7313,1653,-1075,383,473,101,392
+campaign_4,Campaign 4 - Site Promotion,2024-07-29,Unlock Your Premium Features,Google Ads,France,62621,26254,8411,5900,353,336,197,784
+campaign_46,Campaign 46 - Fall Promotion,2024-09-26,Don't Miss Out on Our Summer Sale,Google Ads,Australia,26967,12233,2625,1650,738,330,185,506
+campaign_6,Campaign 6 - Election Promotion,2024-07-26,Don't Miss Out on Our Summer Sale,Google Ads,India,42220,-14476,-701,-197,729,475,41,590
+campaign_26,Campaign 26 - Option Promotion,2024-08-18,Don't Miss Out on Our Summer Sale,,Australia,9630,5413,5180,3364,103,421,68,185
+campaign_30,Campaign 30 - Science Promotion,17/08/2024,Limited Time Discount Inside,Instagram Ads,France,97267,72998,28641,19686,788,54,175,790
+campaign_6,Campaign 6 - Election Promotion,2024-09-28,New Arrivals Available Now,Facebook Ads,Brazil,46332,29545,2590,2564,406,167,69,471
+campaign_5,Campaign 5 - Face Promotion,2024-08-28,Last Chance to Save Big!,Email Campaign,China,40294,1990,1479,903,815,446,6,281
+campaign_48,Campaign 48 - Dinner Promotion,2024-07-23,Welcome to Our Newsletter,FB Ads,Australia,99041,45026,26054,3207,-646,414,62,930
+campaign_32,Campaign 32 - Kind Promotion,2024-08-23,Special Invitation: Join Us Today,LinkedIn Ads,Canada,47802,46329,46134,35326,98,401,181,331
+campaign_34,Campaign 34 - List Promotion,2024-09-25,Welcome to Our Newsletter,FB Ads,United Kingdom,45323,23416,16236,1068,657,355,22,469
+campaign_1,Campaign 1 - Purpose Promotion,2024-10-18,Unlock Your Premium Features,LinkedIn Ads,Canada,8665,5341,2669,2442,941,80,130,200
+campaign_20,Campaign 20 - Better Promotion,2024-10-17,Unlock Your Premium Features,Google Ads,France,21144,11721,9979,9452,390,200,98,121
+campaign_28,Campaign 28 - Sense Promotion,2024-09-19,Thank You for Being a Loyal Customer,Instagram Ads,Canada,94727,2187,834,118,5,96,24,348
+campaign_3,Campaign 3 - Ago Promotion,2024-08-20,Last Chance to Save Big!,Insta Ads,Brazil,98609,50868,43595,42780,507,64,151,112
+campaign_9,Campaign 9 - Since Promotion,2024-08-24,Special Invitation: Join Us Today,Google Ads,Japan,18342,1177,725,708,916,178,55,703
+campaign_21,Campaign 21 - Discover Promotion,2024-08-24,Limited Time Discount Inside,GAds,France,-23072,-962,-101,-149,713,213,187,190
+campaign_40,Campaign 40 - Song Promotion,2024-07-30,Don't Miss Out on Our Summer Sale,FB Ads,United Kingdom,4340,1171,214,121,644,439,13,802
+campaign_22,Campaign 22 - Early Promotion,2024-10-18,Exclusive Offer Just for You!,Facebook Ads,United States,93605,83616,64983,63390,829,423,187,240
+campaign_38,Campaign 38 - True Promotion,2024-08-19,Thank You for Being a Loyal Customer,FB Ads,Brazil,27098,2092,107,51,956,173,1,892
+campaign_36,Campaign 36 - Fall Promotion,2024-08-24,Welcome to Our Newsletter,FB Ads,United States,21017,7021,171,71,525,256,14,181
+campaign_37,Campaign 37 - Table Promotion,22/08/2024,Special Invitation: Join Us Today,Insta Ads,France,43412,22324,13939,12362,716,445,64,508
+campaign_13,Campaign 13 - Wait Promotion,2024-07-27,Special Invitation: Join Us Today,Email Campaign,Australia,24684,5211,128,82,-509,278,155,253
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-16,Thank You for Being a Loyal Customer,GAds,Australia,74647,20825,3981,2582,575,240,71,935
+campaign_12,Campaign 12 - Sit Promotion,2024-10-15,Last Chance to Save Big!,Instagram Ads,India,38304,34352,29390,12536,474,74,163,355
+campaign_5,Campaign 5 - Face Promotion,2024-08-17,Limited Time Discount Inside,Facebook Ads,Australia,70228,11137,1938,1171,207,76,133,706
+campaign_27,Campaign 27 - Decide Promotion,2024-09-25,Last Chance to Save Big!,Google Ads,United States,15532,5209,364,183,909,71,187,785
+campaign_2,Campaign 2 - Brother Promotion,2024-08-18,Welcome to Our Newsletter,Email Campaign,Japan,33662,4876,3906,2339,972,226,184,446
+campaign_45,Campaign 45 - Grow Promotion,2024-09-25,Last Chance to Save Big!,FB Ads,United Kingdom,57850,8244,1832,730,83,450,191,491
+campaign_18,Campaign 18 - Almost Promotion,2024-08-14,Special Invitation: Join Us Today,Google Ads,India,35314,30455,12212,10654,10,446,177,227
+campaign_22,Campaign 22 - Early Promotion,2024-08-13,Special Invitation: Join Us Today,Insta Ads,Japan,17414,2980,2301,130,837,415,16,608
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-15,Thank You for Being a Loyal Customer,Facebook Ads,United States,25818,3945,3857,3727,950,124,21,783
+campaign_11,Campaign 11 - Require Promotion,2024-10-14,Limited Time Discount Inside,Insta Ads,India,60591,3515,1427,1117,280,134,145,679
+campaign_37,Campaign 37 - Table Promotion,2024-08-20,Special Invitation: Join Us Today,LinkedIn Ads,Germany,-57295,-910,-436,-712,491,66,187,683
+campaign_5,Campaign 5 - Face Promotion,2024-08-26,Don't Miss Out on Our Summer Sale,GAds,United States,29047,18548,18516,4548,758,124,135,248
+campaign_30,Campaign 30 - Science Promotion,2024-09-30,Exclusive Offer Just for You!,Email Campaign,Japan,98330,70661,51226,2164,585,323,88,775
+campaign_4,Campaign 4 - Site Promotion,14/10/2024,Special Invitation: Join Us Today,,France,29074,26005,7523,1319,864,259,189,48
+campaign_33,Campaign 33 - Discussion Promotion,21/08/2024,Last Chance to Save Big!,Instagram Ads,United States,42622,5168,4476,-1441,329,73,175,400
+campaign_15,Campaign 15 - Begin Promotion,2024-08-17,Last Chance to Save Big!,Facebook Ads,India,80257,75095,24317,22845,301,479,116,293
+campaign_42,Campaign 42 - Collection Promotion,2024-09-26,Thank You for Being a Loyal Customer,LinkedIn Ads,Brazil,58542,54224,39617,19226,929,50,124,60
+campaign_22,Campaign 22 - Early Promotion,2024-10-13,Exclusive Offer Just for You!,GAds,Brazil,29208,20631,19491,4260,432,130,166,419
+campaign_8,Campaign 8 - Chair Promotion,08/08/2024,Last Chance to Save Big!,Facebook Ads,Brazil,48826,25383,21796,3360,330,80,111,993
+campaign_25,Campaign 25 - Agreement Promotion,12/08/2024,Last Chance to Save Big!,Facebook Ads,France,46453,41139,428,180,197,274,131,231
+campaign_28,Campaign 28 - Sense Promotion,2024-08-17,Your Feedback Matters,Instagram Ads,Australia,77980,51093,50692,39684,826,315,121,12
+campaign_43,Campaign 43 - Save Promotion,2024-09-19,Don't Miss Out on Our Summer Sale,LinkedIn Ads,United States,71492,52658,20703,4171,593,190,97,60
+campaign_29,Campaign 29 - Rate Promotion,26/08/2024,Exclusive Offer Just for You!,FB Ads,China,79555,33972,19508,821,183,213,-83,46
+campaign_42,Campaign 42 - Collection Promotion,2024-07-24,Your Feedback Matters,Instagram Ads,Canada,64157,28586,20227,7613,284,306,113,997
+campaign_7,Campaign 7 - Dog Promotion,2024-09-21,Unlock Your Premium Features,Instagram Ads,India,65178,13161,7489,7140,9,99,143,516
+campaign_6,Campaign 6 - Election Promotion,2024-08-24,Don't Miss Out on Our Summer Sale,Email Campaign,Australia,68166,4342,862,853,394,-211,21,582
+campaign_37,Campaign 37 - Table Promotion,2024-08-23,Last Chance to Save Big!,FB Ads,India,43799,39551,18382,8087,22,139,130,751
+campaign_3,Campaign 3 - Ago Promotion,2024-10-14,Don't Miss Out on Our Summer Sale,Insta Ads,Germany,95510,38600,23145,16676,672,433,142,790
+campaign_14,Campaign 14 - Offer Promotion,2024-08-24,Welcome to Our Newsletter,LinkedIn Ads,China,41812,23099,1762,1014,51,27,100,620
+campaign_3,Campaign 3 - Ago Promotion,2024-09-13,Your Feedback Matters,Insta Ads,China,14979,10270,4947,2468,849,140,-175,60
+campaign_18,Campaign 18 - Almost Promotion,2024-07-31,Thank You for Being a Loyal Customer,GAds,Canada,69562,7155,469,311,96,368,64,609
+campaign_10,Campaign 10 - Blue Promotion,2024-10-18,Special Invitation: Join Us Today,Instagram Ads,France,94961,12371,3016,2335,841,132,115,453
+campaign_44,Campaign 44 - Knowledge Promotion,2024-08-25,Special Invitation: Join Us Today,Instagram Ads,Germany,41544,39481,6500,1676,17,384,46,-846
+campaign_37,Campaign 37 - Table Promotion,2024-09-15,Your Feedback Matters,LinkedIn Ads,Germany,51317,15333,5062,-1139,582,409,38,591
+campaign_14,Campaign 14 - Offer Promotion,2024-09-20,Thank You for Being a Loyal Customer,Email Campaign,United States,61374,36090,30408,13614,57,153,173,558
+campaign_23,Campaign 23 - Mouth Promotion,2024-07-21,New Arrivals Available Now,FB Ads,Germany,-57466,-962,-302,-136,920,63,1,682
+campaign_36,Campaign 36 - Fall Promotion,2024-08-22,Don't Miss Out on Our Summer Sale,Insta Ads,India,-25763,-932,-606,-515,563,141,107,62
+campaign_16,Campaign 16 - Performance Promotion,2024-09-19,New Arrivals Available Now,Google Ads,Japan,9250,4706,4356,3422,671,167,170,872
+campaign_32,Campaign 32 - Kind Promotion,2024-09-21,Unlock Your Premium Features,Insta Ads,United States,15129,13902,1715,290,244,344,154,413
+campaign_43,Campaign 43 - Save Promotion,2024-08-14,Welcome to Our Newsletter,GAds,United Kingdom,81580,65289,40784,5611,922,391,170,666
+campaign_8,Campaign 8 - Chair Promotion,2024-08-25,Your Feedback Matters,LinkedIn Ads,France,66390,36989,5848,1174,658,269,139,401
+campaign_7,Campaign 7 - Dog Promotion,2024-09-16,Last Chance to Save Big!,,China,37483,5000,4498,2720,116,441,163,407
+campaign_41,Campaign 41 - Sure Promotion,2024-09-18,Thank You for Being a Loyal Customer,GAds,China,3563,1969,1282,1070,742,457,149,201
+campaign_43,Campaign 43 - Save Promotion,2024-09-20,Thank You for Being a Loyal Customer,FB Ads,India,52136,6081,5909,806,995,417,136,664
+campaign_18,Campaign 18 - Almost Promotion,11/08/2024,Welcome to Our Newsletter,Email Campaign,China,59918,14094,13689,884,105,365,106,764
+campaign_49,Campaign 49 - Source Promotion,2024-10-16,Thank You for Being a Loyal Customer,GAds,China,10865,4070,3384,1288,473,429,161,418
+campaign_8,Campaign 8 - Chair Promotion,2024-07-30,Last Chance to Save Big!,Google Ads,Germany,68603,53450,30580,25396,335,233,-51,813
+campaign_24,Campaign 24 - Play Promotion,2024-09-23,Don't Miss Out on Our Summer Sale,Google Ads,United Kingdom,51084,3351,720,130,95,118,174,797
+campaign_20,Campaign 20 - Better Promotion,2024-07-21,Welcome to Our Newsletter,LinkedIn Ads,United Kingdom,75609,61219,2661,1229,940,358,76,853
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-28,Limited Time Discount Inside,FB Ads,Australia,54188,28276,14921,6414,345,204,135,232
+campaign_17,Campaign 17 - Knowledge Promotion,2024-09-15,Limited Time Discount Inside,Insta Ads,India,10123,8693,6120,5572,107,267,21,414
+campaign_1,Campaign 1 - Purpose Promotion,2024-09-27,Limited Time Discount Inside,FB Ads,China,87951,40263,26864,22896,130,340,173,188
+campaign_48,Campaign 48 - Dinner Promotion,2024-07-30,Welcome to Our Newsletter,Google Ads,Brazil,61016,3650,1519,1182,940,25,18,60
+campaign_43,Campaign 43 - Save Promotion,2024-10-14,Don't Miss Out on Our Summer Sale,LinkedIn Ads,Japan,12157,7506,5408,1342,511,302,42,443
+campaign_27,Campaign 27 - Decide Promotion,2024-10-14,Welcome to Our Newsletter,FB Ads,Brazil,11683,9174,8196,6379,184,7,107,577
+campaign_44,Campaign 44 - Knowledge Promotion,2024-09-14,Last Chance to Save Big!,,China,34610,6576,4802,4652,715,415,145,433
+campaign_2,Campaign 2 - Brother Promotion,2024-08-31,Don't Miss Out on Our Summer Sale,Email Campaign,Brazil,53488,36951,5871,2698,791,263,0,565
+campaign_13,Campaign 13 - Wait Promotion,2024-08-19,Limited Time Discount Inside,Facebook Ads,Germany,8148,5987,2456,-505,482,107,54,545
+campaign_35,Campaign 35 - Perform Promotion,14/10/2024,New Arrivals Available Now,LinkedIn Ads,Canada,19025,6208,1630,963,559,134,168,433
+campaign_40,Campaign 40 - Song Promotion,2024-08-17,Exclusive Offer Just for You!,Facebook Ads,Germany,90872,25841,10379,2019,196,204,61,801
+campaign_45,Campaign 45 - Grow Promotion,2024-07-22,Welcome to Our Newsletter,Insta Ads,Brazil,29828,21093,9327,5530,945,171,144,566
+campaign_15,Campaign 15 - Begin Promotion,2024-09-24,Thank You for Being a Loyal Customer,Facebook Ads,France,1433,1393,1196,785,310,323,165,557
+campaign_29,Campaign 29 - Rate Promotion,2024-08-24,Don't Miss Out on Our Summer Sale,LinkedIn Ads,United States,5121,2427,2013,812,674,17,26,900
+campaign_50,Campaign 50 - Great Promotion,2024-08-31,Limited Time Discount Inside,GAds,India,35812,25364,1327,1197,138,109,-36,223
+campaign_32,Campaign 32 - Kind Promotion,2024-09-21,Unlock Your Premium Features,Insta Ads,United States,15129,13902,1715,290,244,344,154,413
+campaign_10,Campaign 10 - Blue Promotion,2024-10-16,New Arrivals Available Now,GAds,Canada,59073,42435,24200,17961,201,493,114,709
+campaign_6,Campaign 6 - Election Promotion,2024-09-29,Special Invitation: Join Us Today,Insta Ads,Germany,82083,33202,5476,3162,649,199,27,975
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-16,Special Invitation: Join Us Today,Instagram Ads,India,90277,29014,6185,5886,731,105,156,-954
+campaign_31,Campaign 31 - Offer Promotion,14/09/2024,Exclusive Offer Just for You!,FB Ads,China,65488,22772,2575,2336,544,262,22,489
+campaign_16,Campaign 16 - Performance Promotion,2024-07-28,Unlock Your Premium Features,Google Ads,Brazil,48918,3578,817,771,726,70,61,674
+campaign_40,Campaign 40 - Song Promotion,2024-08-14,Limited Time Discount Inside,Instagram Ads,China,42182,12122,6675,4512,475,-434,42,90
+campaign_38,Campaign 38 - True Promotion,2024-08-23,New Arrivals Available Now,LinkedIn Ads,Germany,11333,5430,4607,702,562,445,76,683
+campaign_38,Campaign 38 - True Promotion,2024-09-27,Don't Miss Out on Our Summer Sale,Email Campaign,Australia,29931,8058,399,350,287,455,53,955
+campaign_26,Campaign 26 - Option Promotion,2024-10-15,Thank You for Being a Loyal Customer,LinkedIn Ads,United States,23806,13485,6982,557,117,383,195,656
+campaign_19,Campaign 19 - All Promotion,2024-09-22,Unlock Your Premium Features,Facebook Ads,United Kingdom,42724,27578,1047,289,19,493,25,578
+campaign_3,Campaign 3 - Ago Promotion,2024-07-31,Last Chance to Save Big!,LinkedIn Ads,China,77435,61343,30218,357,476,346,18,363
+campaign_48,Campaign 48 - Dinner Promotion,2024-09-19,Welcome to Our Newsletter,Facebook Ads,Australia,42504,39234,22594,17540,260,371,63,652
+campaign_8,Campaign 8 - Chair Promotion,2024-08-30,Your Feedback Matters,Instagram Ads,United States,22090,18825,3150,2563,721,482,155,170
+campaign_49,Campaign 49 - Source Promotion,2024-08-16,Unlock Your Premium Features,LinkedIn Ads,Australia,64393,49854,22134,20730,934,423,45,117
+campaign_9,Campaign 9 - Since Promotion,2024-08-27,Thank You for Being a Loyal Customer,Facebook Ads,United Kingdom,26499,23205,9876,2520,205,291,117,893
+campaign_26,Campaign 26 - Option Promotion,2024-07-28,Don't Miss Out on Our Summer Sale,Google Ads,United Kingdom,68667,65820,20386,10237,959,-248,51,10
+campaign_49,Campaign 49 - Source Promotion,2024-08-13,Don't Miss Out on Our Summer Sale,LinkedIn Ads,India,85871,58516,17048,15791,310,350,95,625
+campaign_44,Campaign 44 - Knowledge Promotion,15/10/2024,Unlock Your Premium Features,Insta Ads,Germany,58113,11563,7923,4863,54,451,67,385
+campaign_25,Campaign 25 - Agreement Promotion,2024-09-13,Unlock Your Premium Features,Instagram Ads,Canada,49905,39886,28665,27741,696,145,25,835
+campaign_15,Campaign 15 - Begin Promotion,2024-08-13,New Arrivals Available Now,Facebook Ads,China,-13805,-967,-206,-751,224,128,6,68
+campaign_38,Campaign 38 - True Promotion,2024-08-25,,,Japan,9048,7729,3858,884,902,145,109,494
+campaign_12,Campaign 12 - Sit Promotion,2024-08-21,Your Feedback Matters,Instagram Ads,Brazil,87972,43524,30717,17763,561,496,138,621
+campaign_2,Campaign 2 - Brother Promotion,2024-08-23,Special Invitation: Join Us Today,FB Ads,Australia,50692,28527,2783,2259,974,332,166,41
+campaign_22,Campaign 22 - Early Promotion,2024-08-29,Last Chance to Save Big!,FB Ads,India,37961,7392,1498,847,825,495,141,880
+campaign_50,Campaign 50 - Great Promotion,2024-08-21,Don't Miss Out on Our Summer Sale,Insta Ads,Brazil,64877,24300,3890,1238,979,21,130,492
+campaign_12,Campaign 12 - Sit Promotion,2024-09-15,Exclusive Offer Just for You!,Email Campaign,Brazil,56082,53293,24439,1089,863,74,198,566
+campaign_2,Campaign 2 - Brother Promotion,2024-07-24,Don't Miss Out on Our Summer Sale,Google Ads,France,89117,76429,23062,21398,284,299,125,491
+campaign_34,Campaign 34 - List Promotion,2024-07-23,Special Invitation: Join Us Today,LinkedIn Ads,Canada,52410,36900,12548,11907,445,81,170,994
+campaign_19,Campaign 19 - All Promotion,2024-09-20,Your Feedback Matters,Insta Ads,India,83864,67789,21257,18501,91,62,185,296
+campaign_24,Campaign 24 - Play Promotion,2024-09-20,,GAds,France,-47746,-996,-389,-457,322,371,33,109
+campaign_45,Campaign 45 - Grow Promotion,18/10/2024,Welcome to Our Newsletter,,China,49621,21552,8883,1412,0,341,112,813
+campaign_38,Campaign 38 - True Promotion,2024-09-13,New Arrivals Available Now,Instagram Ads,United States,13780,10266,4609,1335,46,100,50,481
+campaign_10,Campaign 10 - Blue Promotion,2024-09-24,Thank You for Being a Loyal Customer,LinkedIn Ads,Australia,11793,3642,3267,80,215,396,175,116
+campaign_45,Campaign 45 - Grow Promotion,2024-08-18,New Arrivals Available Now,Instagram Ads,India,48077,16866,11256,5970,34,493,147,-29
+campaign_45,Campaign 45 - Grow Promotion,2024-08-25,Limited Time Discount Inside,Facebook Ads,United Kingdom,48173,47465,768,692,130,106,70,722
+campaign_26,Campaign 26 - Option Promotion,01/09/2024,Thank You for Being a Loyal Customer,GAds,United States,34231,1788,716,580,877,431,28,541
+campaign_4,Campaign 4 - Site Promotion,2024-09-28,Thank You for Being a Loyal Customer,LinkedIn Ads,Japan,7265,3619,3374,1688,916,173,127,386
+campaign_44,Campaign 44 - Knowledge Promotion,2024-08-30,Thank You for Being a Loyal Customer,Email Campaign,Japan,59905,17532,1293,1275,986,129,33,861
+campaign_29,Campaign 29 - Rate Promotion,2024-07-25,Unlock Your Premium Features,Facebook Ads,Brazil,17522,17069,9101,7554,249,462,187,592
+campaign_35,Campaign 35 - Perform Promotion,2024-09-30,New Arrivals Available Now,LinkedIn Ads,Canada,34590,22334,12965,4725,456,333,197,199
+campaign_9,Campaign 9 - Since Promotion,30/09/2024,Special Invitation: Join Us Today,Email Campaign,Germany,2620,2176,1818,356,602,493,27,113
+campaign_37,Campaign 37 - Table Promotion,2024-07-30,Your Feedback Matters,LinkedIn Ads,Canada,58060,43125,36283,19877,214,335,40,363
+campaign_40,Campaign 40 - Song Promotion,2024-08-24,Exclusive Offer Just for You!,Instagram Ads,India,30325,-22779,-972,-576,400,199,14,791
+campaign_6,Campaign 6 - Election Promotion,2024-10-18,Special Invitation: Join Us Today,Facebook Ads,Germany,69732,26056,8371,4429,80,207,62,241
+campaign_36,Campaign 36 - Fall Promotion,2024-07-23,Limited Time Discount Inside,Insta Ads,India,61975,14314,6912,2060,918,51,13,941
+campaign_6,Campaign 6 - Election Promotion,2024-07-23,Limited Time Discount Inside,Google Ads,China,89083,7280,462,169,772,28,74,948
+campaign_22,Campaign 22 - Early Promotion,2024-08-19,Last Chance to Save Big!,Facebook Ads,United States,63406,57070,6683,2457,729,266,200,526
+campaign_21,Campaign 21 - Discover Promotion,2024-09-19,New Arrivals Available Now,FB Ads,United Kingdom,32404,22693,20114,11716,825,233,102,919
+campaign_40,Campaign 40 - Song Promotion,2024-10-15,Thank You for Being a Loyal Customer,Instagram Ads,Australia,48996,42631,16366,9312,21,454,158,887
+campaign_30,Campaign 30 - Science Promotion,2024-09-27,Special Invitation: Join Us Today,Email Campaign,India,59911,58135,19001,-10996,671,464,148,438
+campaign_6,Campaign 6 - Election Promotion,2024-08-21,New Arrivals Available Now,Insta Ads,India,74905,72416,72202,60555,214,149,17,824
+campaign_3,Campaign 3 - Ago Promotion,2024-09-28,Your Feedback Matters,Google Ads,China,47955,16493,617,103,431,381,114,535
+campaign_8,Campaign 8 - Chair Promotion,2024-08-24,Unlock Your Premium Features,Google Ads,China,29758,27028,5792,4903,755,467,180,980
+campaign_21,Campaign 21 - Discover Promotion,2024-07-22,Your Feedback Matters,LinkedIn Ads,United States,89479,58841,54920,34317,733,52,78,622
+campaign_50,Campaign 50 - Great Promotion,2024-09-26,Your Feedback Matters,FB Ads,Japan,35848,14407,12560,8620,535,93,163,550
+campaign_11,Campaign 11 - Require Promotion,2024-08-23,Welcome to Our Newsletter,Email Campaign,Japan,10023,7215,235,179,846,49,157,908
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-13,Welcome to Our Newsletter,Google Ads,France,50931,32152,753,421,598,229,125,590
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-13,Your Feedback Matters,FB Ads,Brazil,36601,-6885,-690,-788,216,230,91,71
+campaign_40,Campaign 40 - Song Promotion,2024-08-13,,Facebook Ads,Australia,78200,24806,6436,3489,559,424,187,458
+campaign_1,Campaign 1 - Purpose Promotion,23/07/2024,Last Chance to Save Big!,Google Ads,Brazil,83719,9734,5513,1999,497,67,146,258
+campaign_49,Campaign 49 - Source Promotion,2024-10-16,Don't Miss Out on Our Summer Sale,GAds,Germany,87624,43817,31729,25748,103,442,108,202
+campaign_2,Campaign 2 - Brother Promotion,2024-08-24,Welcome to Our Newsletter,GAds,France,75607,58460,45233,26428,512,224,10,762
+campaign_23,Campaign 23 - Mouth Promotion,2024-09-23,Exclusive Offer Just for You!,Instagram Ads,India,75209,25828,13125,8773,994,224,98,409
+campaign_13,Campaign 13 - Wait Promotion,2024-08-31,Thank You for Being a Loyal Customer,Google Ads,United States,50856,26731,24429,17618,896,19,115,908
+campaign_39,Campaign 39 - According Promotion,2024-07-28,Unlock Your Premium Features,Insta Ads,India,12584,1346,1033,1012,102,393,87,847
+campaign_29,Campaign 29 - Rate Promotion,2024-10-15,Special Invitation: Join Us Today,LinkedIn Ads,China,67448,56722,37946,1921,170,453,178,213
+campaign_38,Campaign 38 - True Promotion,2024-08-19,Thank You for Being a Loyal Customer,FB Ads,Brazil,27098,2092,107,51,956,173,1,892
+campaign_38,Campaign 38 - True Promotion,17/09/2024,New Arrivals Available Now,LinkedIn Ads,United Kingdom,37125,26498,15840,14874,799,248,141,966
+campaign_14,Campaign 14 - Offer Promotion,2024-09-30,,GAds,France,9891,9201,200,135,741,491,44,863
+campaign_31,Campaign 31 - Offer Promotion,2024-09-15,Don't Miss Out on Our Summer Sale,Email Campaign,United Kingdom,97981,7350,3370,3207,834,496,148,134
+campaign_21,Campaign 21 - Discover Promotion,2024-08-21,,Google Ads,India,85585,80255,19415,19001,861,59,164,403
+campaign_8,Campaign 8 - Chair Promotion,2024-09-21,New Arrivals Available Now,Insta Ads,Australia,4416,1797,1760,169,483,392,59,112
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-15,Exclusive Offer Just for You!,Facebook Ads,Japan,41850,7963,1577,392,509,79,86,960
+campaign_42,Campaign 42 - Collection Promotion,2024-07-21,Last Chance to Save Big!,LinkedIn Ads,Brazil,66518,15995,893,799,212,443,179,429
+campaign_25,Campaign 25 - Agreement Promotion,2024-08-17,Exclusive Offer Just for You!,Instagram Ads,Germany,64120,6927,4617,3876,507,484,49,212
+campaign_8,Campaign 8 - Chair Promotion,28/08/2024,Your Feedback Matters,Insta Ads,Canada,73869,33648,6778,1195,63,113,102,655
+campaign_8,Campaign 8 - Chair Promotion,2024-09-27,New Arrivals Available Now,GAds,Japan,16717,14131,13639,9934,855,75,63,415
+campaign_39,Campaign 39 - According Promotion,2024-09-30,Unlock Your Premium Features,GAds,France,18596,2916,1492,1456,873,104,53,853
+campaign_33,Campaign 33 - Discussion Promotion,2024-07-31,New Arrivals Available Now,GAds,Germany,20593,7359,2727,390,818,318,106,383
+campaign_24,Campaign 24 - Play Promotion,2024-09-27,Limited Time Discount Inside,Insta Ads,France,91898,29648,7806,1715,17,242,28,367
+campaign_17,Campaign 17 - Knowledge Promotion,2024-07-24,,FB Ads,Canada,77541,45629,28159,11760,57,126,79,942
+campaign_10,Campaign 10 - Blue Promotion,27/07/2024,Unlock Your Premium Features,Email Campaign,France,24226,6590,1151,709,393,311,195,417
+campaign_8,Campaign 8 - Chair Promotion,2024-08-21,Thank You for Being a Loyal Customer,LinkedIn Ads,Germany,72638,33029,26972,17795,859,4,0,395
+campaign_27,Campaign 27 - Decide Promotion,2024-09-25,Last Chance to Save Big!,Google Ads,United States,15532,5209,364,183,909,71,187,785
+campaign_31,Campaign 31 - Offer Promotion,2024-08-13,,Google Ads,United Kingdom,71788,9978,5266,1760,167,138,55,37
+campaign_14,Campaign 14 - Offer Promotion,2024-07-27,Your Feedback Matters,GAds,United Kingdom,17622,10004,4703,2154,-114,465,38,388
+campaign_15,Campaign 15 - Begin Promotion,2024-08-16,Welcome to Our Newsletter,Insta Ads,Canada,23878,2132,1568,230,801,214,-60,552
+campaign_11,Campaign 11 - Require Promotion,05/09/2024,,Instagram Ads,France,19398,6770,4735,1247,495,20,124,280
+campaign_21,Campaign 21 - Discover Promotion,2024-07-31,Unlock Your Premium Features,Instagram Ads,France,34144,33710,25186,24099,897,445,162,826
+campaign_41,Campaign 41 - Sure Promotion,04/09/2024,Welcome to Our Newsletter,Facebook Ads,United Kingdom,69645,8782,2256,77,132,263,196,176
+campaign_40,Campaign 40 - Song Promotion,2024-10-13,,Email Campaign,United States,91013,75536,9650,2904,584,290,116,987
+campaign_48,Campaign 48 - Dinner Promotion,2024-07-21,New Arrivals Available Now,Insta Ads,Japan,81733,74897,8285,6572,442,234,62,191
+campaign_40,Campaign 40 - Song Promotion,2024-10-13,,GAds,Brazil,11222,1940,1459,1063,504,76,147,527
+campaign_32,Campaign 32 - Kind Promotion,22/09/2024,Don't Miss Out on Our Summer Sale,Insta Ads,Germany,90830,54321,31190,11299,318,362,64,198
+campaign_37,Campaign 37 - Table Promotion,30/07/2024,Your Feedback Matters,Insta Ads,Germany,-97043,-998,-755,-856,614,254,54,575
+campaign_48,Campaign 48 - Dinner Promotion,2024-09-25,Thank You for Being a Loyal Customer,FB Ads,France,-61899,-902,-923,-220,-383,193,175,636
+campaign_11,Campaign 11 - Require Promotion,2024-09-17,New Arrivals Available Now,,France,77153,48295,17119,8663,482,175,127,439
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-16,Don't Miss Out on Our Summer Sale,LinkedIn Ads,Canada,32385,16981,13347,1010,943,431,181,615
+campaign_40,Campaign 40 - Song Promotion,2024-07-24,Thank You for Being a Loyal Customer,LinkedIn Ads,France,29887,22610,11955,8573,918,8,72,928
+campaign_45,Campaign 45 - Grow Promotion,2024-07-26,Thank You for Being a Loyal Customer,LinkedIn Ads,Germany,61777,4145,3001,2810,28,341,16,412
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-13,Don't Miss Out on Our Summer Sale,Insta Ads,Japan,24467,6897,-5753,-115,167,272,28,507
+campaign_32,Campaign 32 - Kind Promotion,2024-07-26,Special Invitation: Join Us Today,Email Campaign,India,23079,16867,7460,775,617,442,170,728
+campaign_47,Campaign 47 - Clearly Promotion,11/10/2024,Don't Miss Out on Our Summer Sale,Email Campaign,Canada,31974,-22821,-422,-284,972,62,82,919
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-17,Your Feedback Matters,Facebook Ads,United States,-31407,-984,-561,-781,516,345,101,563
+campaign_26,Campaign 26 - Option Promotion,26/09/2024,Thank You for Being a Loyal Customer,FB Ads,China,57055,27786,18414,13842,143,154,148,140
+campaign_14,Campaign 14 - Offer Promotion,2024-10-13,,LinkedIn Ads,France,26237,18341,14554,4517,280,490,131,565
+campaign_23,Campaign 23 - Mouth Promotion,2024-07-26,Last Chance to Save Big!,LinkedIn Ads,Canada,49110,34564,3436,1602,993,467,138,888
+campaign_25,Campaign 25 - Agreement Promotion,2024-09-20,Limited Time Discount Inside,Facebook Ads,Australia,32768,24993,22872,16257,13,239,48,358
+campaign_6,Campaign 6 - Election Promotion,2024-07-31,Exclusive Offer Just for You!,Email Campaign,China,2238,1069,544,219,878,458,10,932
+campaign_35,Campaign 35 - Perform Promotion,27/08/2024,Don't Miss Out on Our Summer Sale,Facebook Ads,China,60323,28550,21778,19630,397,155,150,660
+campaign_46,Campaign 46 - Fall Promotion,2024-08-22,Your Feedback Matters,Insta Ads,United Kingdom,26735,20713,7463,2866,-662,85,33,404
+campaign_31,Campaign 31 - Offer Promotion,2024-08-14,Don't Miss Out on Our Summer Sale,GAds,United States,97853,44210,42556,29806,709,485,5,310
+campaign_34,Campaign 34 - List Promotion,2024-09-19,,LinkedIn Ads,Australia,43755,21382,15703,9143,812,99,82,596
+campaign_30,Campaign 30 - Bill Blitz,2024-09-19,Super Sale! Unbeatable Prices Inside!,FB Ads,United States,162843,190432,309487,41902,1118,341,489,1201
+campaign_44,Campaign 44 - Knowledge Promotion,2024-10-17,Your Feedback Matters,Instagram Ads,France,10501,9784,6213,-589,359,328,15,598
+campaign_12,Campaign 12 - Sit Promotion,2024-07-23,Special Invitation: Join Us Today,Google Ads,United Kingdom,58344,36468,12537,8956,749,444,141,553
+campaign_41,Campaign 41 - Sure Promotion,2024-09-13,New Arrivals Available Now,GAds,Brazil,73175,22731,12017,4056,876,104,78,135
+campaign_34,Campaign 34 - List Promotion,2024-08-30,Special Invitation: Join Us Today,FB Ads,United Kingdom,43809,3163,1427,1214,523,367,127,79
+campaign_16,Campaign 16 - Performance Promotion,05/08/2024,,Google Ads,Japan,17225,4265,1738,769,149,482,148,174
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-25,Exclusive Offer Just for You!,LinkedIn Ads,Australia,51864,50873,4517,3088,146,393,128,203
+campaign_47,Campaign 47 - Clearly Promotion,2024-09-27,Unlock Your Premium Features,Facebook Ads,India,14580,13355,2214,759,490,245,132,303
+campaign_36,Campaign 36 - Fall Promotion,2024-09-16,Limited Time Discount Inside,Insta Ads,Brazil,59002,26096,24698,17786,210,251,134,31
+campaign_18,Campaign 18 - Almost Promotion,2024-09-15,Thank You for Being a Loyal Customer,Facebook Ads,Japan,80908,14252,787,221,891,185,74,790
+campaign_13,Campaign 13 - Wait Promotion,2024-09-19,Thank You for Being a Loyal Customer,Google Ads,United States,72741,28115,4958,2909,874,295,76,99
+campaign_32,Campaign 32 - Kind Promotion,2024-09-15,Thank You for Being a Loyal Customer,Insta Ads,Germany,83328,57496,1780,420,968,149,7,879
+campaign_32,Campaign 32 - Kind Promotion,2024-08-17,,Google Ads,France,64343,28066,18715,6146,594,294,99,733
+campaign_15,Campaign 15 - Begin Promotion,2024-07-26,Don't Miss Out on Our Summer Sale,Insta Ads,France,86467,44804,6540,4835,791,123,150,542
+campaign_20,Campaign 20 - Better Promotion,2024-08-14,Last Chance to Save Big!,FB Ads,United Kingdom,95977,25269,1544,688,525,386,149,804
+campaign_12,Campaign 12 - Sit Promotion,2024-07-23,Welcome to Our Newsletter,Facebook Ads,India,53041,5080,3976,157,536,42,158,680
+campaign_50,Campaign 50 - Great Promotion,2024-10-17,Exclusive Offer Just for You!,GAds,Brazil,67734,36239,23077,7820,785,383,34,136
+campaign_43,Campaign 43 - Save Promotion,2024-08-21,Exclusive Offer Just for You!,Facebook Ads,Germany,92793,22602,9223,8169,127,219,8,723
+campaign_26,Campaign 26 - Option Promotion,2024-10-15,New Arrivals Available Now,Insta Ads,Brazil,37208,3593,2974,2558,814,495,88,18
+campaign_32,Campaign 32 - Kind Promotion,01/10/2024,Last Chance to Save Big!,Instagram Ads,United Kingdom,82378,71051,45352,44822,614,90,180,800
+campaign_10,Campaign 10 - Guy Blitz,2024-08-13,Super Sale! Unbeatable Prices Inside!,Facebook Ads,United States,943332,356218,215786,46612,3338,811,57,9126
+campaign_40,Campaign 40 - Song Promotion,2024-09-27,Your Feedback Matters,GAds,Germany,3118,1419,177,58,708,339,110,622
+campaign_49,Campaign 49 - Source Promotion,2024-09-27,Don't Miss Out on Our Summer Sale,Google Ads,United States,42423,-40544,-270,-728,825,5,43,918
+campaign_48,Campaign 48 - Dinner Promotion,2024-07-22,,Facebook Ads,Brazil,2305,1349,936,119,125,219,93,20
+campaign_31,Campaign 31 - Offer Promotion,2024-08-19,Thank You for Being a Loyal Customer,GAds,Australia,46563,29484,2818,2117,839,261,174,27
+campaign_45,Campaign 45 - Grow Promotion,2024-09-29,Exclusive Offer Just for You!,Email Campaign,France,6778,2879,2151,563,979,99,73,725
+campaign_42,Campaign 42 - Collection Promotion,2024-09-29,Don't Miss Out on Our Summer Sale,GAds,India,42293,5210,1510,1300,38,152,153,961
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-17,Don't Miss Out on Our Summer Sale,,Germany,44352,26453,12282,6635,145,318,108,737
+campaign_45,Campaign 45 - Grow Promotion,01/09/2024,Exclusive Offer Just for You!,Insta Ads,Germany,25009,10624,5997,4342,843,446,107,425
+campaign_28,Campaign 28 - Sense Promotion,2024-09-29,Special Invitation: Join Us Today,Insta Ads,Japan,95364,89594,42355,24405,169,267,157,390
+campaign_50,Campaign 50 - Great Promotion,2024-08-22,Last Chance to Save Big!,FB Ads,Japan,66012,52899,19080,-7061,102,424,9,401
+campaign_29,Campaign 29 - Rate Promotion,2024-09-19,New Arrivals Available Now,Facebook Ads,India,56583,26031,2721,1430,724,101,157,475
+campaign_40,Campaign 40 - Song Promotion,2024-07-28,Special Invitation: Join Us Today,Insta Ads,India,20207,1406,104,59,860,114,83,98
+campaign_35,Campaign 35 - Perform Promotion,2024-08-19,Limited Time Discount Inside,Insta Ads,Brazil,-8863,-965,-907,-62,681,271,-35,259
+campaign_8,Campaign 8 - Chair Promotion,11/08/2024,Your Feedback Matters,Facebook Ads,Germany,53096,44221,42165,12166,390,228,112,241
+campaign_2,Campaign 2 - Brother Promotion,2024-09-29,Don't Miss Out on Our Summer Sale,Email Campaign,Australia,31340,10164,7538,1962,806,301,50,567
+campaign_28,Campaign 28 - Sense Promotion,2024-10-15,Thank You for Being a Loyal Customer,GAds,Australia,13700,8982,8581,8376,436,196,45,52
+campaign_9,Campaign 9 - Since Promotion,2024-09-19,New Arrivals Available Now,Instagram Ads,France,62706,17851,6098,2799,227,381,107,349
+campaign_33,Campaign 33 - Discussion Promotion,2024-10-13,Last Chance to Save Big!,Insta Ads,United Kingdom,41225,10162,8993,4970,978,319,51,574
+campaign_45,Campaign 45 - Grow Promotion,13/08/2024,Last Chance to Save Big!,LinkedIn Ads,Japan,13484,12978,9460,6960,47,2,138,433
+campaign_45,Campaign 45 - Grow Promotion,2024-09-14,Exclusive Offer Just for You!,LinkedIn Ads,Japan,33947,33889,19999,10467,391,408,76,151
+campaign_50,Campaign 50 - Great Promotion,2024-09-25,Welcome to Our Newsletter,Google Ads,France,10366,8481,1312,662,192,464,20,958
+campaign_37,Campaign 37 - Table Promotion,2024-09-23,Your Feedback Matters,LinkedIn Ads,Canada,96849,60531,38830,35360,467,170,-150,820
+campaign_29,Campaign 29 - Rate Promotion,25/08/2024,Thank You for Being a Loyal Customer,GAds,United States,8500,7644,5982,5027,502,383,192,116
+campaign_29,Campaign 29 - Rate Promotion,2024-10-15,Special Invitation: Join Us Today,FB Ads,Australia,98049,4425,1559,805,513,312,101,671
+campaign_35,Campaign 35 - Perform Promotion,2024-09-17,Welcome to Our Newsletter,LinkedIn Ads,United States,67127,65807,9564,5072,415,107,24,205
+campaign_28,Campaign 28 - Sense Promotion,2024-09-28,Don't Miss Out on Our Summer Sale,Google Ads,China,31423,16523,10278,1420,173,482,63,422
+campaign_46,Campaign 46 - Fall Promotion,2024-09-23,Thank You for Being a Loyal Customer,Email Campaign,Brazil,66171,64133,42574,1709,420,448,37,465
+campaign_40,Campaign 40 - Song Promotion,2024-08-19,Unlock Your Premium Features,Instagram Ads,Brazil,42738,23082,14833,425,719,368,103,131
+campaign_20,Campaign 20 - Better Promotion,2024-09-16,Your Feedback Matters,Instagram Ads,United Kingdom,91311,4417,669,445,238,268,14,21
+campaign_45,Campaign 45 - Grow Promotion,01/09/2024,Exclusive Offer Just for You!,GAds,France,52573,41524,5346,3302,578,422,-8,351
+campaign_11,Campaign 11 - Require Promotion,2024-08-15,Limited Time Discount Inside,LinkedIn Ads,Brazil,33728,24232,3595,371,679,3,138,878
+campaign_47,Campaign 47 - Clearly Promotion,2024-08-23,Your Feedback Matters,GAds,China,35576,-12128,-249,-279,336,65,122,233
+campaign_31,Campaign 31 - Offer Promotion,2024-09-14,Your Feedback Matters,Insta Ads,United States,3077,2025,1937,338,181,65,35,790
+campaign_28,Campaign 28 - Sense Promotion,2024-10-13,Welcome to Our Newsletter,GAds,Australia,65254,26603,17906,3213,986,386,107,343
+campaign_37,Campaign 37 - Table Promotion,2024-10-13,Don't Miss Out on Our Summer Sale,Google Ads,India,57645,31909,11037,1987,498,251,101,425
+campaign_48,Campaign 48 - Dinner Promotion,2024-08-14,Limited Time Discount Inside,Google Ads,Japan,76221,30319,5245,735,155,424,19,313
+campaign_35,Campaign 35 - Perform Promotion,2024-07-22,Your Feedback Matters,Insta Ads,Germany,21904,12960,3225,3088,77,334,197,132
+campaign_5,Campaign 5 - Face Promotion,05/08/2024,Thank You for Being a Loyal Customer,GAds,Japan,84717,39571,14573,2238,465,310,179,492
+campaign_41,Campaign 41 - Sure Promotion,2024-07-24,Thank You for Being a Loyal Customer,FB Ads,Japan,-43000,-996,-599,-841,844,3,160,908
+campaign_37,Campaign 37 - Table Promotion,2024-07-25,Welcome to Our Newsletter,FB Ads,Brazil,12471,5975,419,92,629,-472,43,853
+campaign_29,Campaign 29 - Rate Promotion,2024-09-30,,Facebook Ads,France,91018,28751,22003,15237,781,198,195,419
+campaign_26,Campaign 26 - Option Promotion,23/08/2024,Don't Miss Out on Our Summer Sale,Google Ads,Canada,63105,32901,31070,26884,-696,427,128,160
+campaign_3,Campaign 3 - Ago Promotion,2024-08-26,Limited Time Discount Inside,LinkedIn Ads,India,89835,87300,18027,1341,451,186,23,344
+campaign_2,Campaign 2 - Brother Promotion,2024-09-20,Your Feedback Matters,GAds,Brazil,26443,12725,331,114,997,149,32,780
+campaign_39,Campaign 39 - According Promotion,2024-08-20,Thank You for Being a Loyal Customer,Instagram Ads,Canada,28782,13165,2133,1567,710,-420,94,604
+campaign_7,Campaign 7 - Dog Promotion,2024-07-22,Exclusive Offer Just for You!,Insta Ads,United Kingdom,63613,26004,3456,1555,140,416,34,703
+campaign_2,Campaign 2 - Brother Promotion,2024-07-23,Last Chance to Save Big!,Facebook Ads,India,29569,9296,2849,519,167,55,79,939
+campaign_46,Campaign 46 - Fall Promotion,2024-09-25,,Email Campaign,Australia,24354,3053,1409,449,27,116,177,797
+campaign_12,Campaign 12 - Sit Promotion,2024-08-22,Special Invitation: Join Us Today,LinkedIn Ads,Japan,59059,3096,484,156,697,479,161,772
+campaign_39,Campaign 39 - According Promotion,15/10/2024,Limited Time Discount Inside,FB Ads,India,6139,1184,271,206,508,167,24,522
+campaign_15,Campaign 15 - Begin Promotion,17/09/2024,Your Feedback Matters,Google Ads,Australia,87603,52031,41428,31933,647,97,49,617
+campaign_25,Campaign 25 - Agreement Promotion,2024-08-29,Last Chance to Save Big!,Facebook Ads,Australia,32531,-16001,-291,-323,677,180,140,451
+campaign_24,Campaign 24 - Play Promotion,2024-09-23,Unlock Your Premium Features,FB Ads,Canada,18196,12706,7159,5888,396,312,39,519
+campaign_33,Campaign 33 - Discussion Promotion,2024-09-21,Don't Miss Out on Our Summer Sale,GAds,Brazil,94719,53093,18872,18731,779,421,51,578
+campaign_42,Campaign 42 - Collection Promotion,18/09/2024,Exclusive Offer Just for You!,Instagram Ads,China,54836,11278,10901,10870,97,461,21,710
+campaign_21,Campaign 21 - Discover Promotion,05/09/2024,Special Invitation: Join Us Today,Insta Ads,United Kingdom,97328,21331,15894,-6299,85,471,137,754
+campaign_41,Campaign 41 - Sure Promotion,2024-08-26,Limited Time Discount Inside,LinkedIn Ads,India,23658,4368,1659,308,146,330,-78,70
+campaign_3,Campaign 3 - Ago Promotion,2024-08-18,Don't Miss Out on Our Summer Sale,Instagram Ads,Canada,94926,93359,63342,16023,148,471,191,894
+campaign_25,Campaign 25 - Agreement Promotion,25/08/2024,Special Invitation: Join Us Today,FB Ads,France,31988,10240,-9533,-54,291,495,136,50
+campaign_19,Campaign 19 - All Promotion,2024-07-23,Unlock Your Premium Features,Email Campaign,Brazil,-56982,-982,-789,-715,961,432,70,540
+campaign_10,Campaign 10 - Blue Promotion,2024-09-16,Welcome to Our Newsletter,GAds,France,72802,29387,20552,11364,135,332,45,720
+campaign_39,Campaign 39 - According Promotion,09/08/2024,New Arrivals Available Now,GAds,United States,35184,10595,9543,4755,932,77,195,646
+campaign_47,Campaign 47 - Clearly Promotion,2024-10-14,Welcome to Our Newsletter,Insta Ads,Australia,24991,21148,11160,10799,398,459,184,827
+campaign_3,Campaign 3 - Ago Promotion,17/08/2024,Last Chance to Save Big!,FB Ads,United Kingdom,17505,7624,6368,4853,890,396,152,-889
+campaign_36,Campaign 36 - Fall Promotion,2024-09-14,Don't Miss Out on Our Summer Sale,Email Campaign,United States,63843,22622,16704,3369,728,30,55,390
+campaign_37,Campaign 37 - Table Promotion,04/10/2024,Your Feedback Matters,Instagram Ads,China,29698,9050,2610,2270,422,214,76,176
+campaign_15,Campaign 15 - Begin Promotion,27/07/2024,Unlock Your Premium Features,Email Campaign,Australia,10287,8187,2770,1384,112,50,105,394
+campaign_36,Campaign 36 - Fall Promotion,2024-09-25,Your Feedback Matters,Google Ads,Germany,74621,19979,1409,855,665,469,137,951
+campaign_13,Campaign 13 - Wait Promotion,2024-08-28,Thank You for Being a Loyal Customer,GAds,Brazil,25632,6953,5113,5011,236,118,91,808
+campaign_37,Campaign 37 - Table Promotion,2024-08-26,Limited Time Discount Inside,Instagram Ads,United States,78784,11763,1448,67,438,47,178,62
+campaign_23,Campaign 23 - Mouth Promotion,2024-08-25,Welcome to Our Newsletter,,Australia,77449,50967,16965,6805,225,104,192,466
+campaign_14,Campaign 14 - Offer Promotion,2024-08-18,Welcome to Our Newsletter,FB Ads,China,92699,44196,21383,1041,115,236,72,628
+campaign_44,Campaign 44 - Knowledge Promotion,2024-09-24,Don't Miss Out on Our Summer Sale,Instagram Ads,Japan,34343,24457,14108,8761,547,352,154,471
+campaign_14,Campaign 14 - Offer Promotion,2024-10-17,Thank You for Being a Loyal Customer,LinkedIn Ads,Brazil,88932,11195,7729,811,941,49,175,794
+campaign_11,Campaign 11 - Require Promotion,2024-07-23,Unlock Your Premium Features,Insta Ads,Japan,28886,18974,17784,4920,228,301,74,523
+campaign_9,Campaign 9 - Since Promotion,2024-10-15,Last Chance to Save Big!,Email Campaign,Canada,22910,7215,3568,2848,842,427,81,946
+campaign_28,Campaign 28 - Sense Promotion,2024-09-20,Unlock Your Premium Features,Facebook Ads,Japan,56797,25520,546,433,202,497,108,651
+campaign_37,Campaign 37 - Table Promotion,2024-08-29,Your Feedback Matters,Insta Ads,United Kingdom,31818,28658,10802,7607,158,30,30,469
+campaign_36,Campaign 36 - Fall Promotion,2024-09-19,Unlock Your Premium Features,Instagram Ads,France,12925,6510,5149,2111,956,147,58,937
+campaign_24,Campaign 24 - Play Promotion,2024-09-19,Limited Time Discount Inside,Insta Ads,India,84320,19477,13373,11718,429,342,47,104
+campaign_39,Campaign 39 - According Promotion,2024-09-26,Your Feedback Matters,Facebook Ads,China,30082,27309,3199,1912,738,63,155,256
+campaign_6,Campaign 6 - Election Promotion,2024-08-13,Unlock Your Premium Features,GAds,Japan,19920,2788,1806,324,261,331,115,104
+campaign_1,Campaign 1 - Purpose Promotion,2024-07-21,Welcome to Our Newsletter,Instagram Ads,China,45118,25798,11370,761,549,472,141,653
+campaign_2,Campaign 2 - Her Blitz,2024-09-18,Super Sale! Unbeatable Prices Inside!,LinkedIn Ads,China,583895,183821,149356,14536,3698,175,82,2532
+campaign_29,Campaign 29 - Rate Promotion,2024-08-30,Unlock Your Premium Features,LinkedIn Ads,Brazil,84069,19628,18466,8259,571,333,6,885
+campaign_47,Campaign 47 - Clearly Promotion,2024-10-17,New Arrivals Available Now,Instagram Ads,China,15433,3539,2862,1277,80,314,134,583
+campaign_5,Campaign 5 - Face Promotion,2024-07-30,Thank You for Being a Loyal Customer,Facebook Ads,United Kingdom,42889,5155,2478,695,949,89,130,215
+campaign_39,Campaign 39 - According Promotion,2024-08-18,Limited Time Discount Inside,Google Ads,United States,54382,54308,14228,8337,245,171,19,966
+campaign_26,Campaign 26 - Option Promotion,2024-08-28,Last Chance to Save Big!,FB Ads,India,19242,7437,3510,1283,304,321,46,906
+campaign_23,Campaign 23 - Mouth Promotion,2024-08-24,Exclusive Offer Just for You!,LinkedIn Ads,France,1183,1088,1069,612,136,313,14,20
+campaign_5,Campaign 5 - Face Promotion,2024-09-25,Limited Time Discount Inside,Email Campaign,Australia,42124,31024,11317,11123,738,411,156,990
+campaign_39,Campaign 39 - According Promotion,2024-08-27,Welcome to Our Newsletter,Google Ads,United States,83638,45135,26019,25960,531,59,109,28
+campaign_1,Campaign 1 - Purpose Promotion,08/10/2024,Last Chance to Save Big!,LinkedIn Ads,Germany,18361,3154,1613,947,720,413,2,577
+campaign_16,Campaign 16 - Performance Promotion,2024-09-30,Last Chance to Save Big!,Facebook Ads,United States,11013,3050,2064,1465,836,305,87,321
+campaign_31,Campaign 31 - Offer Promotion,2024-08-16,Last Chance to Save Big!,LinkedIn Ads,Germany,23515,20892,10771,7812,807,371,67,886
+campaign_20,Campaign 20 - Better Promotion,2024-07-21,,Facebook Ads,Australia,58725,39283,23687,1022,290,453,44,577
+campaign_43,Campaign 43 - Save Promotion,2024-08-28,Unlock Your Premium Features,Email Campaign,Brazil,47668,16178,7314,3112,11,31,66,438
+campaign_41,Campaign 41 - Sure Promotion,2024-07-29,Welcome to Our Newsletter,Email Campaign,Canada,66234,14940,14769,2315,571,265,38,701
+campaign_42,Campaign 42 - Collection Promotion,2024-09-25,Don't Miss Out on Our Summer Sale,Email Campaign,Canada,78692,15079,11639,1433,43,52,118,350
+campaign_13,Campaign 13 - Wait Promotion,2024-07-31,Thank You for Being a Loyal Customer,,Australia,12151,8018,1168,1034,499,292,157,546
+campaign_29,Campaign 29 - Rate Promotion,2024-07-21,Your Feedback Matters,FB Ads,France,92264,61587,60262,47861,325,494,43,232
+campaign_50,Campaign 50 - Great Promotion,2024-09-24,Don't Miss Out on Our Summer Sale,GAds,China,70319,31035,26125,758,588,214,66,891
+campaign_35,Campaign 35 - Perform Promotion,2024-07-21,Exclusive Offer Just for You!,Insta Ads,Japan,93136,31245,24431,11978,376,241,95,390
+campaign_10,Campaign 10 - Blue Promotion,2024-07-28,Your Feedback Matters,FB Ads,India,14432,11967,3775,2348,523,408,177,958
+campaign_40,Campaign 40 - Song Promotion,2024-08-14,Don't Miss Out on Our Summer Sale,LinkedIn Ads,India,19519,14986,9272,947,716,285,101,478
+campaign_35,Campaign 35 - Perform Promotion,2024-08-14,Thank You for Being a Loyal Customer,Instagram Ads,France,84020,10195,2180,645,69,37,63,433
+campaign_35,Campaign 35 - Perform Promotion,03/08/2024,Limited Time Discount Inside,GAds,Australia,89369,78659,47408,42506,580,431,130,22
+campaign_3,Campaign 3 - Ago Promotion,2024-09-13,Unlock Your Premium Features,Google Ads,United States,87223,35954,18009,10174,359,-445,168,155
+campaign_43,Campaign 43 - Save Promotion,2024-07-21,,Insta Ads,India,65819,9278,1396,1269,366,402,69,745
+campaign_2,Campaign 2 - Brother Promotion,2024-08-20,Your Feedback Matters,Google Ads,Canada,63277,51263,27260,18913,713,204,167,924
+campaign_16,Campaign 16 - Performance Promotion,2024-07-28,Welcome to Our Newsletter,Instagram Ads,United Kingdom,7932,4336,3016,1244,958,99,46,623
+campaign_48,Campaign 48 - Dinner Promotion,08/09/2024,Welcome to Our Newsletter,Email Campaign,Australia,69736,42014,25509,9283,408,396,152,142
+campaign_20,Campaign 20 - Better Promotion,2024-08-29,Last Chance to Save Big!,Google Ads,Brazil,87203,8412,994,250,655,402,48,721
+campaign_41,Campaign 41 - Sure Promotion,2024-07-30,Don't Miss Out on Our Summer Sale,Instagram Ads,France,69359,44627,17737,2868,215,45,116,857
+campaign_18,Campaign 18 - Almost Promotion,2024-08-23,Last Chance to Save Big!,FB Ads,India,22624,16998,5056,3654,152,93,66,488
+campaign_39,Campaign 39 - According Promotion,2024-08-19,New Arrivals Available Now,GAds,Canada,96583,11989,5141,2342,525,417,5,758
+campaign_16,Campaign 16 - Performance Promotion,2024-07-24,Special Invitation: Join Us Today,FB Ads,India,8213,2498,1009,835,23,434,171,534
+campaign_7,Campaign 7 - Dog Promotion,2024-10-15,Don't Miss Out on Our Summer Sale,Insta Ads,India,37349,9215,2274,1369,779,201,147,652
+campaign_34,Campaign 34 - List Promotion,2024-07-22,Exclusive Offer Just for You!,Facebook Ads,Canada,83067,61293,21785,3517,57,102,20,745
+campaign_5,Campaign 5 - Face Promotion,2024-08-23,New Arrivals Available Now,Insta Ads,France,74638,73412,50739,50145,845,348,32,413
+campaign_24,Campaign 24 - Play Promotion,2024-10-17,Exclusive Offer Just for You!,Google Ads,United Kingdom,23751,1256,967,946,728,470,78,443
+campaign_7,Campaign 7 - Dog Promotion,2024-08-21,New Arrivals Available Now,Insta Ads,China,44463,29110,3331,2141,571,294,95,800
+campaign_44,Campaign 44 - Knowledge Promotion,2024-07-24,Limited Time Discount Inside,Insta Ads,United States,10538,6693,5466,601,396,423,84,209

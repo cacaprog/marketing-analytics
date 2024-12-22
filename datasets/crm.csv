@@ -1,0 +1,1041 @@
+customer_id,first_name,last_name,email,phone_number,address,city,state,country,zip_code,signup_date,last_purchase_date,total_purchases,total_spent,loyalty_program_member,customer_segment,preferred_channel,feedback_score,support_tickets_opened,churn_risk
+cust_185,Katelyn,Nunez,justin07@example.net,001-296-277-8889x221,04094 Wolf Cliff Apt. 246,Lake Scottfort,Ohio,Germany,91314,2019-10-29,2021-09-07,522,45130.07,Yes,Platinum,Email,5,43,High
+cust_22,Angela,Garcia,lauradixon@example.org,(732)978-6807x0423,89959 Chad Common,Maldonadoshire,Idaho,United States,88904,2019-12-16,2020-04-22,513,81889.06,Yes,Platinum,Email,5,17,High
+cust_961,Keith,Taylor,cervantessandra@example.net,(551)681-2759x1700,4325 Shaffer Mountains,Anthonymouth,Indiana,Japan,50300,2020-01-26,2020-03-23,605,59594.34,Yes,Platinum,Email,5,27,High
+cust_491,Olivia,Murphy,gentrylarry@example.com,001-291-753-2180x113,15682 Keith Plains,Sarahtown,Washington,United Kingdom,16935,2020-02-02,2021-04-30,638,77866.38,Yes,Platinum,Email,5,11,High
+cust_352,Sean,Sparks,isaiahbrown@example.net,+1-597-503-2043x474,2106 Jones Cape Apt. 460,North Cristinaville,Illinois,India,16486,2020-04-06,2020-10-28,970,24633.8,Yes,Platinum,Email,5,19,High
+cust_613,Randy,Ray,beverlymitchell@example.org,(652)601-2017x40209,888 Powell Road Suite 818,South Jacob,Rhode Island,China,16835,2020-04-15,2020-11-13,975,26447.48,Yes,Platinum,Email,5,40,High
+cust_442,Bernard,Santos,lauracameron@example.org,4336051097,54265 Mcclure Mews Apt. 927,Goodwinbury,Pennsylvania,Brazil,72709,2020-06-07,2020-09-07,655,82523.35,Yes,Platinum,Email,5,19,High
+cust_548,John,Mann,reedlisa@example.net,6778508849,7686 Martinez Cliffs,New Sarah,Massachusetts,China,76365,2020-07-05,2021-04-18,940,50351.07,Yes,Platinum,Email,5,48,High
+cust_582,Bobby,Hunter,benjaminward@example.net,255-986-8173x418,0315 Ballard Pass Suite 939,Port Traceymouth,Kansas,United States,87228,2020-07-30,2020-09-30,910,21191.88,Yes,Platinum,Email,5,20,High
+cust_756,Madeline,Tran,joshua22@example.com,001-355-713-3059,96351 Anthony Loop Suite 451,Port Lindsay,Nevada,United States,30566,2020-08-06,2021-01-08,782,58573.87,Yes,Platinum,Email,5,29,High
+cust_37,Jessica,King,sherriwoods@example.org,+1-232-902-5342x3867,0429 Denise Roads Suite 667,Brettside,Vermont,Brazil,65933,2020-10-07,2020-11-26,759,38019.6,Yes,Platinum,Email,5,27,High
+cust_491,Karen,Ford,kylebennett@example.com,001-989-997-4903x04381,6924 Johnson Walk,North Sarahborough,Arkansas,Canada,12722,2020-10-26,2021-07-27,836,26144.31,Yes,Platinum,Email,5,21,High
+cust_919,Tasha,Oneal,johnsonlisa@example.net,280-236-4851,82414 Amy Mission,East Aprilchester,California,China,56155,2021-01-23,2021-05-29,962,49416.69,Yes,Platinum,Email,5,17,High
+cust_95,Susan,Gibson,dean72@example.net,+1-923-995-6721x76189,7751 Vincent Mountain Apt. 239,New Tashabury,South Carolina,China,60331,2021-01-30,2021-08-26,505,38170.07,Yes,Platinum,Email,5,39,High
+cust_833,Michael,Ramirez,carolyn39@example.org,219.454.0638x567,715 Stephen Shoals,Jacobstad,Minnesota,United States,89949,2021-02-03,2021-08-06,539,24532.37,Yes,Platinum,Email,5,33,High
+cust_671,Cody,Barron,andrea67@example.org,864.942.6244x70498,01877 Jerry Estate,Steventon,Vermont,Australia,37891,2021-02-11,2021-04-07,649,30377.3,Yes,Platinum,Email,5,30,High
+cust_785,Catherine,Bender,jessica41@example.com,972.223.4267,238 Donald Common,Brownhaven,South Carolina,India,86201,2021-03-31,2021-08-28,856,30018.99,Yes,Platinum,Email,5,49,High
+cust_438,Michael,Valencia,vharmon@example.com,(911)527-5963,49331 Wendy Parkway,Martinbury,Arkansas,Japan,57122,2021-04-05,2021-06-09,570,29246.66,Yes,Platinum,Email,5,12,High
+cust_920,Debra,Moore,jonesmatthew@example.org,+1-511-290-2060x7136,2214 Martin Way,Muellermouth,Tennessee,Australia,32527,2021-04-16,2021-06-22,727,77050.71,Yes,Platinum,Email,5,28,High
+cust_827,Andrea,Gonzales,estradajessica@example.net,(390)352-4922,429 Gordon Highway,West Adamland,Indiana,United States,67771,2021-09-19,2021-10-09,677,98484.48,Yes,Platinum,Email,5,31,High
+cust_80,Jessica,Simon,sreid@example.com,686-736-3745,750 Cory Tunnel,Smithburgh,New Hampshire,United Kingdom,60337,2021-10-18,2024-09-02,40,5512.88,No,Platinum,Email,2,3,Medium
+cust_22,Lynn,Morales,rayglenda@example.org,(594)813-1869,4964 Chelsea Streets Apt. 334,East Johnside,California,Germany,21018,2021-10-20,2023-02-24,55,6968.95,No,Platinum,Phone,2,9,High
+cust_499,Michelle,Carey,walkerjennifer@example.com,9307109567,9157 Watson Manors Apt. 347,East Maryview,New Jersey,Germany,57410,2021-10-20,2021-12-07,55,6092.36,No,Platinum,SMS,5,18,High
+cust_79,Amber,Morris,keith48@example.net,726-504-2232,2946 Hayes Roads Apt. 684,Shawnfort,Massachusetts,United States,76779,2021-10-20,2024-02-13,27,2677.89,Yes,Platinum,SMS,4,15,High
+cust_155,Frank,Quinn,wilsonshannon@example.com,286-489-2686,222 Kayla Center Suite 447,Courtneyville,Florida,Canada,27089,2021-10-21,2024-02-04,88,9675.94,No,Platinum,SMS,1,17,High
+cust_998,Brenda,Wood,jason48@example.net,711-857-0347,164 Patrick Hollow,Reginaport,Nebraska,Germany,21822,2021-10-21,2022-05-03,10,5348.89,Yes,Platinum,SMS,4,19,High
+cust_536,Michael,Jones,russelltommy@example.net,8069968018,0378 Benson Crossroad Apt. 394,Biancastad,Iowa,Brazil,03189,2021-10-21,2023-04-10,48,8080.33,No,Platinum,Phone,4,5,High
+cust_828,Christy,Love,ann63@example.net,001-492-687-9872x87314,2917 Collins Crescent Suite 033,New Angela,Alabama,France,62236,2021-10-22,2022-10-11,16,401.04,Yes,Silver,Phone,1,17,High
+cust_608,William,Wilson,bflores@example.org,(702)712-3720,30000 Wright Highway,Chavezshire,Delaware,France,80741,2021-10-23,2023-05-09,46,1613.97,Yes,Gold,Email,1,18,High
+cust_869,Erica,Smith,micheleking@example.com,610-661-6649x700,015 Tracy Hills Apt. 962,New Davidville,Delaware,Germany,47511,2021-10-24,2024-04-02,18,2711.64,Yes,Platinum,Phone,2,17,High
+cust_485,Mark,Rodriguez,michaelmercado@example.com,681.336.7500x9421,2769 Heather Pine,Hoffmanberg,Wisconsin,China,63155,2021-10-25,2022-11-22,77,5366.23,Yes,Platinum,,4,14,High
+cust_989,Chad,Brown,jennifer91@example.com,+1-683-631-7936x470,5452 Duncan Ville,Stuartfort,Missouri,China,48823,2021-10-25,2022-08-05,85,1811.94,No,Gold,Phone,3,18,High
+cust_738,Robert,Gonzales,amywright@example.org,499.382.4266,758 Carl Isle Suite 668,Jacobsborough,Alabama,France,27029,2021-10-25,2024-03-01,38,3694.61,Yes,Platinum,Phone,1,7,High
+cust_738,Robert,Gonzales,amywright@example.org,499.382.4266,758 Carl Isle Suite 668,Jacobsborough,Alabama,France,27029,2021-10-25,2024-03-01,38,3694.61,Yes,Platinum,Phone,1,7,High
+cust_533,Pamela,Garcia,barajassteven@example.net,(819)702-5476x0220,4120 Elizabeth Falls,Santanashire,Minnesota,France,08302,2021-10-29,2024-05-19,54,3535.62,No,Platinum,SMS,2,1,High
+cust_388,Chloe,Williams,sharris@example.org,503-652-6356x0229,943 Ortiz Branch Suite 664,Port Kimberly,Kentucky,China,79161,2021-10-29,2023-11-19,88,1666.78,Yes,Gold,None,2,5,High
+cust_432,Randy,Thomas,rebeccaking@example.com,775.237.2603x214,6619 Kelly Passage Suite 071,Markport,North Carolina,China,22251,2021-10-30,2022-02-16,56,5239.36,No,Platinum,SMS,4,17,High
+cust_132,David,Miller,waustin@example.net,4756957947,92086 Ayers Bypass Suite 627,Lake Aprilmouth,Vermont,United Kingdom,01604,2021-10-30,2022-06-15,28,3423.91,No,Platinum,Phone,2,4,High
+cust_639,Kristina,Smith,raymond29@example.org,(443)755-1962x822,82562 West Plaza,Lopezview,Idaho,France,85189,2021-10-31,2024-05-09,90,9487.62,No,Platinum,None,4,7,High
+cust_244,John,Davis,ajohnson@example.com,313.712.2068,393 Mcmillan Crest Apt. 315,Glennfurt,Tennessee,Australia,41951,2021-10-31,2022-06-18,50,9638.65,No,Platinum,None,4,13,High
+cust_684,Laura,Cook,fernandezjill@example.org,8943134909,797 Mary Junction Apt. 841,West Paul,Louisiana,United Kingdom,69527,2021-11-01,2022-10-10,23,8281.21,Yes,Platinum,Email,3,13,High
+cust_335,Debra,Thomas,leahcrane@example.com,494.477.3522x87056,04331 Rivera Circle Suite 921,Danabury,Minnesota,Germany,82921,2021-11-02,2022-05-29,38,4564.7,No,Platinum,None,2,10,High
+cust_720,Terrence,Ortiz,oroberts@example.org,+1-802-518-8930,8037 Elizabeth Court Apt. 974,Port Jennifer,Rhode Island,Japan,75960,2021-11-02,2024-03-31,41,8840.48,No,Platinum,SMS,4,8,High
+cust_296,Louis,Flores,brandonsnyder@example.org,261-617-2959x639,907 Anderson Lodge,New Samanthaton,Michigan,China,85013,2021-11-04,2023-03-26,46,2240.14,Yes,Platinum,None,3,9,High
+cust_853,Michael,Lozano,leroy22@example.com,,91369 Davis Via,Richmondland,Alabama,Canada,51004,2021-11-05,2022-05-04,14,7929.2,Yes,Platinum,Phone,3,16,High
+cust_744,Andrew,Clark,qschwartz@example.com,,20860 Kevin Summit,Tylermouth,Colorado,Japan,77732,2021-11-13,2024-02-10,32,1793.63,Yes,Gold,Phone,3,3,High
+cust_823,Megan,Martin,gibsonkimberly@example.net,(894)676-1110x797,4565 Hernandez Port Suite 226,West William,Louisiana,Australia,89669,2021-11-14,2022-06-19,51,4891.37,Yes,Platinum,None,1,14,High
+cust_882,Daniel,Johnson,brandyclark@example.com,+1-507-569-7216x218,192 Logan Ridge,North Aaron,Michigan,United Kingdom,29904,2021-11-14,2022-02-12,86,6874.74,No,Platinum,SMS,1,8,High
+cust_477,Sarah,Stein,kcontreras@example.org,502-617-9821,98579 Hall Meadow Apt. 831,New Erin,Massachusetts,Japan,54034,2021-11-18,2022-07-19,17,2075.51,Yes,Platinum,Phone,2,9,High
+cust_900,Thomas,Grant,wardbrandy@example.net,667-838-6569x0448,332 Cindy Cliffs Apt. 489,Michaelmouth,Vermont,India,57871,2021-11-18,2023-10-21,62,5867.72,Yes,Platinum,SMS,2,4,High
+cust_187,Nicholas,Smith,robert87@example.net,001-623-626-4870,730 Eric Hills Suite 146,South Rebecca,Tennessee,Canada,32580,2021-11-18,2024-02-10,52,6695.87,Yes,Platinum,,4,10,High
+cust_900,Thomas,Grant,wardbrandy@example.net,667-838-6569x0448,332 Cindy Cliffs Apt. 489,Michaelmouth,Vermont,India,57871,2021-11-18,2023-10-21,62,5867.72,Yes,Platinum,SMS,2,4,High
+cust_629,Mary,Greer,hsimmons@example.com,362-604-2985,698 Antonio Extensions Apt. 690,New Melissa,Idaho,Canada,25035,2021-11-19,2022-05-29,84,8239.15,No,Platinum,None,5,10,High
+cust_879,Heather,Hatfield,gentryeduardo@example.org,,939 Sue Drive,Rhodestown,Nebraska,Germany,43089,2021-11-19,2024-01-09,14,5120.31,No,Platinum,Phone,1,7,High
+cust_702,Shawna,Wright,aolson@example.org,+1-710-878-1871x0968,57068 Douglas Meadow Apt. 315,Haroldborough,Alabama,United Kingdom,53486,2021-11-23,2022-06-06,19,5062.8,No,Platinum,None,2,16,High
+cust_724,Rhonda,Taylor,slong@example.net,+1-617-321-7429x220,8215 Brittany Lodge Suite 937,South Jeffreyberg,Minnesota,Germany,99004,2021-11-23,2022-07-09,88,9214.77,No,Platinum,Phone,1,19,High
+cust_827,Krista,Scott,michael42@example.net,2539764255,878 Johnson Falls Apt. 392,North John,California,Japan,63485,2021-11-24,2024-07-03,-75,5394.43,Yes,Platinum,Phone,1,5,High
+cust_600,Justin,Wells,calderonclinton@example.net,2904915386,2542 Sandra Cliff,Port Molly,Colorado,France,80613,2021-11-25,2023-10-16,21,538.35,No,Gold,None,3,1,High
+cust_703,Brian,Haley,psawyer@example.net,205-322-4114x20667,45992 Cody Wall Suite 633,East Derek,Florida,United Kingdom,36922,2021-11-27,2024-10-08,72,3699.63,Yes,Platinum,None,1,3,Low
+cust_176,Katherine,Jackson,angela73@example.net,2212962071,94672 Douglas Groves,Jenkinsburgh,South Carolina,China,91160,2021-11-28,2022-06-05,61,8729.45,Yes,Platinum,Phone,5,6,High
+cust_115,Julia,Hoffman,williamrobles@example.net,506-766-5800x4397,347 Tonya Club,East Jill,Delaware,India,49941,2021-12-01,2022-09-20,54,4541.92,Yes,Platinum,SMS,3,10,High
+cust_609,Ashley,Osborne,martinezdavid@example.org,5919692327,906 Amber Street Suite 481,Castilloview,Missouri,United Kingdom,32606,2021-12-01,2021-12-25,97,5375.89,Yes,Platinum,Phone,5,15,High
+cust_654,Natalie,Lewis,richardssheila@example.org,975.830.2849,96702 Allen Island,Port Kathy,Vermont,China,40915,2021-12-03,2022-12-10,86,9672.43,Yes,Platinum,Email,3,16,High
+cust_594,Rodney,Clark,christopher58@example.net,001-307-205-3260x11939,297 Taylor Way,Michaelbury,Washington,India,56415,2021-12-03,2022-02-03,18,8356.76,Yes,Platinum,Phone,2,9,High
+cust_933,Autumn,Evans,smcguire@example.org,+1-778-805-2890,1837 Singh Mills Apt. 988,South Joshua,Kentucky,Canada,47000,2021-12-04,2024-04-11,44,9937.46,No,Platinum,Email,2,16,High
+cust_779,Michael,Roberts,john82@example.com,+1-728-455-0743x509,470 Ashley Valley Suite 453,Carolynfort,Montana,Germany,43510,2021-12-06,2023-03-30,99,5992.7,Yes,Platinum,Phone,3,3,High
+cust_889,Richard,Rodriguez,scottwilliams@example.net,(913)837-9376x699,608 Cooper Trafficway,Port Lauraport,Rhode Island,Australia,86654,2021-12-07,2022-12-21,29,568.1,Yes,Gold,Email,2,12,High
+cust_910,Nicholas,Ingram,colemanmolly@example.org,5594946966,70071 Mills Branch,New Tylerland,Louisiana,Brazil,86479,2021-12-10,2023-02-21,15,2790.97,Yes,Platinum,Phone,4,4,High
+cust_667,Nancy,Tucker,icuevas@example.com,(435)896-0530,840 Nathaniel Via,Smithfurt,North Dakota,Brazil,53098,2021-12-10,2024-08-04,50,4769.63,No,Platinum,Email,4,11,Medium
+cust_300,Theresa,Parrish,kimberlylopez@example.com,(224)991-2711x30724,4181 Reynolds Drive Suite 868,Brianview,Mississippi,India,13321,2021-12-10,2023-01-12,22,8846.67,No,Platinum,None,3,17,High
+cust_459,Tanya,Johnson,vanessaedwards@example.net,984-644-2182,122 Mason Turnpike Apt. 567,New Ryantown,Arizona,France,79040,2021-12-10,2023-10-31,3,7717.52,No,Platinum,Phone,1,1,High
+cust_53,Christina,Wright,lisapeck@example.net,,04797 Herrera Vista Apt. 624,Kathrynstad,Arizona,Germany,53006,2021-12-13,2023-07-20,97,9512.53,No,Platinum,SMS,1,15,High
+cust_167,Lori,Cruz,jacobjacobs@example.net,,84781 John Roads,Lake Cynthiashire,Maryland,Canada,80853,2021-12-14,2022-12-05,51,5059.39,Yes,Platinum,Phone,5,11,High
+cust_671,Alex,Cole,katherinewinters@example.com,,017 Erin Roads,South Tylerville,Massachusetts,United States,55976,2021-12-16,2023-06-15,15,7407.76,No,Platinum,Phone,2,12,High
+cust_859,Alexis,Mcmillan,michael03@example.net,001-734-427-1866x925,0926 Adrian Shores,Port Susanville,Texas,United States,98784,2021-12-17,2024-04-12,24,418.48,Yes,Silver,SMS,2,9,High
+cust_555,Rachel,Allen,plin@example.org,+1-518-604-6741x3075,852 Pamela Cliffs,Port Paul,Montana,Japan,87152,2021-12-19,2024-03-09,-59,9401.5,Yes,Platinum,Phone,1,1,High
+cust_458,Leah,Walker,holmescolleen@example.org,(381)757-2450x00000,911 Timothy Valley,South Kristenside,Tennessee,India,49199,2021-12-19,2023-10-02,1,7265.87,No,Platinum,Email,5,4,High
+cust_104,Steven,Wilson,delacruzbrandy@example.net,,56972 Huffman Falls,South Marvinburgh,Massachusetts,United Kingdom,83666,2021-12-20,2023-03-31,17,5406.75,Yes,Platinum,Email,1,4,High
+cust_251,Lisa,Adams,sarahsanders@example.com,6278011686,52237 Wayne Creek,Bradleyborough,Idaho,Australia,26838,2021-12-21,2022-06-27,98,8437.12,No,Platinum,None,2,18,High
+cust_438,Christina,Fox,dillon79@example.com,(781)479-3406,5844 Butler Freeway Suite 533,Hernandezberg,Arizona,Germany,10915,2021-12-21,2024-06-11,35,1259.14,No,Gold,Email,2,2,High
+cust_165,Kelsey,Gray,dnewman@example.org,829.902.2784,54946 Mooney Prairie,New Valeriefurt,Florida,Canada,39060,2021-12-25,2024-07-08,35,4501.46,Yes,Platinum,Email,1,9,High
+cust_400,Natalie,Johnston,hollywarner@example.org,825.632.6949,4538 Diana Springs,Juanburgh,California,India,08577,2021-12-25,2022-12-13,67,4212.63,Yes,Platinum,None,2,15,High
+cust_175,Brandon,Haynes,alexischen@example.com,579-329-1117,5651 Marc Underpass,Port Brandon,Idaho,Australia,44476,2021-12-26,2022-10-03,5,5729.98,Yes,Platinum,Phone,1,14,High
+cust_381,Linda,Baker,michael35@example.net,(712)353-8921x878,583 Adams Villages,South Christinefort,Pennsylvania,Japan,57672,2021-12-27,2024-10-13,60,6450.3,Yes,Platinum,SMS,1,8,Low
+cust_573,Justin,Jones,jrobinson@example.net,259-863-6372x62942,54980 Davis Ford Apt. 380,West Audreybury,Virginia,Canada,21083,2021-12-27,2023-10-17,58,4957.9,Yes,Platinum,Email,4,6,High
+cust_881,Michaela,Lee,bakermadison@example.org,2824369626,09755 Richard Mount,South Dawnmouth,Alaska,France,95043,2021-12-30,2022-12-13,16,3611.33,Yes,Platinum,Email,5,4,High
+cust_502,Eduardo,Gomez,warrenmariah@example.net,300.304.6661x4590,9771 Johnson Summit,Brendaside,Wyoming,Germany,72857,2021-12-31,2023-12-31,33,7904.05,No,Platinum,,5,17,High
+cust_682,Stephanie,Rivera,wmorris@example.com,951.724.7640x0068,240 Jones Light Suite 451,East Patricia,Maryland,France,34581,2022-01-01,2023-06-08,61,7999.55,Yes,Platinum,Phone,3,2,High
+cust_374,Roger,Harris,haleystacy@example.com,(586)377-5240x1484,2272 Peter Estate,Myersborough,Kansas,India,46429,2022-01-03,2024-09-10,14,2063.74,No,Platinum,Email,2,0,Medium
+cust_311,Donna,Johnston,david59@example.net,(999)761-0023x117,312 Campos Manor,North Cherylville,Arizona,United States,98796,2022-01-05,2024-02-20,55,792.9,No,Gold,Phone,2,19,High
+cust_999,David,Hall,laura92@example.org,+1-239-740-7173x43466,0060 Sara Pine Apt. 079,Danielborough,Michigan,Germany,17994,2022-01-07,2023-10-10,84,309.48,No,Silver,None,3,6,High
+cust_391,Chad,Sanchez,angela28@example.com,7117688092,13060 Lisa Trafficway,Port Jeffreyton,Oregon,Germany,72011,2022-01-07,2023-10-27,75,5448.06,Yes,Platinum,None,4,11,High
+cust_236,Eric,Kirby,andrea21@example.com,,7546 Hayden Fort Suite 151,Meganhaven,Ohio,France,84866,2022-01-11,2022-10-17,61,985.25,No,Gold,SMS,1,9,High
+cust_975,Renee,Becker,katie19@example.com,001-333-868-6093,988 Lucas Burg,North Miguelside,Illinois,Brazil,78779,2022-01-11,2022-04-30,70,1841.89,No,Gold,Email,2,16,High
+cust_839,John,Reed,ruth60@example.org,725.910.7155,404 Edwin Rue,Staceyfurt,Maryland,United Kingdom,09834,2022-01-12,2023-09-30,49,5679.93,No,Platinum,Email,3,7,High
+cust_974,James,Garcia,brownjustin@example.com,583-545-5955x62168,766 Ann Tunnel Suite 049,North Wesleyton,Maine,India,26836,2022-01-13,2022-04-12,87,8760.56,Yes,Platinum,Phone,3,4,High
+cust_974,James,Garcia,brownjustin@example.com,583-545-5955x62168,766 Ann Tunnel Suite 049,North Wesleyton,Maine,India,26836,2022-01-13,2022-04-12,87,8760.56,Yes,Platinum,Phone,3,4,High
+cust_70,Brian,Kim,petersonkayla@example.net,(850)347-7358x6629,11426 Jodi Island Suite 110,Seanview,Connecticut,Australia,17868,2022-01-21,2023-03-28,34,6607.68,Yes,Platinum,,2,17,High
+cust_504,Brandon,Castillo,john25@example.com,(938)299-4991,426 Anthony Mountain,New Stevenside,Hawaii,United Kingdom,14354,2022-01-23,2022-03-18,62,1562.31,No,Gold,SMS,4,13,High
+cust_634,Jeremy,Morgan,laura03@example.com,001-588-484-3933,62962 Lisa Burg Suite 983,East Marieview,Wisconsin,United States,35919,2022-01-25,2024-06-20,26,1601.99,Yes,Gold,Email,3,8,High
+cust_669,Steve,Watson,xhorton@example.org,292-460-0986,7454 Jarvis Ramp Apt. 054,Heathermouth,Iowa,Brazil,67845,2022-01-25,2023-08-03,39,1494.58,Yes,Gold,SMS,2,16,High
+cust_595,Amanda,Mckenzie,foleyjennifer@example.org,550-824-3736x1587,71358 Carroll Fords Suite 390,Lake Matthewmouth,Wisconsin,China,56888,2022-01-25,2023-10-17,97,3763.97,Yes,Platinum,None,3,13,High
+cust_3,Frank,Gray,gabriellecameron@example.org,505.964.1395,724 John Points Suite 969,Coxberg,North Carolina,United Kingdom,65187,2022-01-25,2022-03-12,90,4231.92,No,Platinum,Phone,2,10,High
+cust_336,Justin,Buck,tsilva@example.com,+1-464-688-3192x134,89659 Levy Street,Clarktown,Iowa,India,28870,2022-01-26,2024-04-05,3,2291.9,Yes,Platinum,Phone,1,18,High
+cust_64,Bruce,Fry,conniesimmons@example.com,8564856624,34270 Faulkner Point Apt. 634,West Deborah,New Hampshire,Canada,49138,2022-01-27,2024-01-17,96,5363.28,Yes,Platinum,Phone,2,15,High
+cust_721,Angela,Rosario,lmueller@example.net,,61065 Stevens Fort Suite 457,North Raymondberg,New Hampshire,China,54813,2022-01-28,2022-09-06,43,168.59,Yes,Silver,,5,15,High
+cust_797,Leah,Johnson,robingould@example.com,2608480224,7476 Williams Prairie Apt. 418,Ryanview,Indiana,Canada,05124,2022-01-28,2023-02-18,82,5730.39,No,Platinum,Phone,3,6,High
+cust_936,Jacqueline,Little,williamsmaria@example.org,789-733-3528x66013,29573 Daniel Wells,North Jackport,Minnesota,India,61540,2022-01-29,2023-07-21,25,2508.43,Yes,Platinum,SMS,4,3,High
+cust_790,Kyle,Dillon,andreamassey@example.com,685.624.7442x035,23873 Gay Plain,Gutierrezfort,New Mexico,Germany,40143,2022-01-30,2022-04-29,59,-2839.43,No,Platinum,Email,3,4,High
+cust_425,Cody,Paul,qharris@example.net,5015594463,532 Angela Island Apt. 263,East Christopherview,New York,France,16827,2022-01-30,2024-05-17,87,5109.34,No,Platinum,Email,4,19,High
+cust_1,Danielle,Johnson,john21@example.net,001-581-896-0013x3890,9402 Peterson Drives,Port Matthew,Colorado,Canada,50298,2022-02-01,2024-05-20,4,7418.09,Yes,Platinum,Phone,2,3,High
+cust_454,Pamela,Orozco,petersonjoel@example.org,449-283-0748,65118 Sandy Harbors Apt. 655,Hawkinsburgh,Alaska,Australia,97350,2022-02-01,2023-10-14,67,980.22,Yes,Gold,None,2,6,High
+cust_876,Lauren,Green,bethany83@example.net,959.707.9965x85783,816 Fox View Apt. 407,North Wendy,Tennessee,Canada,88309,2022-02-02,2023-12-13,49,3846.07,Yes,Platinum,Email,1,4,High
+cust_953,Scott,Simmons,carolgonzalez@example.org,759-569-2066x6048,34435 Lane Points,North Tammyport,Nevada,China,46570,2022-02-02,2024-09-15,98,5281.17,No,Platinum,SMS,4,20,Medium
+cust_65,James,Adams,russojacob@example.net,001-583-873-5403x3173,546 Ferguson Knolls,Josehaven,New York,Canada,61581,2022-02-03,2024-09-29,25,2969.5,No,Platinum,Phone,3,0,Low
+cust_820,Linda,York,qcollins@example.com,001-335-410-2140,19558 Knight Bridge,West Lindsey,Rhode Island,Germany,59980,2022-02-04,2024-08-08,59,6549.79,Yes,Platinum,None,4,9,Medium
+cust_810,Judith,Rios,scott40@example.com,946-597-1479,85595 April Forge Suite 456,North Stevenborough,Rhode Island,Australia,51396,2022-02-05,2022-04-22,93,2583.71,No,Platinum,Email,2,17,High
+cust_628,Erin,Rojas,vcole@example.com,697.475.5426x19038,3627 Henry Squares,East Sherry,Georgia,Canada,63696,2022-02-08,2024-02-26,92,8443.43,Yes,Platinum,SMS,3,2,High
+cust_170,Sandra,Hall,jwells@example.net,(704)676-5801x85694,49673 April Springs Apt. 580,Port Carloschester,Connecticut,China,69348,2022-02-08,2023-04-22,16,1295.35,Yes,Gold,None,3,10,High
+cust_852,Anna,Garcia,rushmatthew@example.org,001-732-851-7904x470,406 Garcia Shore,Roseland,Alaska,Germany,26444,2022-02-09,2024-04-13,16,4216.74,No,Platinum,Phone,3,12,High
+cust_437,Melissa,Garcia,hoganalan@example.net,(371)220-0720x24559,5109 Vanessa Ridges,Port Sandraburgh,Montana,China,64773,2022-02-12,2023-09-15,58,2728.62,No,Platinum,Phone,3,0,High
+cust_759,Erica,Cummings,zperez@example.org,(734)338-8804,202 Franklin Gardens Suite 450,New Gregory,Washington,France,31636,2022-02-12,2022-10-19,44,2262.65,No,Platinum,,5,9,High
+cust_581,Douglas,Williamson,tgarza@example.org,001-679-796-7080x89747,4183 Rodriguez Mountain Apt. 478,Jamieshire,Ohio,Canada,70390,2022-02-12,2023-02-19,25,8920.11,No,Platinum,Email,1,12,High
+cust_376,Michelle,Freeman,jeffrey11@example.net,+1-795-837-6601x444,1017 Brenda Forges Suite 417,Obrienfurt,Arizona,Canada,79362,2022-02-13,2024-05-12,69,68.93,Yes,Bronze,Email,1,11,High
+cust_164,Laura,Patel,pgarza@example.net,882.876.1539,321 Wilson Ranch Suite 581,Thompsonfurt,California,France,78916,2022-02-14,2024-04-19,78,1445.25,No,Gold,SMS,4,4,High
+cust_817,Steven,Thomas,aaron67@example.net,862-217-2048,86930 Olivia Skyway Apt. 645,Scottchester,New Jersey,United States,39627,2022-02-14,2023-10-05,43,1535.5,Yes,Gold,Phone,1,5,High
+cust_168,Kimberly,Harrison,vberry@example.com,(444)220-9494x079,904 Miller Parkways Apt. 442,Joshuaview,Alabama,Brazil,97681,2022-02-17,2022-08-06,37,5371.54,Yes,Platinum,None,2,8,High
+cust_843,Alexandra,Russell,uzimmerman@example.com,885-769-0509,826 Thompson Bypass Apt. 727,Port Aaron,South Dakota,United States,73111,2022-02-18,2023-11-30,79,1909.94,Yes,Gold,None,5,11,High
+cust_633,Megan,Jackson,martinkelsey@example.com,001-743-590-4489x09322,20235 Billy Valleys,Rebeccamouth,Minnesota,India,08283,2022-02-19,2024-06-27,31,1144.45,Yes,Gold,Email,2,9,High
+cust_34,Thomas,Strickland,hayesjeffrey@example.net,3849700766,15921 Joshua Roads Suite 698,Shawnchester,Connecticut,Canada,92484,2022-02-20,2023-11-17,49,8722.95,No,Platinum,Phone,2,14,High
+cust_651,Joseph,Hoffman,donna30@example.net,,315 Dakota Run Suite 928,West Aaronmouth,Wyoming,Germany,06580,2022-02-20,2022-04-13,94,6775.11,No,Platinum,Phone,4,4,High
+cust_456,Christopher,Moore,hernandezdaniel@example.org,001-524-988-8995x729,97454 Sara Union Apt. 364,Bartonmouth,Colorado,United Kingdom,76706,2022-02-21,2023-12-26,69,9984.35,No,Platinum,SMS,3,17,High
+cust_358,John,Norris,mthompson@example.com,+1-541-531-2840,977 Amanda Tunnel,West Kristyland,Illinois,Japan,63192,2022-02-22,2022-05-13,100,9212.41,Yes,Platinum,Phone,2,3,High
+cust_31,Charles,Webster,michelleramsey@example.com,+1-751-660-4817,513 Johnson Points Suite 931,Blankenshipport,Tennessee,France,54017,2022-02-22,2022-04-06,75,5529.73,No,Platinum,Phone,1,9,High
+cust_631,Becky,Farrell,rmoore@example.com,(738)308-3906x54025,932 Haynes Trace,Whiteland,Hawaii,India,75551,2022-02-24,2023-03-05,73,7268.88,Yes,Platinum,Phone,3,14,High
+cust_118,Cody,Bonilla,simsjason@example.net,,8193 Russell Mission,Hamiltontown,Missouri,Germany,88751,2022-02-24,2022-03-01,28,7675.82,No,Platinum,SMS,3,3,High
+cust_760,Thomas,Wang,lgray@example.net,+1-511-654-9044x318,9531 Gina Walks,Lake Tina,New Mexico,United Kingdom,63893,2022-02-25,2023-11-07,43,5686.23,No,Platinum,None,2,12,High
+cust_698,Rose,Ramirez,taylormelinda@example.org,(934)899-8013,7590 Thomas Mission,West Edwardport,Louisiana,China,53402,2022-02-26,2022-12-06,73,7149.32,Yes,Platinum,SMS,3,9,High
+cust_521,Michelle,Downs,lpage@example.com,(538)339-7283,87062 Tonya Path,Lake Belindaborough,Hawaii,India,19598,2022-02-27,2024-04-23,73,7875.39,Yes,Platinum,Phone,1,18,High
+cust_992,Gina,Mooney,edwardgomez@example.org,456.739.7489,75167 Suarez Stravenue,Fowlerborough,Mississippi,Brazil,71455,2022-02-27,2022-07-03,98,3749.48,Yes,Platinum,Phone,3,3,High
+cust_228,Daniel,Ramirez,mjackson@example.net,001-699-592-1921x2493,894 Smith Meadow,Port Sheilachester,Nebraska,France,36419,2022-02-28,2023-07-12,57,3354.01,Yes,Platinum,SMS,3,19,High
+cust_626,Patrick,Martin,martintownsend@example.com,+1-486-227-2884x07664,632 Dougherty Wall Apt. 538,Alvarezberg,Minnesota,China,79634,2022-03-04,2024-07-07,13,8085.18,Yes,Platinum,Phone,3,15,High
+cust_392,Renee,Pineda,ncampbell@example.com,,264 Micheal Brooks Suite 420,Jenkinsside,Iowa,Australia,53222,2022-03-04,2023-10-25,67,4064.36,No,Platinum,None,4,19,High
+cust_255,Jeffrey,Scott,qlynn@example.org,+1-828-571-5399x15668,1411 Matthew Ramp,Lake Sheri,Oregon,United Kingdom,48701,2022-03-06,2022-12-30,57,4570.62,No,Platinum,Phone,2,20,High
+cust_567,Heather,Santiago,xlogan@example.org,762.579.9553x024,23984 Jackson Burgs,West Jennifer,Florida,India,06617,2022-03-06,2022-12-14,29,744.56,No,Gold,Email,4,4,High
+cust_552,James,Dean,jenna86@example.org,001-509-429-7352x5953,73938 Aaron Lakes,Vazquezbury,Minnesota,Germany,30057,2022-03-08,2023-04-16,83,2039.17,Yes,Platinum,None,2,9,High
+cust_442,John,Smith,benjaminleah@example.com,+1-586-608-4907,68528 Alexis Meadow,West Deborahfort,Alaska,Japan,13537,2022-03-09,2024-02-21,67,1230.19,No,Gold,SMS,2,11,High
+cust_829,Jacqueline,White,rcollins@example.org,(702)620-1754,4879 Donna Square,North Mirandaview,Montana,Germany,54902,2022-03-11,2023-05-29,47,9663.1,Yes,Platinum,None,1,7,High
+cust_776,Elizabeth,Barnett,heathersanchez@example.com,8943765118,4099 Garcia Park Suite 398,East Taylormouth,Maryland,Canada,83900,2022-03-14,2024-05-17,29,9587.87,Yes,Platinum,Phone,2,1,High
+cust_564,Brooke,Lee,courtney70@example.net,(819)593-1458x43456,38850 Kenneth Falls,Port Rick,Texas,Brazil,97607,2022-03-15,2024-06-05,64,1771.47,Yes,Gold,Email,3,9,High
+cust_352,Tiffany,Pierce,karen69@example.com,451-458-8863x67747,0857 Frances Courts Suite 966,Lopeztown,South Carolina,Canada,29886,2022-03-18,2023-10-24,52,4129.26,Yes,Platinum,Email,5,19,High
+cust_279,Melinda,Osborne,kenneththomas@example.net,(333)930-2126x06501,25213 Alexander Village,Hernandezburgh,New Mexico,France,97960,2022-03-20,2023-07-30,51,7010.25,No,Platinum,SMS,4,8,High
+cust_431,Amber,Powell,hhayden@example.com,+1-396-748-6287x203,96664 Johnson Oval Apt. 036,South Michelle,Wisconsin,Brazil,98703,2022-03-20,2024-04-06,60,9750.07,No,Platinum,None,2,17,High
+cust_496,Sara,Wolf,jamesdean@example.net,204.493.6653,481 Kathy Haven Apt. 114,Port Angelafurt,South Dakota,China,69289,2022-03-21,2023-02-01,74,7875.2,Yes,Platinum,None,5,11,High
+cust_813,Sandra,Edwards,ealexander@example.net,480-830-0735x658,252 Young Stream,Pachecoview,Virginia,China,09454,2022-03-22,2023-07-11,48,1282.9,No,Gold,None,5,0,High
+cust_717,Michele,Valdez,daniel30@example.com,262.640.8710x06689,2820 Russell Fields,North Michaelburgh,Florida,Australia,30564,2022-03-23,2022-08-09,69,9526.6,No,Platinum,Email,1,14,High
+cust_653,Daniel,Greene,kgarrison@example.com,(262)408-0820x3917,44435 Mccoy Ferry Suite 587,North Gregoryport,Texas,India,86713,2022-03-23,2022-08-22,91,4238.68,No,Platinum,Email,1,17,High
+cust_489,Brian,Rodgers,stonerobert@example.com,(838)375-0827,25775 Francis Lake Suite 726,Port Ashley,Arizona,Canada,43156,2022-03-23,2022-06-15,33,3247.51,Yes,Platinum,Email,1,3,High
+cust_969,Benjamin,Barajas,imahoney@example.org,781-909-3054x8473,739 Joseph Stravenue Suite 538,West Micheleside,Hawaii,United States,64204,2022-03-26,2023-12-21,64,9273.06,Yes,Platinum,None,2,16,High
+cust_262,Cindy,Jones,jorge26@example.com,746-428-3143,56609 Chris Crossing Apt. 861,Daniellestad,Michigan,United States,36316,2022-03-27,2024-04-12,85,8759.51,Yes,Platinum,Phone,4,9,High
+cust_183,Earl,Hernandez,abigailburton@example.com,(782)875-6704x31038,579 Ellis Port Apt. 424,South Nathan,Maine,United States,06703,2022-03-29,2022-12-19,99,903.71,Yes,Gold,Email,2,13,High
+cust_276,Heather,Burton,smithbradley@example.net,618-562-0303x6625,172 Jeffrey Haven Suite 195,West Sandraland,Arizona,United States,79734,2022-04-01,2023-05-05,43,24.61,No,Bronze,SMS,1,6,High
+cust_220,Joseph,Porter,sbarajas@example.com,001-962-928-2772x8813,285 Carolyn Lodge,North Mikeport,Arizona,Canada,69022,2022-04-04,2023-03-14,65,7457.11,No,Platinum,Email,1,13,High
+cust_772,James,Mccall,chaseaustin@example.net,749-700-4903x72954,6399 Eric Vista,Yvetteborough,Rhode Island,Brazil,83353,2022-04-04,2024-07-27,18,4713.17,No,Platinum,Phone,2,0,Medium
+cust_355,Michael,Douglas,robinpope@example.org,915-617-7345x475,022 Johnson Land Suite 442,Thomasmouth,Utah,Canada,39151,2022-04-05,2024-04-20,6,8969.8,No,Platinum,Phone,4,3,High
+cust_35,Natalie,Arnold,russellbeasley@example.com,376-361-5654x52711,52809 Santiago Loop Suite 604,Michaelshire,North Carolina,Australia,28385,2022-04-05,2023-06-25,52,3289.34,Yes,Platinum,SMS,3,20,High
+cust_42,Melissa,Brandt,mathewaguilar@example.org,(346)829-1486x528,54235 Lee Dam Apt. 141,Lake Matthewberg,Rhode Island,Canada,49878,2022-04-05,2022-09-19,37,5159.37,No,Platinum,Email,2,9,High
+cust_275,Alison,Acosta,morrisonnicholas@example.org,200-223-1429,513 Timothy Port,Ochoaport,Michigan,China,63272,2022-04-05,2022-05-26,32,4644.63,No,Platinum,Phone,5,7,High
+cust_266,Katie,Wilson,timothy43@example.org,001-996-734-8079x7050,1052 Gomez Courts Suite 731,South David,New York,Canada,01406,2022-04-06,2023-12-05,66,9210.04,Yes,Platinum,SMS,4,18,High
+cust_549,Phyllis,Everett,turnerlevi@example.com,207.296.3731,8522 Christopher Stream,Davisside,Louisiana,United Kingdom,42225,2022-04-07,2023-03-08,84,6406.95,Yes,Platinum,None,3,4,High
+cust_161,Erica,Anderson,stevensjennifer@example.net,304-609-1570,435 James Harbor,Kendraville,Louisiana,Japan,20072,2022-04-08,2022-07-22,12,5030.71,Yes,Platinum,Phone,2,19,High
+cust_558,Alexandra,Lewis,ronaldbarry@example.org,992-827-6075,39431 Crystal Light Suite 430,Hunterville,Georgia,India,06488,2022-04-09,2023-10-01,42,1216.82,Yes,Gold,SMS,2,1,High
+cust_378,John,Griffin,nguyenholly@example.net,723-588-5652x715,1165 Fowler Throughway Suite 347,Matthewmouth,Mississippi,Japan,99430,2022-04-10,2022-09-12,38,-9601.74,Yes,Platinum,SMS,3,0,High
+cust_283,Destiny,Mack,victoriamason@example.net,+1-585-572-5459x606,97102 Payne Union,South Clintonmouth,Hawaii,Australia,39246,2022-04-12,2022-12-25,13,4625.81,Yes,Platinum,Email,1,1,High
+cust_946,Lisa,Stout,campbellanthony@example.net,383.343.7798x2402,231 Travis Port Apt. 810,Port Erinfurt,Georgia,China,41229,2022-04-14,2023-04-23,7,3939.34,No,Platinum,None,1,11,High
+cust_903,Deborah,Barker,tanderson@example.net,571-748-5418,525 Lisa Circle,Shannonhaven,Tennessee,China,66118,2022-04-15,2024-03-11,81,9944.1,Yes,Platinum,Email,2,9,High
+cust_182,Devon,Rogers,banksjo@example.net,001-733-955-4864x015,817 Hayes Land Apt. 371,South Rachaelport,California,United States,14835,2022-04-16,2022-07-27,71,9779.33,Yes,Platinum,None,4,15,High
+cust_888,Jessica,Smith,hernandezelizabeth@example.net,923.692.0102x9759,539 Morris Way Suite 442,Edwardview,Texas,France,85494,2022-04-17,2022-12-30,47,8489.03,Yes,Platinum,SMS,4,4,High
+cust_122,Charles,Jones,atkinsoncrystal@example.net,001-969-430-8488,3942 Mason Course Suite 580,Port Tamara,South Carolina,Australia,90175,2022-04-17,2023-07-31,43,7793.39,Yes,Platinum,Email,5,16,High
+cust_375,Joshua,Stafford,barberbrenda@example.net,(637)324-5018,74189 Hernandez Throughway Suite 406,Danielmouth,Nevada,Germany,77175,2022-04-20,2024-01-27,72,713.72,Yes,Gold,SMS,4,12,High
+cust_2,Cassandra,Roman,yherrera@example.org,+1-649-359-3103,64752 Kelly Skyway,Jacquelineland,Rhode Island,United States,83728,2022-04-23,2024-02-14,12,-2194.19,Yes,Platinum,Phone,5,13,High
+cust_745,Joshua,Holloway,zrich@example.net,503.235.6369,00908 Cameron Mills,Lake Adamport,Ohio,Canada,06380,2022-04-26,2023-11-30,44,9361.78,No,Platinum,None,2,11,High
+cust_39,Marilyn,Gillespie,kimdaniel@example.com,001-468-316-4535,835 Luna Viaduct,East Curtis,Kentucky,Canada,26357,2022-04-26,2022-09-11,93,9001.47,No,Platinum,None,3,12,High
+cust_896,Robert,Flores,michael85@example.net,(463)756-5418x0288,28866 Rhonda Island,Peterhaven,Wisconsin,Canada,41154,2022-04-28,2023-07-25,47,-6035.87,No,Platinum,Email,2,9,High
+cust_133,Bianca,Nguyen,jacob43@example.com,995.452.7636x5564,314 Angela Walks,Gonzalezberg,New Mexico,Japan,01777,2022-04-29,2023-07-24,95,8837.98,Yes,Platinum,SMS,5,4,High
+cust_954,Howard,Johnson,dcurry@example.net,+1-717-704-8364x81165,421 Victor Throughway Apt. 136,Lake Phillip,Oregon,France,65584,2022-04-30,2023-04-25,50,9750.9,Yes,Platinum,None,2,2,High
+cust_171,Jeffrey,Campbell,austinharvey@example.org,+1-439-611-1926x921,1746 Scott Tunnel Apt. 406,Cookton,Kentucky,India,35191,2022-05-01,2022-07-02,65,412.15,Yes,Silver,Phone,3,15,High
+cust_660,Craig,Fox,tiffany24@example.org,734-874-1253x1379,07773 Charles Keys,East Robertshire,Wisconsin,United Kingdom,87433,2022-05-02,2022-06-11,16,3502.55,Yes,Platinum,SMS,2,5,High
+cust_207,Natalie,Austin,zachary62@example.com,001-672-487-0320x3207,1707 Zhang Points Suite 771,North Michael,Indiana,Brazil,37740,2022-05-03,2022-10-01,69,6490.73,No,Platinum,SMS,3,16,High
+cust_568,Carlos,Stanton,davisjennifer@example.org,+1-724-605-0764x87177,99240 Ward Plains Apt. 872,Fullermouth,North Carolina,Brazil,08901,2022-05-03,2023-02-11,93,1949.61,No,Gold,SMS,2,10,High
+cust_814,Kathryn,Myers,davisdavid@example.org,,9465 Stuart Roads,Nicholasstad,Vermont,India,28651,2022-05-04,2024-01-10,41,7715.1,Yes,Platinum,Phone,1,12,High
+cust_709,Paula,Hughes,audrey12@example.org,863-694-7625x4292,3391 Taylor Prairie Suite 036,Williamland,Texas,Japan,14897,2022-05-04,2023-05-10,11,1932.34,Yes,Gold,Phone,4,16,High
+cust_892,Matthew,Rivera,lynnholmes@example.com,+1-619-921-4749,0429 Selena Cove Suite 847,North Jose,Colorado,United States,60533,2022-05-06,2023-03-03,37,1121.55,Yes,Gold,,5,5,High
+cust_824,Alex,Romero,wrice@example.net,(906)269-9261x38268,7795 Williams Shoal Apt. 996,South Jeffrey,New Jersey,France,77736,2022-05-07,2024-03-04,2,1208.8,Yes,Gold,Email,4,20,High
+cust_280,Stacy,Harrison,scott04@example.org,(800)992-8206,843 Huynh Groves Apt. 862,South Christine,Iowa,Canada,51919,2022-05-07,2024-03-04,20,1065.52,No,Gold,None,3,13,High
+cust_862,Steven,Hill,dylanharrington@example.net,993-325-2826,9379 Jacobs Road,Meganburgh,Idaho,Canada,41529,2022-05-08,2023-11-08,6,5869.75,Yes,Platinum,Phone,4,3,High
+cust_994,Barbara,Carroll,jasonallen@example.org,813.487.8305,3355 Rodney Extension Apt. 294,Kinghaven,Delaware,Canada,15408,2022-05-10,2022-09-27,75,252.19,Yes,Silver,Phone,1,4,High
+cust_617,Aaron,Barnett,kristopherrogers@example.net,888-621-8849x6806,1102 Eugene Wells,Larryview,Colorado,Australia,95686,2022-05-10,2024-06-17,81,9424.61,Yes,Platinum,,1,2,High
+cust_192,Jacob,Nunez,whitemichael@example.com,(638)236-1517x18275,7164 Burke Inlet,Perezchester,Maine,Brazil,56594,2022-05-12,2022-07-12,12,8989.9,No,Platinum,Email,4,4,High
+cust_673,Amanda,Graham,melanie69@example.org,(256)718-3359x74876,23771 Sanchez Avenue Apt. 922,New Michaelfort,Kansas,Canada,28945,2022-05-13,2024-05-08,56,5348.42,Yes,Platinum,None,1,0,High
+cust_448,Jeffery,Erickson,joannshort@example.net,836.508.4937x83063,2696 Adams Ridges Apt. 649,Smithville,Montana,Japan,77930,2022-05-15,2022-12-25,20,4499.35,No,Platinum,SMS,4,0,High
+cust_360,Sonya,Freeman,patricia87@example.com,(421)564-1758,34845 Garcia Hills,New Emily,Massachusetts,Japan,20999,2022-05-16,2023-05-02,39,8432.31,No,Platinum,Phone,2,6,High
+cust_728,Peter,Garrett,ojohnson@example.com,+1-463-353-2237x1859,8485 Walker Parks,North Justinberg,Rhode Island,United States,41338,2022-05-17,2022-06-21,42,4331.16,No,Platinum,SMS,1,16,High
+cust_915,Robert,Coleman,halladam@example.org,896-922-7238,217 Peter Pines Apt. 850,Marymouth,Alaska,United States,77240,2022-05-18,2022-06-12,72,7832.89,Yes,Platinum,Email,5,19,High
+cust_463,Andrew,Miller,yparker@example.com,489-688-0315x3888,279 Emily Junctions Apt. 404,East Sabrina,Indiana,France,47039,2022-05-18,2023-08-26,70,5653.48,No,Platinum,Phone,2,1,High
+cust_185,Sarah,Moore,deborah47@example.com,001-892-597-5170x28140,1509 Brandy Forges Suite 301,Rhodesland,North Carolina,Japan,52198,2022-05-19,2023-02-23,68,4944.19,Yes,Platinum,None,3,6,High
+cust_942,Stephen,Peterson,owheeler@example.net,+1-485-290-7429x414,577 White Vista Apt. 847,Mullinsland,Rhode Island,China,45772,2022-05-19,2022-08-11,83,4223.28,No,Platinum,SMS,3,6,High
+cust_327,Shawn,Hardin,wallaceryan@example.com,424-715-1315,8150 Garcia Squares Suite 380,East Derrickfurt,Iowa,China,88758,2022-05-20,2023-07-08,25,3438.24,Yes,Platinum,None,3,16,High
+cust_75,Samuel,Horton,carlos01@example.org,412-438-2825x86736,0937 Price Squares Apt. 341,Port Monicaburgh,Mississippi,Germany,43228,2022-05-21,2022-08-29,74,411.91,Yes,Silver,None,5,20,High
+cust_89,Christopher,Aguirre,margaret90@example.org,521-335-6804x42067,21003 James Locks Suite 199,Samanthaland,Alaska,France,08951,2022-05-22,2023-12-11,56,1464.24,No,Gold,Phone,2,5,High
+cust_343,Deborah,Garcia,kevin78@example.org,001-707-997-9966x73459,0381 Simmons Grove Suite 902,West Olivia,Vermont,France,69193,2022-05-23,2024-09-23,87,3133.94,Yes,Platinum,Email,1,0,Low
+cust_770,Timothy,Byrd,marissa74@example.net,+1-679-890-5221x711,5818 Wanda Branch Suite 173,Richardbury,Connecticut,Australia,53969,2022-05-25,2022-08-15,65,455.91,Yes,Silver,Email,4,12,High
+cust_857,Michael,Ball,bernardchristina@example.net,431.573.9462x487,653 Michelle Shoals Suite 871,Jacquelinebury,Louisiana,United States,76064,2022-05-26,2022-09-11,79,2004.44,Yes,Platinum,None,4,16,High
+cust_409,Andrea,Williams,clarkbrandi@example.org,(619)658-2632x809,623 Cook Islands Suite 614,Johnsonhaven,Wyoming,India,53675,2022-05-30,2022-09-05,46,6699.92,No,Platinum,Phone,5,0,High
+cust_867,Andrea,Taylor,rking@example.org,(327)296-3651x29555,1081 Barker Trafficway,Jenniferberg,Nevada,United Kingdom,23165,2022-06-02,2022-07-13,1,1608.43,Yes,Gold,Email,5,14,High
+cust_692,April,Blair,wendylee@example.com,001-770-277-3123x155,0521 Williamson Spring Apt. 844,Bradleystad,North Carolina,United States,70938,2022-06-04,2024-09-23,81,9800.67,No,Platinum,None,4,17,Low
+cust_554,Richard,Gonzalez,imolina@example.org,632.622.8019,8922 Jessica Knoll,Brownburgh,South Carolina,Japan,44742,2022-06-06,2023-12-25,83,3084.23,No,Platinum,Email,1,10,High
+cust_99,Joseph,Pena,rjohnson@example.com,(999)660-6530,54447 Teresa Forks Apt. 475,Jessicaland,Illinois,United Kingdom,58397,2022-06-06,2024-05-18,6,9463.15,No,Platinum,None,1,3,High
+cust_285,Eric,Ross,walkermorgan@example.net,357-878-7112,65155 Lewis Streets Suite 147,New Ericfort,Georgia,Canada,84415,2022-06-08,2023-10-11,43,1234.05,No,Gold,Email,2,18,High
+cust_490,Lisa,Bond,qreyes@example.net,416.308.2717,337 Sara Shoal Apt. 052,East Barbara,Oregon,Japan,81085,2022-06-09,2023-05-30,79,9498.04,No,Platinum,None,1,5,High
+cust_774,Jeff,Brown,alaningram@example.com,+1-968-459-0964x598,089 Jacqueline Mount Suite 351,Moralesland,California,Australia,27527,2022-06-11,2023-11-27,57,6970.46,Yes,Platinum,,3,14,High
+cust_330,Brian,Washington,matthewcardenas@example.com,263.292.8319x952,55810 Michael Flat Apt. 863,Lauriestad,Michigan,Brazil,54685,2022-06-11,2024-03-02,25,5009.77,No,Platinum,SMS,4,1,High
+cust_503,Katherine,Hodge,audrey53@example.net,001-915-820-4998x094,313 Garza Spur Apt. 669,Curtisfurt,Connecticut,China,19957,2022-06-12,2023-02-13,79,9601.53,Yes,Platinum,Phone,3,10,High
+cust_925,Steven,Rowe,kimberly06@example.org,716-585-2247x67512,990 Jennifer Knolls Apt. 669,East Derek,Nevada,Japan,30719,2022-06-12,2023-01-19,95,6003.46,No,Platinum,Phone,5,13,High
+cust_299,Katie,Dawson,angelica33@example.net,517-903-0376,3988 Hodges Inlet,Rioshaven,Connecticut,France,17548,2022-06-14,2023-04-21,-58,123.84,Yes,Silver,Phone,1,11,High
+cust_641,Amber,Thompson,kennethford@example.org,001-936-900-6082,6461 Guerra Centers,Cantrellberg,Montana,Canada,37382,2022-06-14,2023-09-07,69,8670.86,No,Platinum,None,1,12,High
+cust_834,Mary,Austin,hinesjeremy@example.net,,573 Perry Heights Apt. 662,West Jose,Georgia,Japan,04833,2022-06-17,2024-04-14,78,1648.79,Yes,Gold,SMS,4,12,High
+cust_63,Donna,Mendez,allencarlos@example.net,5792030673,439 Ray Trail,Joelberg,Texas,Brazil,68822,2022-06-17,2023-02-28,71,5313.91,No,Platinum,SMS,3,14,High
+cust_441,Joshua,Myers,ryandodson@example.org,398.948.7045x069,9935 Shannon Hills Apt. 394,Bakerhaven,Iowa,Brazil,05815,2022-06-18,2024-05-18,95,7712.25,Yes,Platinum,None,4,9,High
+cust_771,Candace,Zavala,marissa72@example.net,001-561-269-4963x78811,201 Dawn Bridge Suite 167,Jacobburgh,Delaware,Germany,51490,2022-06-18,2024-10-04,15,7093.91,Yes,Platinum,SMS,4,15,Low
+cust_877,Steven,Bernard,beardgina@example.org,700-678-8369x22338,36999 Anderson Plaza,Evelynton,Washington,United States,25049,2022-06-20,2024-03-31,2,9576.6,Yes,Platinum,SMS,1,6,High
+cust_901,Rodney,Martin,shelby99@example.net,226-340-7608x953,033 Heather Garden,Davisfurt,Georgia,Australia,71843,2022-06-20,2023-04-18,28,8076.69,Yes,Platinum,Phone,5,16,High
+cust_546,Shelley,Peters,joseph21@example.net,880.687.9919x62341,85324 Dickson Ferry,Elizabethstad,Ohio,France,31414,2022-06-21,2023-01-28,33,1628.04,Yes,Gold,SMS,1,12,High
+cust_203,Robert,Daniel,shawn00@example.net,+1-527-420-6345x9112,7724 Grace Views Suite 431,Richardsonfurt,Missouri,United Kingdom,75263,2022-06-21,2024-09-03,60,9148.26,No,Platinum,None,5,16,Medium
+cust_150,Paul,Whitney,mckeetodd@example.net,+1-512-638-7800,6205 Kelly Hollow Apt. 840,Natashatown,Oklahoma,France,37226,2022-06-22,2023-04-08,79,9981.52,No,Platinum,Email,1,20,High
+cust_945,Christine,Greene,chavezdaniel@example.org,220-753-5313x18456,2322 Adam Corner,New Joseph,Kentucky,Canada,98040,2022-06-22,2022-09-22,61,960.25,No,Gold,SMS,3,10,High
+cust_723,Morgan,Burke,amanda57@example.com,001-606-427-9602,0333 Christine Junction Suite 523,West Danielleberg,North Dakota,India,51209,2022-06-23,2023-02-15,-77,3586.08,Yes,Platinum,Email,1,14,High
+cust_644,Kayla,Jackson,michael53@example.net,(494)879-0254x8536,7238 Gross Grove,Lake Alexandertown,Rhode Island,Japan,44921,2022-06-23,2024-07-03,-95,3274.42,Yes,Platinum,Email,2,20,High
+cust_320,Megan,Robinson,rileychristopher@example.net,+1-451-572-4447,90310 Gabrielle Wall,Rileyton,Oklahoma,United States,94526,2022-06-24,2024-09-07,31,3730.94,No,Platinum,Phone,4,18,Medium
+cust_320,Megan,Robinson,rileychristopher@example.net,+1-451-572-4447,90310 Gabrielle Wall,Rileyton,Oklahoma,United States,94526,2022-06-24,2024-09-07,31,3730.94,No,Platinum,Phone,4,18,Medium
+cust_130,Jeremy,Mccarty,kspears@example.org,626-681-8184x518,9735 Maldonado Radial Apt. 714,South Cynthiabury,Utah,China,92405,2022-06-27,2023-03-20,20,3340.29,Yes,Platinum,SMS,3,20,High
+cust_520,Haley,Alvarez,shannonmueller@example.org,6538912878,882 Kevin Island Suite 927,West Maryberg,Kentucky,Australia,49894,2022-06-29,2024-05-11,80,2444.47,Yes,Platinum,None,4,2,High
+cust_138,Jeffrey,Miller,zacharymarsh@example.net,001-944-984-6312x241,973 Smith Causeway Apt. 214,Davidmouth,Washington,Brazil,01576,2022-06-30,2022-11-03,45,9305.41,No,Platinum,Email,4,16,High
+cust_773,Kimberly,Mcclain,kimjoseph@example.net,001-825-281-4762x123,863 Howard Courts,Lake Kendra,Kentucky,United Kingdom,42226,2022-07-01,2023-03-21,10,6717.21,Yes,Platinum,SMS,2,14,High
+cust_524,Janet,Snow,valeriesmith@example.com,+1-251-269-9497,366 Kelly Divide Suite 899,Mooremouth,Alabama,Australia,69701,2022-07-01,2023-06-30,88,8775.48,No,Platinum,SMS,4,11,High
+cust_777,Veronica,Cohen,romeromakayla@example.com,410-435-6594,237 Dawson Meadows,Greeneburgh,Oregon,Australia,45979,2022-07-01,2023-09-25,80,2079.12,No,Platinum,None,1,7,High
+cust_598,Joseph,Wilson,brittanybauer@example.org,001-269-406-7649,849 Hubbard Well,Karenstad,Delaware,Australia,93157,2022-07-04,2024-05-29,4,1202.35,No,Gold,None,1,19,High
+cust_315,Andrea,Potts,jennifer10@example.com,235.967.4300x03896,6266 Darrell Crest,Michaelmouth,Nevada,United States,08093,2022-07-06,2022-09-20,51,8896.85,No,Platinum,Phone,1,15,High
+cust_988,Jesus,Hickman,bowmandwayne@example.com,5475012592,78568 Shawn Rapids Suite 505,South Stephaniebury,Vermont,China,74268,2022-07-06,2024-04-03,44,4600.22,Yes,Platinum,SMS,3,12,High
+cust_17,Brittany,Alvarado,dayderek@example.com,(804)665-3755,1708 Zoe Keys Apt. 100,East Mary,South Carolina,France,20474,2022-07-06,2023-08-05,10,5146.42,No,Platinum,None,2,17,High
+cust_229,Tyler,Holmes,stephensonjeffrey@example.com,(587)550-6351x90361,4110 Reynolds Burg,Marybury,Connecticut,France,62573,2022-07-06,2023-04-16,38,7351.39,No,Platinum,Phone,3,12,High
+cust_831,Michelle,Rogers,jermainemorales@example.org,885-981-9701x501,209 Michael Ports Apt. 018,New Jennifer,Minnesota,United States,17059,2022-07-06,2024-02-14,31,376.97,Yes,Silver,SMS,2,4,High
+cust_26,Sarah,Carter,robert77@example.org,682.263.9821x465,499 Grimes Mission Suite 558,Gibsonmouth,Illinois,Canada,91923,2022-07-06,2023-05-21,2,4588.27,Yes,Platinum,Email,5,6,High
+cust_281,Anita,Skinner,pwoods@example.net,,2811 Carla Throughway,Jacobborough,South Dakota,Brazil,04743,2022-07-08,2022-09-16,34,8526.3,Yes,Platinum,Phone,3,19,High
+cust_281,Anita,Skinner,pwoods@example.net,,2811 Carla Throughway,Jacobborough,South Dakota,Brazil,04743,2022-07-08,2022-09-16,34,8526.3,Yes,Platinum,Phone,3,19,High
+cust_665,William,Brown,gfreeman@example.net,+1-687-509-2019x918,32661 Matthew Harbor,Annmouth,Hawaii,Germany,52843,2022-07-09,2024-01-07,23,2408.4,No,Platinum,Email,1,6,High
+cust_249,Jennifer,Gonzalez,adamhensley@example.net,001-257-366-6567x4916,236 Wise Terrace Suite 875,Lake Paulchester,West Virginia,France,32848,2022-07-10,2022-08-07,69,2818.04,Yes,Platinum,SMS,3,9,High
+cust_666,Daniel,Douglas,phillipsshawn@example.net,+1-622-905-3970x77454,231 Christensen Highway,Reeseshire,Michigan,United Kingdom,96078,2022-07-12,2023-02-22,16,2992.48,No,Platinum,SMS,5,4,High
+cust_640,Gavin,Martin,christopher99@example.org,+1-200-696-6270x266,95632 Thomas Haven Apt. 039,North Joland,Oregon,France,29285,2022-07-14,2024-04-05,40,220.53,Yes,Silver,Email,2,8,High
+cust_147,Emily,Osborn,kmullins@example.net,936-246-2251,1686 Kathleen Orchard Apt. 769,New Christina,West Virginia,France,69215,2022-07-14,2022-09-11,35,1253.51,No,Gold,None,4,14,High
+cust_727,Kenneth,Sherman,ericalyons@example.org,477-966-6505,20928 Lori Rue Suite 780,Bateston,Georgia,Japan,17808,2022-07-14,2024-01-23,94,7824.7,Yes,Platinum,Email,5,19,High
+cust_82,Vanessa,Henderson,timperez@example.org,001-211-455-4262x2189,3269 Heath Corners Apt. 219,Bellchester,Massachusetts,United Kingdom,18828,2022-07-16,2023-12-29,9,2769.71,No,Platinum,SMS,5,8,High
+cust_179,Jennifer,Chen,james20@example.net,001-704-521-7762,292 Christopher Walks Suite 397,Ramirezchester,West Virginia,Canada,32830,2022-07-16,2023-07-09,74,6769.46,No,Platinum,None,3,4,High
+cust_265,Timothy,Robertson,sullivanchristina@example.net,9684538909,15285 Roberto Light,West Tara,Michigan,India,89507,2022-07-18,2023-10-04,65,2872.01,No,Platinum,None,4,2,High
+cust_145,Jason,Cannon,michael77@example.com,,0488 Clinton Mount,Ericview,Mississippi,Brazil,76805,2022-07-18,2023-02-13,90,4790.53,Yes,Platinum,Phone,1,14,High
+cust_6,John,Caldwell,ambercummings@example.net,001-773-876-3116,0106 Mcbride Coves Apt. 338,Taylorburgh,Louisiana,United Kingdom,61138,2022-07-18,2024-08-15,48,3559.15,No,Platinum,Email,5,20,Medium
+cust_630,Robert,Woodward,davistiffany@example.com,(364)971-0680,31637 Pamela Spur Apt. 049,East Jack,New Jersey,Japan,24557,2022-07-23,2023-03-08,24,8810.16,Yes,Platinum,None,2,14,High
+cust_808,Kenneth,Rodriguez,michaelford@example.org,6016154773,148 Anderson Knoll,Taylorhaven,Michigan,Japan,53098,2022-07-24,2023-01-22,5,1287.33,Yes,Gold,SMS,5,14,High
+cust_980,Mark,Mason,hebertkristin@example.com,001-265-276-5786,1267 Green Glens Suite 363,South Benjamin,Nebraska,Australia,14574,2022-07-24,2023-07-13,67,1450.08,No,Gold,Phone,2,20,High
+cust_696,Michael,Chen,amy17@example.com,001-391-861-7050x2218,413 Monroe Shores,Hugheston,Virginia,China,77938,2022-07-24,2023-10-26,34,2420.98,No,Platinum,None,5,3,High
+cust_28,Gabrielle,Mitchell,juliehamilton@example.org,001-517-824-0050x45562,21969 Tyler Prairie,East Steven,Kentucky,Canada,60737,2022-07-24,2022-07-31,18,2652.01,Yes,Platinum,Phone,3,9,High
+cust_361,George,Moore,markblack@example.com,+1-796-943-4745x2455,9660 Brown Lodge Suite 274,Port Janetborough,Texas,United Kingdom,94436,2022-07-25,2024-06-03,65,5429.49,No,Platinum,Email,3,17,High
+cust_260,Timothy,Benson,bauerherbert@example.com,+1-964-392-1518x2606,12920 Mcbride Crossing,East Baileyburgh,Colorado,Australia,74228,2022-07-26,2024-03-30,81,7485.21,No,Platinum,None,2,2,High
+cust_731,Lisa,Lane,maria04@example.com,+1-325-406-9296x5685,2767 Carla Fort,Jacquelinemouth,Pennsylvania,India,28748,2022-07-27,2024-07-10,4,5929.38,No,Platinum,SMS,2,3,High
+cust_883,Glenn,Butler,hurstdavid@example.org,937.474.2705x49857,63228 Susan Expressway,Cherryside,Arkansas,Canada,38660,2022-07-28,2024-02-20,1,8618.52,Yes,Platinum,Phone,3,4,High
+cust_363,Sandra,Rodriguez,nicolejones@example.net,(622)694-9381x73598,15573 Manuel Forks,Coxborough,Utah,United Kingdom,92783,2022-07-28,2023-11-30,37,6837.07,Yes,Platinum,,3,6,High
+cust_497,Alan,Ortega,edwardmitchell@example.org,7934556103,13712 Lee Knolls Suite 856,Kathrynberg,Indiana,India,04045,2022-07-29,2022-09-27,9,7586.84,Yes,Platinum,SMS,4,4,High
+cust_662,Charles,Sherman,hartmancrystal@example.net,+1-351-673-2895,3409 Angela Knoll Apt. 558,Lake Jillville,Massachusetts,Germany,59731,2022-07-30,2024-03-03,88,9813.53,Yes,Platinum,None,3,18,High
+cust_202,Samantha,Powers,angela45@example.net,383-576-0644,27560 Delacruz View Suite 765,Mcdowellville,Hawaii,Japan,92052,2022-07-31,2022-09-22,41,6966.12,No,Platinum,Phone,3,12,High
+cust_597,Nicholas,Smith,kennethboyd@example.com,641-861-0197x535,51038 Derek Forest Apt. 427,Clarkberg,North Carolina,United States,13929,2022-08-02,2023-02-27,1,1548.7,No,Gold,None,1,20,High
+cust_121,Jimmy,Mitchell,mcculloughlouis@example.com,594-892-9955x62053,2577 Howard Inlet Suite 812,Port Juanberg,Ohio,France,26247,2022-08-02,2024-07-18,12,4372.75,Yes,Platinum,Phone,4,18,High
+cust_643,Patricia,Goodwin,ntrevino@example.com,+1-942-290-4617x551,9993 Kevin Falls,East Justinbury,New Hampshire,Brazil,40825,2022-08-06,2023-03-08,61,7372.05,No,Platinum,None,1,5,High
+cust_693,Larry,Parker,ptapia@example.net,323-750-3687,910 Johns Mission Suite 802,Lake Teresa,Wyoming,Germany,82756,2022-08-06,2023-07-14,68,6107.91,Yes,Platinum,None,4,20,High
+cust_272,Joshua,Ponce,brandon90@example.net,867.888.1278,432 Ernest Forge Apt. 878,Kevinbury,Maine,United States,93333,2022-08-08,2022-11-11,71,8033.12,No,Platinum,Phone,3,7,High
+cust_317,Robyn,Robinson,shelly84@example.net,884.958.8105,32834 David Stream Apt. 037,Bentontown,New York,India,04925,2022-08-10,2023-11-23,78,6459.09,Yes,Platinum,None,2,13,High
+cust_932,Betty,Johnson,turnerapril@example.com,001-707-732-6447x8937,76090 Tyler Mall Suite 581,West Michaelfort,Kansas,France,94318,2022-08-12,2023-07-25,82,9083.94,Yes,Platinum,Phone,3,0,High
+cust_412,Anthony,Galvan,hthompson@example.org,001-337-898-4409x7123,07676 Teresa Ports Apt. 144,Harrisview,Alaska,Brazil,88482,2022-08-12,2024-07-07,49,5636.05,Yes,Platinum,SMS,4,14,High
+cust_412,Anthony,Galvan,hthompson@example.org,001-337-898-4409x7123,07676 Teresa Ports Apt. 144,Harrisview,Alaska,Brazil,88482,2022-08-12,2024-07-07,49,5636.05,Yes,Platinum,SMS,4,14,High
+cust_58,Andrea,Hickman,edelgado@example.com,+1-434-254-0193x8026,2400 Bradley Coves Suite 478,Smallberg,North Carolina,France,61845,2022-08-13,2024-05-18,2,8497.26,No,Platinum,Email,4,11,High
+cust_256,Omar,Mclaughlin,bryan83@example.com,(455)628-9931x60875,7294 Julie Vista,New Lukehaven,Vermont,France,16683,2022-08-13,2024-06-18,33,833.38,Yes,Gold,Email,4,20,High
+cust_222,Shannon,Cole,christopher99@example.com,(336)358-0741x2094,890 Karen Parkway,North Dominiqueside,Idaho,China,02987,2022-08-15,2023-01-25,85,3806.93,No,Platinum,Phone,1,2,High
+cust_362,Andrew,Simmons,jnguyen@example.net,,970 Watts Squares Suite 349,Brownton,South Dakota,Japan,45418,2022-08-16,2023-06-05,37,8776.0,No,Platinum,Email,5,3,High
+cust_561,Evan,Gutierrez,ronaldyoung@example.org,594-689-8959x65466,4344 Latoya Inlet Apt. 699,Port Catherine,Virginia,Brazil,34380,2022-08-16,2023-08-09,89,1277.66,Yes,Gold,SMS,5,14,High
+cust_818,Richard,Morris,chelseasmith@example.com,001-309-970-3425,81589 Jacob Plains,New Peter,Alabama,United Kingdom,61104,2022-08-17,2022-11-18,3,5483.95,No,Platinum,None,4,11,High
+cust_443,Jonathan,Sandoval,robert63@example.net,,14217 Martinez Trafficway,Dixonfort,Texas,India,81027,2022-08-19,2022-10-23,42,160.53,No,Silver,,4,7,High
+cust_428,Travis,Ramsey,qdavis@example.com,545.247.2239,0312 Christina Plaza Apt. 418,Shawnport,Georgia,Australia,57634,2022-08-19,2024-08-12,85,2523.95,Yes,Platinum,Phone,2,12,Medium
+cust_450,Donna,Becker,oalvarado@example.org,265.633.7746,7200 Warren Ford,Rodriguezport,Georgia,United Kingdom,37652,2022-08-20,2023-07-22,79,2838.46,No,Platinum,SMS,1,3,High
+cust_647,Joel,Jenkins,cjohnson@example.org,001-937-546-9833x067,7182 Jessica Manor,Barronfort,Oregon,Australia,84698,2022-08-22,2022-10-25,11,4150.82,Yes,Platinum,None,4,18,High
+cust_918,Justin,Potter,jimcraig@example.com,001-238-332-6489x710,78129 Fields Junction Suite 613,Port Josephshire,Maryland,United Kingdom,73827,2022-08-22,2024-02-23,77,3781.79,No,Platinum,Phone,2,18,High
+cust_257,Audrey,Welch,troypadilla@example.com,6524330276,656 Mooney Throughway,Myershaven,Washington,Canada,37599,2022-08-23,2024-08-18,-1,2142.08,Yes,Platinum,Phone,5,7,Medium
+cust_13,David,Mccullough,elizabeth56@example.net,682-636-6299x4680,9957 Ramos Forest,Leonburgh,Texas,Japan,11615,2022-08-25,2024-01-28,1,5993.46,No,Platinum,Email,1,11,High
+cust_304,Natalie,Shelton,harcher@example.org,755-369-6443x098,9541 Victor Spur Apt. 728,Cindyburgh,Maryland,Germany,64310,2022-08-29,2024-05-14,39,2383.11,Yes,Platinum,None,5,17,High
+cust_510,Lisa,Lutz,jenniferrodriguez@example.org,760.252.3045x8816,4472 Martinez Court,Stewartton,Illinois,United States,91860,2022-08-30,2022-09-21,59,3882.01,Yes,Platinum,Email,3,1,High
+cust_324,Rachel,Walter,jacksonrobert@example.net,001-871-820-6021x288,68341 Merritt Junction Apt. 015,Lozanomouth,West Virginia,China,57607,2022-08-31,2023-09-06,51,5849.03,Yes,Platinum,SMS,5,20,High
+cust_52,Courtney,Roberts,timothy64@example.com,402-776-7735,562 Robertson Coves Suite 371,Shannonberg,Connecticut,India,07133,2022-09-01,2023-06-26,18,8669.85,Yes,Platinum,Email,3,12,High
+cust_583,Linda,Rivera,elizabeth88@example.org,+1-797-241-8563x027,30566 Brittany Ways,Deannatown,Minnesota,United Kingdom,51278,2022-09-03,2023-11-09,61,3473.54,No,Platinum,Email,3,6,High
+cust_149,Kevin,Ruiz,jason83@example.org,+1-284-687-9206,43940 Pena Branch,South Donnastad,Connecticut,Canada,03001,2022-09-03,2024-07-19,11,3285.92,No,Platinum,SMS,4,19,High
+cust_46,Christopher,Villegas,ashleyamy@example.net,+1-706-370-6540,19520 Payne Via Apt. 772,North Jennifer,New Jersey,Brazil,05348,2022-09-04,2022-10-07,21,7439.12,No,Platinum,None,3,7,High
+cust_899,Michael,Silva,brucemartinez@example.com,622.285.7042,5546 Tina Underpass,Staffordmouth,Tennessee,France,05570,2022-09-04,2022-11-23,17,7029.54,Yes,Platinum,SMS,4,16,High
+cust_658,Penny,Roberts,pearsondominique@example.com,(229)514-3049x1341,2872 Brittany Plains Suite 564,Lake Kristi,Vermont,United Kingdom,18252,2022-09-08,2022-09-16,72,8531.81,No,Platinum,Email,2,4,High
+cust_405,Kayla,Joseph,melanie07@example.org,705.959.7824,833 Kenneth Circle Apt. 884,Port Nicholas,Vermont,United Kingdom,01931,2022-09-09,2023-02-13,13,2152.44,No,Platinum,SMS,5,19,High
+cust_292,Kimberly,Hartman,donna41@example.org,+1-309-311-7911x2442,3617 Robert Oval Apt. 366,Cynthiamouth,Hawaii,France,24068,2022-09-10,2024-08-04,73,5640.43,Yes,Platinum,,5,9,Medium
+cust_971,Juan,Stevenson,jillian89@example.org,+1-744-764-0350x7695,5881 William Station,Lake Elijah,New Hampshire,India,43720,2022-09-11,2024-04-22,46,6605.93,Yes,Platinum,Email,3,4,High
+cust_225,Cynthia,Harris,nathanielgalloway@example.org,+1-468-270-0794,4946 Kirby Forest,Brandonside,Oregon,India,09667,2022-09-12,2023-07-12,2,2925.56,No,Platinum,Email,5,7,High
+cust_854,Katherine,Hayes,shelbywarner@example.net,8577631010,1253 Johnson Heights Apt. 047,Stephaniefurt,New Jersey,India,79071,2022-09-12,2023-11-16,77,7376.94,No,Platinum,None,3,9,High
+cust_190,Lisa,Preston,gerald40@example.net,332-823-4232,07603 Antonio Shoals,South Davidview,Arizona,China,09184,2022-09-13,2022-09-20,48,4164.3,No,Platinum,Phone,2,19,High
+cust_37,Kimberly,Bradley,wareeric@example.net,6145767976,6149 Rose Inlet,East Randallton,Alabama,India,27295,2022-09-13,2023-02-21,-78,9842.52,Yes,Platinum,None,5,6,High
+cust_995,Brittany,Beck,kellyrichardson@example.com,992.822.9317,39475 Leslie Orchard Suite 791,Turnerland,Florida,Canada,88229,2022-09-13,2023-05-02,44,1861.19,No,Gold,Phone,2,18,High
+cust_345,Elizabeth,Guerra,kathryndavis@example.org,526-454-6968x15790,5580 Melendez Rue,East Vincent,Arizona,Brazil,28187,2022-09-13,2022-11-23,54,6491.98,Yes,Platinum,Email,2,1,High
+cust_565,James,Ellis,josephclark@example.org,2432796868,294 Mullins Causeway Apt. 177,Calebview,Illinois,Brazil,05421,2022-09-14,2024-06-18,6,1053.17,Yes,Gold,Phone,2,0,High
+cust_309,Jimmy,Abbott,lorraine79@example.org,(320)922-3288x37744,466 Steven Via Suite 204,Wilsonfurt,Alabama,Brazil,76593,2022-09-14,2024-01-20,74,8817.72,No,Platinum,SMS,1,12,High
+cust_746,Stacy,Rogers,caleb89@example.org,+1-809-830-4376x613,081 Traci Spring,Meyerstad,Wisconsin,China,75484,2022-09-15,2023-08-31,56,8785.09,Yes,Platinum,Email,2,4,High
+cust_468,Monica,Johnson,gailjones@example.net,412.834.5506,7682 Tracey Village,Kellyton,Delaware,Brazil,32233,2022-09-16,2023-11-13,80,1466.73,Yes,Gold,Phone,2,11,High
+cust_957,Lori,Morrow,bpadilla@example.com,+1-899-915-7380x6799,7209 Wilson Unions,Port James,Idaho,Germany,57169,2022-09-17,2024-02-13,48,987.15,No,Gold,None,2,9,High
+cust_870,Destiny,Brandt,tgilbert@example.com,431-452-5523,8837 Fields Freeway,Samanthaton,Vermont,France,93969,2022-09-18,2024-10-14,11,-9464.81,No,Platinum,Phone,4,19,Low
+cust_913,Joseph,Long,iwang@example.org,(631)775-5297x7601,81144 Mitchell Fall Apt. 436,North Robertfurt,Delaware,Japan,13867,2022-09-19,2024-08-16,28,6699.75,No,Platinum,Phone,1,2,Medium
+cust_585,Sabrina,Martin,graykristin@example.org,855-499-6725,19053 Sarah Rue,Scotttown,Kentucky,Germany,65893,2022-09-19,2024-08-03,22,7894.78,Yes,Platinum,,3,9,Medium
+cust_372,Richard,Haney,ihowell@example.com,948-355-2457,415 May Plains Apt. 137,North Andreaport,Florida,Canada,46064,2022-09-19,2023-08-16,50,2573.34,No,Platinum,Email,5,11,High
+cust_189,Kevin,Jennings,cody95@example.org,3285457652,338 Robert Club,Port Davidtown,New Mexico,Japan,46141,2022-09-24,2023-06-24,91,7700.71,Yes,Platinum,SMS,3,19,High
+cust_763,Paige,Garner,dana02@example.net,986-776-0304x09346,182 Kristina Plains Apt. 013,South Gerald,Arkansas,United States,98849,2022-09-26,2023-03-28,22,3274.45,No,Platinum,None,2,3,High
+cust_615,Philip,Barnes,sdonovan@example.com,(624)619-7687,1290 Michael Camp Suite 184,Holderberg,Florida,Canada,31341,2022-09-26,2023-04-18,30,8382.71,No,Platinum,SMS,5,18,High
+cust_382,Andrew,West,huangthomas@example.net,(915)814-9409,3748 Rivera Port,Thomasside,Utah,United Kingdom,77423,2022-09-27,2022-10-02,86,6558.18,Yes,Platinum,SMS,5,2,High
+cust_322,Sherri,Carter,martinbradley@example.org,001-701-593-5889,026 Stephanie Fork Suite 818,New Thomashaven,North Dakota,India,58306,2022-09-30,2023-02-23,66,210.32,Yes,Silver,None,2,20,High
+cust_623,Lisa,Stewart,brandongarcia@example.org,(375)386-4633x9534,0147 Green Drives,Wagnershire,Nevada,China,16528,2022-10-03,2023-04-05,4,7654.29,No,Platinum,None,1,13,High
+cust_117,Stephanie,Montgomery,wbarajas@example.net,,4840 Robertson Pass,Tuckerport,Tennessee,Canada,25733,2022-10-04,2022-12-04,45,-4304.84,No,Platinum,None,5,9,High
+cust_930,Brandy,Ramsey,zamoraaaron@example.net,924-627-6221x55963,639 Gilbert Ranch,Adrianside,Oregon,China,46096,2022-10-04,2024-04-10,14,1118.21,Yes,Gold,Email,2,9,High
+cust_556,Elizabeth,Perez,ysandoval@example.org,,556 Smith Skyway,New Jennifershire,Indiana,China,77955,2022-10-04,2023-11-15,6,2434.4,Yes,Platinum,Email,2,20,High
+cust_47,James,Williams,zachary87@example.com,8348505415,5277 Glass Path Suite 161,Morrisonburgh,Ohio,Australia,39005,2022-10-05,2022-12-03,36,4404.33,No,Platinum,Phone,3,10,High
+cust_333,Theresa,Davis,jaredmcmahon@example.net,212.969.7893,4520 Barker Rapid Suite 043,Gardnermouth,Tennessee,Brazil,31399,2022-10-05,2024-03-15,-50,-56.64,Yes,Bronze,SMS,1,10,High
+cust_449,David,Lopez,coffeyjohn@example.net,3332016234,106 Matthew Mission,East Jennifer,Delaware,China,48834,2022-10-09,2023-08-09,47,7762.41,Yes,Platinum,SMS,1,17,High
+cust_253,Matthew,Maldonado,yvonne35@example.net,(369)605-5107x6209,7978 Keller Alley,Allenstad,Arizona,Brazil,96945,2022-10-09,2023-09-02,82,6644.8,No,Platinum,Email,5,12,High
+cust_849,Shannon,Charles,lopezchristian@example.com,290.341.8280x51666,92788 Wise Oval,New Angelaborough,Nebraska,Brazil,11366,2022-10-10,2023-09-25,1,1564.75,No,Gold,Phone,4,12,High
+cust_163,Amanda,Beltran,fbradley@example.net,817.447.7332x945,7701 Rodriguez Neck Suite 245,New Dakota,Virginia,Germany,14523,2022-10-10,2024-02-01,62,2456.33,No,Platinum,SMS,4,2,High
+cust_589,David,Robinson,russocasey@example.org,489.326.0878,78730 Wilcox Mews Apt. 515,North Sean,Maryland,Germany,54056,2022-10-11,2024-02-10,61,8960.81,Yes,Platinum,None,3,3,High
+cust_893,Brandon,Nelson,christyprince@example.com,769.688.9798x877,8474 Joe Avenue Apt. 929,South Wanda,Alabama,Brazil,91105,2022-10-12,2023-12-29,71,7116.95,No,Platinum,SMS,2,13,High
+cust_11,John,Garcia,vdickson@example.org,622.460.2563,0733 Bailey View,East Andrew,Illinois,Japan,52728,2022-10-12,2024-07-10,97,2675.58,No,Platinum,,3,13,High
+cust_591,Teresa,Peterson,norrisdaniel@example.net,+1-385-873-9083x521,2464 Harvey Villages Suite 957,New Renee,Mississippi,Germany,64762,2022-10-13,2024-03-18,26,235.26,No,Silver,Email,5,12,High
+cust_172,Tiffany,Gonzalez,fwhite@example.org,(286)339-1741,470 Hernandez Route,North Elizabethview,Georgia,China,92258,2022-10-14,2023-07-28,41,1633.4,No,Gold,SMS,5,16,High
+cust_722,Elizabeth,Jones,taylorjeffrey@example.org,943.476.9929x64447,84232 Thompson Hollow Apt. 041,Fletcherport,Delaware,Brazil,94892,2022-10-15,2023-04-14,98,3933.98,Yes,Platinum,Email,5,0,High
+cust_116,Joseph,Martin,adam72@example.org,(759)309-4798,328 Kristie Estate Suite 886,West Jeffreyborough,Texas,United Kingdom,44001,2022-10-15,2023-05-18,97,6182.2,Yes,Platinum,SMS,4,13,High
+cust_898,Ronald,Weaver,jacob28@example.com,001-360-232-0877x8347,83345 Castillo Junctions Suite 232,Porterton,Arkansas,United States,33883,2022-10-15,2023-06-21,7,3152.66,No,Platinum,Email,3,9,High
+cust_530,Mark,Carter,laurenboyd@example.com,001-689-936-5294,1982 Harris Inlet,East Rachelland,Arizona,Japan,34293,2022-10-17,2023-02-06,74,3676.03,Yes,Platinum,None,3,3,High
+cust_332,Kevin,Stevens,bakerdiana@example.com,(846)213-6847x4883,658 Shaun Ports Apt. 637,Thomasville,Tennessee,Germany,41213,2022-10-17,2024-05-31,27,7614.32,Yes,Platinum,Phone,4,2,High
+cust_785,Thomas,Kirby,westjeffrey@example.org,,089 Cervantes Greens Suite 594,Debraport,North Carolina,Australia,93937,2022-10-19,2023-12-21,78,8728.33,No,Platinum,Phone,4,20,High
+cust_19,Robert,Henry,oyu@example.com,001-626-728-4987x769,47379 Rogers Park,Hunterborough,Minnesota,Canada,34363,2022-10-26,2024-07-23,8,4032.19,No,Platinum,Email,2,6,Medium
+cust_158,Barbara,Hanson,christinacrawford@example.net,+1-577-829-3430x1071,55830 Hannah Glens Apt. 448,Katieville,Utah,China,44185,2022-10-27,2024-04-02,10,1262.01,No,Gold,Email,4,14,High
+cust_423,Robert,Baker,msantiago@example.net,(443)358-8537,339 White Rue Suite 536,Loveshire,New Jersey,United States,70940,2022-10-27,2023-04-28,28,8140.04,No,Platinum,Email,4,10,High
+cust_498,Julia,Moore,veronicaconrad@example.com,259-427-3874,1669 Robert Curve,Port Juan,Tennessee,Australia,14530,2022-10-28,2023-05-04,90,2098.42,Yes,Platinum,Email,5,20,High
+cust_426,Jeffrey,Stevens,patricialowery@example.com,503-546-9967,67726 Johnson Track,Jamiefort,Nevada,France,69174,2022-10-28,2022-11-11,54,6316.42,No,Platinum,Email,1,5,High
+cust_148,Kimberly,Morris,rodriguezrobert@example.com,(435)959-0425x979,35211 John River,Port Marissa,Maine,Brazil,02301,2022-10-29,2024-05-30,48,9243.86,No,Platinum,Email,4,2,High
+cust_377,Dawn,Garcia,wilsonkathryn@example.com,001-296-860-5779,039 Andrew Isle Apt. 460,Atkinsonview,Minnesota,Canada,90024,2022-10-30,2024-09-29,37,7655.09,No,Platinum,None,4,0,Low
+cust_427,William,Hughes,xobrien@example.org,001-519-662-6335x564,9709 Debbie Circles,Marqueztown,Missouri,China,75429,2022-10-31,2023-07-31,83,3960.6,No,Platinum,SMS,5,16,High
+cust_129,Diana,Mitchell,bautistalori@example.net,470.238.4309x8839,02146 Caldwell Lodge Apt. 801,New Justinside,Pennsylvania,India,46126,2022-11-02,2024-06-07,100,3390.29,Yes,Platinum,SMS,1,10,High
+cust_837,Kevin,Hayes,vwright@example.net,854-904-2316x97920,9393 Blanchard Spur Suite 904,Melissashire,Idaho,Brazil,90795,2022-11-02,2023-11-04,13,5294.31,No,Platinum,SMS,5,3,High
+cust_286,Vanessa,Schroeder,mayermichael@example.com,830.330.6442x1214,768 Elizabeth Green Apt. 016,Tabithaport,Hawaii,India,26532,2022-11-04,2023-08-30,23,3545.89,Yes,Platinum,,3,14,High
+cust_56,Andrew,Edwards,robertharris@example.net,001-997-702-8385x78652,497 Susan Harbors Suite 344,Lake Janet,Massachusetts,United Kingdom,63389,2022-11-04,2024-08-31,40,1089.91,Yes,Gold,SMS,5,12,Medium
+cust_293,Donna,Welch,wilsonmatthew@example.com,299.480.2841x3908,1305 Jeffrey Stream,West Joshua,Illinois,United States,12555,2022-11-04,2023-12-02,68,4785.11,No,Platinum,Phone,2,10,High
+cust_560,Mark,Johnson,michaelhale@example.com,909.964.9692,95296 Manuel Causeway,Brittneytown,Idaho,United Kingdom,48736,2022-11-05,2023-02-28,3,8797.47,Yes,Platinum,Email,1,5,High
+cust_126,Gary,Jennings,ecarlson@example.org,(962)210-3886x2912,72980 Boyd Land,Lake Alyssabury,New Mexico,Canada,50470,2022-11-06,2024-05-31,79,5944.86,No,Platinum,None,5,17,High
+cust_78,Danny,Hampton,amber07@example.net,361.934.0745,39596 Christina Tunnel,Port Jamie,Arkansas,United States,75221,2022-11-06,2023-05-25,85,8694.98,No,Platinum,None,1,6,High
+cust_961,Angela,Mcmahon,xwarren@example.org,+1-333-585-6932,648 Heather Harbor Apt. 737,North Tammy,Louisiana,Australia,11951,2022-11-07,2024-04-03,-22,3157.97,Yes,Platinum,Phone,2,10,High
+cust_226,David,Taylor,natalie39@example.net,254-974-3553x79502,26876 Kristin Run,New Anthonymouth,Utah,Germany,16677,2022-11-08,2024-06-07,35,4936.31,Yes,Platinum,Phone,4,8,High
+cust_195,Russell,Melendez,ycole@example.com,900.328.4276x246,889 Alvarez Walk Apt. 806,Troyfurt,South Carolina,India,89169,2022-11-08,2024-10-02,48,9928.64,No,Platinum,None,4,12,Low
+cust_111,Tyler,Valdez,powellbarry@example.net,7197948837,75899 Moran Lakes,Wilsonbury,Alabama,Japan,45243,2022-11-11,2024-02-01,72,3303.16,Yes,Platinum,None,3,13,High
+cust_537,Nicholas,Charles,matthewsmith@example.org,+1-350-917-3654x2624,90292 Kristina Inlet Suite 110,New Billchester,Utah,United Kingdom,06582,2022-11-12,2022-11-15,77,9340.08,Yes,Platinum,None,4,12,High
+cust_131,Stephanie,Black,haynesjose@example.com,565-618-2755,373 Jill Well,Jamieborough,Kansas,Germany,81581,2022-11-12,2024-05-14,72,3773.03,No,Platinum,Phone,5,2,High
+cust_120,Bobby,Armstrong,fmedina@example.com,,90878 Kelly Cliff,Coreyshire,New York,India,43866,2022-11-13,2024-02-29,74,4050.18,No,Platinum,SMS,1,12,High
+cust_878,Suzanne,Spears,kedwards@example.com,255.514.9724,34771 Coleman Ridge,Oliviashire,Kansas,Germany,93609,2022-11-13,2023-07-30,43,4794.29,Yes,Platinum,Email,5,8,High
+cust_940,David,Barnett,nancymendez@example.net,430.225.5987,31459 Peters Spurs Apt. 096,New Kathrynside,Arkansas,France,38276,2022-11-15,2023-07-14,16,106.23,Yes,Silver,SMS,2,14,High
+cust_261,Christopher,Martinez,michael82@example.com,+1-703-540-8487x29758,030 Donald Walks,East Carrie,Indiana,France,78067,2022-11-15,2023-02-13,55,3151.89,Yes,Platinum,Phone,3,20,High
+cust_214,Michael,Terry,martinjessica@example.com,(873)783-9597x246,93417 Glen Estate Suite 167,Jimmyside,Arkansas,India,02877,2022-11-15,2023-05-17,23,1079.09,Yes,Gold,Phone,2,6,High
+cust_642,Sheila,Smith,jeremy23@example.com,(617)362-3133x61094,2316 Hill Viaduct Suite 137,South Terry,Missouri,Australia,69098,2022-11-18,2024-09-13,39,2111.76,Yes,Platinum,,3,20,Medium
+cust_544,David,Glover,john84@example.org,+1-266-722-9131x670,566 Finley Wells Apt. 636,North Ashley,Montana,Australia,47955,2022-11-18,2023-06-18,77,6384.45,Yes,Platinum,Email,5,4,High
+cust_819,Martin,Wright,danasanders@example.org,001-752-660-2216x90887,93358 Katelyn Views,Jamesland,Alabama,Australia,54011,2022-11-18,2023-05-04,90,8563.96,No,Platinum,Email,2,10,High
+cust_753,Nathan,King,campbelldiana@example.net,+1-565-783-4834,267 Ryan Lock Suite 853,North Michelle,New Jersey,United States,62466,2022-11-21,2023-10-15,23,4422.47,No,Platinum,Email,3,2,High
+cust_198,Laura,Pearson,william46@example.net,+1-453-266-4987,737 Giles Place,Michaelton,North Dakota,United States,26800,2022-11-21,2023-03-03,85,4198.21,Yes,Platinum,,2,2,High
+cust_48,Donna,Parker,cjackson@example.com,205.496.4016x582,21355 Herring Bypass Apt. 755,Hinesshire,Florida,United Kingdom,69898,2022-11-24,2023-06-30,91,2147.39,No,Platinum,None,3,17,High
+cust_811,Michael,Byrd,changsamuel@example.org,(779)349-0786x9285,215 Elizabeth Trail Suite 763,Whitneychester,New York,Australia,31978,2022-11-25,2024-03-05,74,7665.71,Yes,Platinum,SMS,4,12,High
+cust_587,Kimberly,Thomas,bsimpson@example.com,+1-783-495-8558,425 Jennifer Island,South Darrellhaven,Massachusetts,Brazil,64628,2022-11-25,2023-01-22,34,3703.02,Yes,Platinum,Email,3,11,High
+cust_86,Edward,Velazquez,tranrobin@example.net,+1-263-453-6541x9518,061 Cline Trail,Markside,New Jersey,United Kingdom,01545,2022-11-26,2023-06-15,10,4700.21,No,Platinum,SMS,5,12,High
+cust_36,Melanie,Bell,danny49@example.org,,612 Christopher Pines,South Robert,Michigan,United States,21132,2022-11-27,2024-04-08,15,8771.61,No,Platinum,Phone,5,8,High
+cust_96,Kenneth,Davis,farmstrong@example.org,3502614973,41714 Ruiz Shore,Christopherside,Missouri,France,24733,2022-11-28,2023-08-18,15,4688.63,Yes,Platinum,Phone,2,12,High
+cust_963,Katherine,Campbell,brownchristopher@example.org,+1-676-907-8195x1648,738 Wendy Wall Apt. 614,Jasonmouth,New Hampshire,Australia,86392,2022-11-28,2024-03-29,61,1102.77,Yes,Gold,SMS,2,16,High
+cust_103,Brandy,Cooley,matthewreeves@example.net,+1-375-984-2824,482 Pena Forges,Jeffreyport,Nebraska,United Kingdom,43927,2022-11-29,2024-01-06,73,2060.0,Yes,Platinum,Phone,2,10,High
+cust_890,Kenneth,Cummings,hillbrianna@example.org,203.858.6240x57445,45352 Doyle Coves,North Christopherton,Vermont,Canada,68406,2022-11-29,2024-03-20,85,5820.25,No,Platinum,Phone,1,4,High
+cust_848,Travis,Beltran,daniel99@example.net,(854)466-2897x35189,2756 Adam Crossroad,North David,Maine,United Kingdom,05606,2022-11-30,2024-04-24,52,3551.78,Yes,Platinum,None,4,6,High
+cust_570,Madison,Carter,yatessarah@example.net,(751)399-9452,22276 Wright Point Suite 220,Mercedesberg,Georgia,China,15310,2022-12-03,2023-08-18,71,8551.49,Yes,Platinum,None,5,15,High
+cust_789,Nathan,Anderson,mcooper@example.net,(408)991-4233x029,0547 Cindy Manors Apt. 214,West Carlosland,Ohio,Brazil,51428,2022-12-04,2023-07-02,3,7621.67,No,Platinum,Email,3,19,High
+cust_310,Patricia,Harvey,odonnellmichael@example.org,374.402.5883x586,9572 Glover Shoals,Sandraland,Tennessee,China,63906,2022-12-04,2023-10-22,87,9827.72,Yes,Platinum,Email,4,5,High
+cust_68,Wayne,Wolfe,ldrake@example.org,682-833-9845,6793 Kevin Views,Lake Victoriaton,Colorado,Germany,53621,2022-12-07,2023-12-18,11,9939.24,Yes,Platinum,None,5,19,High
+cust_764,Juan,Brown,erik01@example.org,+1-382-853-2083,636 John Port,Lake Shawnafort,Kansas,Australia,97268,2022-12-08,2022-12-16,17,8705.79,No,Platinum,None,4,5,High
+cust_741,Katherine,Flowers,rmichael@example.net,001-871-965-9656,0996 James Tunnel Suite 009,Edwinport,Florida,Australia,88904,2022-12-08,2024-04-05,1,6391.28,Yes,Platinum,None,5,6,High
+cust_741,Katherine,Flowers,rmichael@example.net,001-871-965-9656,0996 James Tunnel Suite 009,Edwinport,Florida,Australia,88904,2022-12-08,2024-04-05,1,6391.28,Yes,Platinum,None,5,6,High
+cust_993,Daniel,Acosta,william47@example.com,+1-835-999-5843x835,52019 Bryan Light,Ronaldshire,Delaware,Australia,19991,2022-12-10,2023-11-07,26,2532.42,No,Platinum,SMS,2,6,High
+cust_487,Ronnie,Cook,sarahsmith@example.org,4243539313,1305 Castillo Pike Apt. 682,West Kevinhaven,North Dakota,United Kingdom,81360,2022-12-11,2024-01-12,55,2951.25,Yes,Platinum,Phone,4,20,High
+cust_856,Joshua,Johnson,adamskelly@example.com,496-574-3338x49655,0335 Rebecca Wells,West Christinashire,Pennsylvania,Japan,24108,2022-12-13,2023-09-11,79,1820.07,Yes,Gold,Phone,1,4,High
+cust_646,Melissa,Johns,paula72@example.net,(236)281-5418x5899,7291 Kimberly Inlet,Blakemouth,Tennessee,China,74176,2022-12-14,2023-06-27,88,4109.06,No,Platinum,None,4,4,High
+cust_842,Natalie,Torres,heatherhenderson@example.net,2905101461,8888 Amanda Fords,West Laurenfurt,Texas,United States,15519,2022-12-14,2023-05-26,55,6773.56,Yes,Platinum,None,4,16,High
+cust_41,Paula,Cole,marcalvarez@example.org,9719518203,5466 Shelton Center,Cameronville,Oklahoma,China,89417,2022-12-15,2023-06-02,84,3229.27,No,Platinum,None,2,16,High
+cust_305,Alexis,Williams,margaret10@example.com,306-650-0425x4882,369 Kelly Bypass,Fitzpatrickbury,Utah,Germany,83999,2022-12-15,2023-09-09,85,6254.66,No,Platinum,Phone,1,0,High
+cust_822,Jennifer,Matthews,qrhodes@example.org,873-903-3249,4510 Daniels Place Apt. 947,Port Dave,Colorado,Brazil,45647,2022-12-16,2024-07-13,23,9451.18,Yes,Platinum,SMS,5,13,High
+cust_178,Gregory,Floyd,erobertson@example.org,001-579-895-6353x1531,3179 Brown Mews,East Sarah,New Jersey,Germany,23839,2022-12-16,2023-03-17,99,2897.15,Yes,Platinum,None,3,15,High
+cust_318,Kevin,Hanna,ramirezchelsea@example.com,,85095 Patrick Ramp Apt. 059,Glennton,Connecticut,Japan,73022,2022-12-17,2024-04-13,21,665.51,No,Gold,Phone,5,18,High
+cust_159,Christina,Johnson,jamesbass@example.net,670.727.2785x7608,95512 Pittman Junction,Simsburgh,Oregon,China,79889,2022-12-18,2024-01-20,24,7680.14,Yes,Platinum,None,5,1,High
+cust_386,Brian,Haas,qcochran@example.net,001-691-781-5899x88683,3466 Bennett Overpass,South Damonside,New Mexico,United States,80410,2022-12-18,2023-11-16,75,5793.22,Yes,Platinum,Email,5,8,High
+cust_695,Julia,Page,annettedavis@example.net,(742)633-2416x518,660 Lozano Hills,Laurafort,Virginia,Japan,33872,2022-12-18,2024-04-18,70,2846.44,Yes,Platinum,SMS,5,10,High
+cust_404,Jason,Nguyen,reneeorr@example.net,548.559.5325x9399,705 Patrick Drive Suite 187,Morrisonview,California,Japan,59415,2022-12-18,2023-04-26,62,2545.24,No,Platinum,SMS,4,4,High
+cust_991,Victor,Sullivan,alisoncooper@example.net,+1-487-377-7014x97268,569 Torres Burgs,Colemouth,Rhode Island,Australia,47951,2022-12-19,2024-06-04,14,8998.95,Yes,Platinum,None,4,2,High
+cust_931,Robert,Graham,james70@example.net,430.702.1027x3663,732 Stacey Ford Suite 874,New Tina,Nevada,Australia,87995,2022-12-21,2024-06-04,51,1015.71,Yes,Gold,None,1,15,High
+cust_93,Marcus,Johnson,kimmathis@example.com,456-891-5452,528 Walker Radial Apt. 644,East Jessica,Vermont,United States,75583,2022-12-21,2024-10-14,78,7454.27,No,Platinum,Phone,5,11,Low
+cust_907,Kerri,Harvey,waynemcknight@example.org,,645 Jacob Views Apt. 990,North Emily,Illinois,Japan,42566,2022-12-22,2023-12-31,58,2635.65,Yes,Platinum,Email,2,17,High
+cust_54,Michael,Roberts,wgordon@example.net,599-812-1655x852,02578 Hernandez Passage,West Sarah,Massachusetts,Canada,21800,2022-12-22,2024-02-05,100,9573.28,Yes,Platinum,Email,2,6,High
+cust_421,Brad,Flores,qjohnson@example.net,(667)993-2798x623,9061 Janet Trail,Port Darlene,Mississippi,Canada,36858,2022-12-23,2023-10-27,93,2706.79,Yes,Platinum,None,4,6,High
+cust_694,Kelly,Jenkins,sandrews@example.org,001-936-564-0163x29573,9757 Carolyn Squares,Lake Scott,Connecticut,France,67222,2022-12-23,2023-12-30,84,4051.01,Yes,Platinum,SMS,1,1,High
+cust_707,Cynthia,Cannon,julie24@example.org,001-867-592-4157x127,4346 Porter Meadow,Lake Becky,Nebraska,Brazil,13774,2022-12-23,2023-12-16,20,8664.79,No,Platinum,Email,5,19,High
+cust_805,Sean,Sims,leahdiaz@example.org,(915)753-8307,212 White Green Apt. 956,Davidsonview,Maine,Australia,98593,2022-12-25,2023-10-16,48,-4524.66,No,Platinum,None,2,0,High
+cust_767,Nathan,Snyder,igarcia@example.net,440.922.3461x4466,30411 Butler Court Suite 215,West William,Delaware,Germany,79270,2022-12-26,2023-12-13,51,6134.14,Yes,Platinum,None,2,5,High
+cust_338,Ryan,Bailey,clinemelissa@example.net,(763)598-3652x037,451 Moon Parkway,New Joshuaview,Tennessee,Canada,63249,2022-12-28,2024-10-15,71,2534.86,Yes,Platinum,Phone,1,9,Low
+cust_476,Taylor,Payne,nicholas33@example.com,784-244-9029,4801 Hill Center,South Jamie,Kentucky,United Kingdom,13819,2022-12-28,2023-12-15,12,7301.6,Yes,Platinum,None,2,18,High
+cust_108,Edward,Davis,cummingscraig@example.com,+1-837-344-7012x0455,02255 Friedman Grove,West Lisaburgh,Delaware,China,53031,2022-12-30,2023-10-26,68,2956.03,No,Platinum,Email,1,20,High
+cust_983,Michael,George,melanie70@example.net,(759)596-1143,0775 Jeffrey Meadow,North Caitlinberg,Florida,Japan,14753,2022-12-31,2024-01-21,34,8218.65,No,Platinum,Email,4,4,High
+cust_526,Monique,James,tiffany80@example.net,(621)375-5851x777,4692 Colin Spring,West Christopher,Virginia,China,78124,2023-01-02,2023-04-02,51,6255.89,No,Platinum,None,4,13,High
+cust_657,Jo,Moody,jasonwalton@example.net,368.587.7792x5604,208 Woodard Via Apt. 153,Port Carol,Georgia,India,17023,2023-01-02,2023-01-21,37,9028.9,No,Platinum,SMS,5,10,High
+cust_102,Jeffery,Turner,asilva@example.net,+1-658-699-4417x15454,83096 Becker Stravenue,Lake Tylerport,Kentucky,Australia,55363,2023-01-04,2024-04-29,16,9490.62,No,Platinum,Email,2,20,High
+cust_987,Sarah,Rivera,berrydouglas@example.org,511-654-8805x1093,3363 Adam Orchard Suite 437,North Beckyside,Maine,France,16166,2023-01-05,2024-10-12,65,8559.84,Yes,Platinum,SMS,5,12,Low
+cust_557,Michael,Lopez,zlara@example.org,3424620197,41393 Bullock River,Fordshire,Tennessee,United Kingdom,59995,2023-01-05,2024-01-09,76,648.94,Yes,Gold,Email,4,19,High
+cust_735,Joshua,Espinoza,wilsonjacob@example.com,+1-851-393-5001x154,8080 Stephanie Street Apt. 441,West Bryanbury,California,China,46188,2023-01-05,2024-08-09,-13,3402.77,Yes,Platinum,None,5,10,Medium
+cust_420,Alan,Beard,luissanchez@example.com,337.477.3126,217 Ashlee Gateway,Francostad,Iowa,Brazil,34903,2023-01-06,2024-05-09,55,2113.22,No,Platinum,SMS,4,8,High
+cust_601,Shannon,Anderson,katherine10@example.org,001-379-241-9324x538,941 Douglas Harbor Suite 098,Hernandezfurt,Kentucky,United Kingdom,75780,2023-01-06,2023-05-05,98,954.14,Yes,Gold,SMS,3,9,High
+cust_224,Jennifer,Evans,floresrobert@example.com,861-303-3993x788,57861 Johnson Roads Apt. 048,East Kathrynberg,Maryland,Brazil,74982,2023-01-06,2023-03-01,72,5551.85,No,Platinum,Email,1,2,High
+cust_349,Mark,Johnson,reyestina@example.org,546-260-2416x13944,736 Burgess Tunnel Apt. 480,Browningport,Louisiana,Brazil,01163,2023-01-07,2023-01-19,45,6640.47,No,Platinum,Phone,5,19,High
+cust_413,Jimmy,West,forbesbradley@example.net,(787)730-4519x57782,5629 Watson Key,Dylanfort,Utah,India,71577,2023-01-07,2024-09-22,-82,7888.67,Yes,Platinum,Phone,3,13,Low
+cust_809,Joseph,Burch,zparker@example.net,257-739-5232x85558,947 Reilly Courts Suite 602,Courtneyville,Wyoming,Australia,25852,2023-01-10,2023-06-13,32,2124.29,Yes,Platinum,Email,4,0,High
+cust_610,Candice,Randall,gabrielle36@example.org,737-611-8151,294 Teresa Field Suite 015,West Kathryn,Louisiana,United Kingdom,54617,2023-01-11,2023-10-26,46,9813.2,No,Platinum,Phone,5,7,High
+cust_683,Cheryl,Fitzpatrick,thomasmelanie@example.org,986.286.0835,0363 Nicole Hills,Ericborough,North Carolina,Canada,84778,2023-01-11,2023-05-02,54,9431.12,No,Platinum,SMS,2,6,High
+cust_832,Tara,Cole,guerrabarbara@example.org,001-879-558-2915x85511,49207 Rivas Mount Suite 142,Annamouth,Kansas,China,76892,2023-01-12,2023-09-17,55,752.85,No,Gold,SMS,4,20,High
+cust_127,Rebecca,Hood,colemanjonathan@example.org,349-286-4300,356 Rodriguez Meadow Suite 486,Cherylfurt,Wisconsin,China,27199,2023-01-13,2024-05-31,84,1890.51,No,Gold,Phone,1,14,High
+cust_367,David,Gould,wallacejulie@example.net,360.377.6336,981 Katherine Crest,Yangstad,West Virginia,Japan,42035,2023-01-15,2023-05-30,16,3778.21,No,Platinum,SMS,5,8,High
+cust_156,Alexander,Jimenez,astephens@example.net,633.597.7671x9903,20502 Elizabeth Villages,Markland,Arkansas,United Kingdom,14773,2023-01-17,2023-05-11,47,5092.47,Yes,Platinum,,2,7,High
+cust_45,Rebecca,Smith,marydunn@example.net,+1-986-314-3410x369,9808 Jennifer Highway,Smithstad,Kansas,Canada,75299,2023-01-17,2024-03-17,59,1342.06,No,Gold,SMS,4,19,High
+cust_978,Chelsea,Jackson,qfox@example.org,846-693-9953x1556,94026 Melanie Port,Adamsshire,Missouri,India,51681,2023-01-19,2024-10-15,17,4035.39,Yes,Platinum,None,5,14,Low
+cust_841,Robert,Smith,amartinez@example.org,985-863-5200,0420 Lawson Shoals,Masonstad,Texas,France,85977,2023-01-21,2023-10-31,12,6350.42,Yes,Platinum,Phone,1,5,High
+cust_342,Gloria,Jackson,kmoore@example.org,001-665-543-5884x183,0182 Taylor Radial Suite 596,West Jacquelinestad,Alabama,Canada,21308,2023-01-22,2023-08-22,33,6446.92,No,Platinum,SMS,3,14,High
+cust_267,Jeremy,Foster,michael28@example.com,577-322-5605,0266 Santana Estates,South Susan,Louisiana,India,16071,2023-01-22,2024-01-06,94,9534.75,Yes,Platinum,Email,2,2,High
+cust_295,Margaret,Newman,raymond12@example.com,(725)531-3552x51050,538 Paul Rapids Apt. 831,Jenniferland,Oregon,Canada,85208,2023-01-23,2024-05-16,44,3024.63,Yes,Platinum,Phone,4,20,High
+cust_511,Ashley,Morales,harrisonjoy@example.net,282-849-8980,214 Scott Loop Apt. 359,South Courtney,Kentucky,United States,72055,2023-01-23,2024-03-18,14,5210.57,No,Platinum,Email,5,9,High
+cust_596,Kelly,Wade,curtismichelle@example.com,897.692.5511,9028 Thomas Falls,Johnsonburgh,Ohio,Australia,78423,2023-01-23,2024-05-22,24,8324.51,No,Platinum,None,1,9,High
+cust_624,Matthew,Garner,taylorkaylee@example.com,651.423.9597x8155,097 Jeremy Lights Apt. 244,Changstad,Wyoming,Australia,37225,2023-01-24,2023-11-12,31,6484.35,Yes,Platinum,,3,3,High
+cust_209,Justin,Yates,paynecarrie@example.org,(342)636-1032x6642,4925 Marilyn Passage Apt. 776,Adamschester,Colorado,India,99655,2023-01-24,2023-09-14,38,1532.59,No,Gold,Phone,4,18,High
+cust_652,Carol,Moore,brad03@example.org,480.681.7262x82968,500 Thomas Parkways Suite 927,Christopherchester,Ohio,Australia,00787,2023-01-24,2024-02-02,48,5833.2,No,Platinum,Email,1,15,High
+cust_648,Allen,Hunt,gmurphy@example.com,+1-990-867-3963x42898,550 Duncan Dam,Lake Stanleyview,Tennessee,Australia,74036,2023-01-24,2024-04-11,12,9741.53,Yes,Platinum,SMS,2,1,High
+cust_277,Matthew,White,qhernandez@example.net,794-451-4754x1022,7119 Moyer Harbors Apt. 152,Port Paul,Massachusetts,United Kingdom,65277,2023-01-25,2024-04-07,92,2805.45,Yes,Platinum,Phone,5,13,High
+cust_331,Shelby,Johnson,fischeralisha@example.net,(870)424-4033x0416,11860 Julia Plains Apt. 196,Port Catherine,Maryland,China,42932,2023-01-26,2024-05-09,59,-1440.81,Yes,Gold,Email,4,10,High
+cust_235,Brian,Flynn,melissaschmitt@example.com,717.991.2868,55877 Adams Locks Apt. 333,Royfurt,Indiana,United States,40608,2023-01-26,2023-09-20,62,1054.45,No,Gold,Email,1,4,High
+cust_329,Philip,Howard,ophillips@example.org,001-446-975-3612x75156,630 Adams Forge Suite 085,Emilychester,Montana,France,58428,2023-01-27,2023-07-10,48,2612.99,No,Platinum,None,1,15,High
+cust_730,Clinton,Maxwell,olsenlinda@example.org,001-466-642-6735x127,3375 Edwards Terrace Suite 976,Allisonhaven,Maine,Australia,77660,2023-01-27,2023-05-10,89,4243.96,Yes,Platinum,Phone,2,5,High
+cust_269,Virginia,Wright,tgonzalez@example.org,001-689-523-9231x260,0931 Omar Pine,Isabelbury,Iowa,United Kingdom,44564,2023-01-27,2023-03-06,48,1278.04,No,Gold,Email,1,10,High
+cust_612,Rebecca,Mcdonald,dana36@example.com,(335)470-0412,81612 Reed Brook Suite 610,South Carolynbury,Arkansas,Germany,35169,2023-01-28,2023-02-11,88,9762.03,No,Platinum,Phone,5,13,High
+cust_830,Debra,Smith,kellyrichard@example.net,001-974-742-0360,833 Ashley Landing Suite 238,South Amanda,Tennessee,Japan,01872,2023-01-28,2024-06-11,57,1407.15,No,Gold,SMS,5,11,High
+cust_929,Jason,Steele,youngcody@example.net,(896)855-1025x066,7347 Ruiz Ways,Mariashire,Utah,Australia,70217,2023-01-30,2023-04-29,39,1946.35,Yes,Gold,None,3,1,High
+cust_845,Zachary,Butler,carlos85@example.com,716-845-6059,3180 Clark Drive,Lake Antoniostad,North Dakota,United States,45865,2023-01-30,2024-05-19,55,4960.12,Yes,Platinum,SMS,1,10,High
+cust_801,Cheryl,Ross,laurie37@example.com,001-949-759-7521x3531,592 Hill Station Suite 411,Tarafurt,Utah,Australia,21012,2023-01-30,2023-08-20,62,4857.09,Yes,Platinum,,1,8,High
+cust_812,Michael,Rose,dwilliams@example.com,(728)383-4133,014 Brandon Mountain,Frederickport,South Carolina,Australia,30216,2023-02-03,2024-07-17,29,2598.35,No,Platinum,Email,1,2,High
+cust_976,Maureen,Thompson,richardwilliams@example.net,001-533-939-6379x020,188 Allison Haven,Stonechester,Wyoming,Brazil,59851,2023-02-03,2023-07-07,46,4282.42,No,Platinum,,4,0,High
+cust_812,Michael,Rose,dwilliams@example.com,(728)383-4133,014 Brandon Mountain,Frederickport,South Carolina,Australia,30216,2023-02-03,2024-07-17,29,2598.35,No,Platinum,Email,1,2,High
+cust_972,Shannon,Crawford,knelson@example.org,(941)223-8724x937,0455 Kelley Inlet,Murrayview,Washington,Japan,14332,2023-02-08,2023-04-30,20,9537.32,No,Platinum,Phone,2,13,High
+cust_784,Miranda,Erickson,ybell@example.com,5366562036,439 Powell Tunnel Suite 331,Lake Sydneyborough,Iowa,Germany,49100,2023-02-11,2023-10-28,97,246.7,No,Silver,SMS,2,6,High
+cust_390,Benjamin,Hughes,farmerlindsay@example.org,(295)472-7908x33509,2573 Peter Drives Suite 813,Lake James,Texas,France,95027,2023-02-11,2024-07-30,50,4702.05,No,Platinum,Email,1,20,Medium
+cust_359,James,Daniels,carmenevans@example.org,001-661-873-9970,2587 Bean Hills Suite 835,Ericahaven,Maryland,India,82541,2023-02-12,2024-10-04,54,9795.21,Yes,Platinum,SMS,4,10,Low
+cust_580,Donna,Thompson,ewinglynn@example.org,001-466-756-8629x591,49899 Matthew Fork Suite 607,Oliviashire,Rhode Island,Brazil,03446,2023-02-17,2024-03-05,91,5323.73,No,Platinum,None,5,11,High
+cust_326,Russell,Ramirez,cory42@example.org,347-573-2449x1342,90883 Tracy View,West Jamesshire,Nevada,China,96457,2023-02-17,2023-05-04,52,6608.7,Yes,Platinum,Email,4,9,High
+cust_212,Carolyn,Tucker,hannah64@example.org,(920)431-0303,8314 Hernandez Manors,North Gabrielberg,West Virginia,United States,92591,2023-02-18,2023-12-09,28,5062.27,No,Platinum,Email,5,20,High
+cust_926,Edward,Acevedo,xmoore@example.net,572.337.2259,37008 Thomas Fords,Selenaton,Indiana,United States,97895,2023-02-18,2023-07-30,74,4296.73,No,Platinum,Phone,4,10,High
+cust_403,Melissa,Freeman,gomezdaniel@example.com,001-679-442-3873x670,496 Carol Pines Suite 552,Annettefort,California,Germany,02822,2023-02-19,2023-10-30,69,4241.38,No,Platinum,SMS,4,6,High
+cust_740,Laura,Harrison,martinezkathleen@example.com,(252)278-6309,21024 James Spring Suite 730,Joannefort,Vermont,France,87298,2023-02-19,2023-12-01,75,5665.31,No,Platinum,SMS,4,10,High
+cust_110,Tiffany,Santiago,april91@example.com,+1-437-356-2890x02877,3540 Andrea Lane Suite 317,Solismouth,Colorado,Brazil,65834,2023-02-19,2023-05-02,9,921.34,Yes,Gold,Email,4,3,High
+cust_659,Christine,Fletcher,brianwhite@example.com,609.876.6919,805 Ferguson Avenue,South Donnabury,South Dakota,Brazil,00865,2023-02-21,2023-10-26,56,1169.08,No,Gold,Email,4,11,High
+cust_571,Luke,Cochran,mhorn@example.org,001-908-733-4447x0488,7020 Austin Lane,Charlesmouth,Illinois,United States,89875,2023-02-21,2023-07-26,94,4286.82,Yes,Platinum,Phone,3,13,High
+cust_607,Stephen,Johnson,samuelsandoval@example.org,001-319-807-4992,06983 Franklin Stream Apt. 353,Amberhaven,Nevada,Canada,35945,2023-02-22,2024-09-18,78,2061.96,Yes,Platinum,Phone,3,0,Medium
+cust_793,Steven,Randall,pittmanjill@example.org,(318)652-7341,33155 Gonzalez Center Apt. 530,North Lindsey,Maine,France,01846,2023-02-22,2024-01-09,66,7094.19,No,Platinum,Email,4,13,High
+cust_681,Tanya,Myers,zachary79@example.com,001-563-883-0972,80926 Patrick Curve,North Robertstad,Massachusetts,Japan,96505,2023-02-22,2023-12-24,29,5880.71,No,Platinum,None,2,9,High
+cust_439,Dylan,Bolton,edwardjones@example.com,001-959-237-6618x943,63510 Maureen Unions Suite 627,Barrettfurt,Virginia,Brazil,42913,2023-02-22,2024-06-28,48,4642.21,Yes,Platinum,SMS,1,4,High
+cust_645,Connie,Edwards,greg64@example.org,999-800-9378x14604,3788 Hill Mount,South Jessicaland,Ohio,Germany,99125,2023-02-24,2024-03-22,41,5762.34,Yes,Platinum,Phone,2,16,High
+cust_401,Jessica,Harvey,wmiller@example.net,701.959.5919x457,4758 Jeremy Extension Apt. 567,Nguyenfurt,New Jersey,China,61369,2023-02-25,2023-05-21,13,4260.64,No,Platinum,None,2,2,High
+cust_614,Kevin,Bryan,rodriguezchristopher@example.org,7578347243,6822 Sherman Summit,Port Stephen,Idaho,India,52174,2023-02-26,2023-02-28,89,5909.67,Yes,Platinum,Phone,1,11,High
+cust_484,Jose,Hughes,alexis57@example.net,943-403-4918x9117,85934 Christopher Lakes,South Kyle,Massachusetts,France,38990,2023-02-27,2023-09-10,59,8876.99,No,Platinum,None,1,19,High
+cust_985,Dustin,Chavez,matthew67@example.org,2362702751,687 Ronald Alley Suite 711,North Heidi,Colorado,Germany,50710,2023-02-27,2024-04-14,51,3864.35,Yes,Platinum,None,4,13,High
+cust_569,Billy,Sosa,paul84@example.net,482-337-3379x121,18780 Heidi Spurs,Aguirreton,Texas,Brazil,10191,2023-02-28,2023-03-29,59,4188.06,No,Platinum,Phone,3,19,High
+cust_166,Tammy,Smith,daniel40@example.org,(896)756-6668x32723,42201 Douglas Oval Suite 212,Daltonchester,South Carolina,United Kingdom,24067,2023-02-28,2023-11-08,42,9338.18,No,Platinum,Phone,2,15,High
+cust_649,Christian,Lin,zjohnson@example.org,(401)362-9073,1826 Church Trafficway,Port Linda,New Jersey,France,12354,2023-03-03,2024-08-28,22,9472.96,Yes,Platinum,Email,5,13,Medium
+cust_917,David,Shepherd,jonathan96@example.com,,001 Rasmussen Summit,Lake Victoriaborough,Louisiana,United States,40613,2023-03-07,2024-04-01,58,9433.8,Yes,Platinum,None,5,3,High
+cust_88,Julie,Carpenter,danafoster@example.net,001-706-723-4456,3132 Eric Expressway Suite 756,New Michaelborough,New Hampshire,Canada,40911,2023-03-09,2024-07-23,56,9783.59,Yes,Platinum,,2,9,Medium
+cust_247,Jessica,Cooper,amberknox@example.net,339.968.5270,02321 Brittany Village,East William,Nevada,Australia,95526,2023-03-13,2023-06-17,39,8749.35,Yes,Platinum,None,3,11,High
+cust_872,Jasmine,Watkins,copelandryan@example.com,(429)235-5459,596 Morris Park Apt. 137,North Jeanne,Wisconsin,Canada,43932,2023-03-14,2024-10-01,93,7460.24,No,Platinum,SMS,5,17,Low
+cust_687,Randy,Robertson,daniel62@example.org,+1-932-660-5869x4276,73066 Megan Forest,West Christopherhaven,Wisconsin,France,12340,2023-03-15,2023-12-31,21,7286.21,No,Platinum,None,1,4,High
+cust_237,Jeremy,Wilson,benjamin35@example.org,+1-854-844-3928x40445,8263 Jennifer Fords,Hallshire,Oklahoma,Canada,99803,2023-03-15,2024-07-01,87,8002.5,Yes,Platinum,Phone,5,5,High
+cust_566,Brian,Perez,stacey22@example.net,+1-446-565-2752x332,02569 Jason Wells,East Andrewborough,Kentucky,China,54016,2023-03-15,2023-04-23,75,3266.46,Yes,Platinum,SMS,2,3,High
+cust_44,Rebecca,Hernandez,odavis@example.com,(206)706-8536x153,522 Justin Village,Hortonberg,Wisconsin,United Kingdom,92977,2023-03-16,2024-03-08,84,6879.35,Yes,Platinum,None,2,5,High
+cust_174,Jake,Johnson,cortezbrittany@example.com,(818)347-8700x5050,878 Joyce Fort,North Jillfort,Tennessee,China,02999,2023-03-18,2024-08-31,30,7216.79,No,Platinum,Phone,5,20,Medium
+cust_923,Samantha,Thornton,lwalton@example.org,(607)409-8348,4876 Christina Key Apt. 744,Randallmouth,Florida,Brazil,56477,2023-03-18,2023-10-13,16,3512.63,No,Platinum,None,4,0,High
+cust_85,Frank,Benton,gary24@example.net,305-964-8149,507 Michael Glens Apt. 913,North Micheletown,Kansas,United Kingdom,06527,2023-03-19,2023-10-26,-64,9648.6,Yes,Platinum,SMS,1,14,High
+cust_106,Kelly,Luna,ryan25@example.com,(432)360-3323x098,064 Brittney Causeway Apt. 001,Wallaceville,Oklahoma,Australia,33627,2023-03-21,2023-06-17,79,443.22,No,Silver,None,1,1,High
+cust_747,Heidi,Scott,wbradford@example.net,811.905.8330,798 Irwin Court,Lake Kylechester,Rhode Island,China,31012,2023-03-21,2023-11-11,55,9770.05,Yes,Platinum,Email,5,18,High
+cust_191,Colin,Martinez,brianagonzalez@example.net,(301)324-9552x893,334 Rachel Plain,Lake Coreyborough,North Carolina,Canada,93268,2023-03-22,2024-04-27,73,1130.97,Yes,Gold,Phone,2,10,High
+cust_197,Joseph,Dominguez,odomnicholas@example.com,891-571-3578x52945,183 Baker Hills Suite 391,New Matthewland,Oregon,India,70108,2023-03-22,2023-07-20,69,3798.97,Yes,Platinum,Phone,4,11,High
+cust_169,Brittany,Hernandez,lwood@example.com,001-837-828-0512x927,723 Brown Greens,North Garyfurt,New Mexico,China,40001,2023-03-23,2024-09-18,72,1954.61,No,Gold,Email,4,16,Medium
+cust_710,Rhonda,Higgins,adavis@example.com,+1-406-783-3539x10161,63994 Kathleen Common,East Jesse,Louisiana,United States,28739,2023-03-23,2024-04-08,36,7869.7,Yes,Platinum,None,1,17,High
+cust_389,Bobby,Wang,elizabethwalker@example.net,612-871-2852,449 Rodriguez Crest Suite 318,Gonzalezhaven,Arizona,Brazil,61968,2023-03-26,2023-05-28,46,413.79,No,Silver,,1,8,High
+cust_897,Eric,Schwartz,shane05@example.org,3314329887,203 Duffy Pike,Bairdberg,New Hampshire,Germany,98670,2023-03-28,2023-11-04,25,5521.4,Yes,Platinum,Phone,3,2,High
+cust_248,James,Coleman,kevinray@example.net,947.815.6627,70661 Larson Drives Apt. 467,Shawnfurt,Oklahoma,Australia,79933,2023-03-29,2023-10-04,27,8108.92,No,Platinum,None,2,19,High
+cust_136,Brian,Wise,garciachristine@example.org,+1-764-733-4722x8200,8487 Tara Square Apt. 997,Millsside,Maryland,Japan,46005,2023-03-29,2023-08-05,54,9663.02,Yes,Platinum,Phone,3,1,High
+cust_417,Tracey,Johnson,angela73@example.net,(810)229-0871x82749,187 Rachel Hill Apt. 049,Ronaldberg,California,China,26600,2023-03-30,2023-08-18,36,4913.15,No,Platinum,None,2,18,High
+cust_74,Deanna,Lucas,tammy61@example.org,943-788-8993,9825 Timothy Hill Suite 112,Larrymouth,Indiana,India,68804,2023-03-31,2023-12-25,95,3229.99,No,Platinum,Email,1,7,High
+cust_298,Rebecca,Mayo,greenkristen@example.org,4419459642,52967 Aimee Garden,Stanleyview,Massachusetts,Brazil,96296,2023-03-31,2023-05-22,19,3318.37,Yes,Platinum,Phone,3,10,High
+cust_308,Brenda,Dixon,mileszachary@example.net,001-272-432-4407x9311,133 Thomas Village,Myersville,Maryland,Canada,53527,2023-04-01,2023-07-14,11,6684.73,No,Platinum,Phone,5,1,High
+cust_328,Todd,Lopez,mcampbell@example.net,583-406-1789,4969 Dana Orchard,West Mary,Maine,Germany,88053,2023-04-02,2024-06-25,13,4713.1,No,Platinum,Phone,3,20,High
+cust_575,Marie,Meyer,slittle@example.com,001-441-496-2342x1926,20410 Martin Glen,Port Teresa,Maine,France,96542,2023-04-03,2024-01-16,81,4648.31,Yes,Platinum,Email,4,10,High
+cust_152,Robert,Jenkins,oreese@example.net,523-512-2099x499,051 Anderson Vista,Josephstad,Idaho,United States,51286,2023-04-09,2023-06-24,78,1542.85,No,Gold,SMS,3,14,High
+cust_23,Brittney,Carter,keithcampbell@example.com,434-693-6183,02499 Gonzales Mountain,Hollyview,North Carolina,France,71277,2023-04-12,2023-05-26,8,510.92,No,Gold,Phone,1,16,High
+cust_860,Roger,Perry,qlee@example.com,001-698-812-1300x88238,867 James Forge,North Josephview,North Dakota,Brazil,16867,2023-04-12,2024-08-17,47,3349.48,Yes,Platinum,Email,1,17,Medium
+cust_860,Roger,Perry,qlee@example.com,001-698-812-1300x88238,867 James Forge,North Josephview,North Dakota,Brazil,16867,2023-04-12,2024-08-17,47,3349.48,Yes,Platinum,Email,1,17,Medium
+cust_762,Marco,Robinson,egraham@example.org,001-305-729-8770x74599,44500 Adam Trail,Newtonhaven,Kansas,Australia,73961,2023-04-12,2024-03-17,9,9114.34,No,Platinum,SMS,2,7,High
+cust_762,Marco,Robinson,egraham@example.org,001-305-729-8770x74599,44500 Adam Trail,Newtonhaven,Kansas,Australia,73961,2023-04-12,2024-03-17,9,9114.34,No,Platinum,SMS,2,7,High
+cust_387,Kristie,Mitchell,rosebobby@example.org,799-282-5080x0463,882 Maldonado Cape Apt. 172,Lake Luke,Virginia,France,27188,2023-04-13,2024-02-23,51,2240.83,No,Platinum,Phone,4,16,High
+cust_213,Andrew,Cole,jameshudson@example.com,6502166799,7899 Hall Circle Apt. 695,West Patriciachester,New Mexico,United States,15828,2023-04-13,2024-09-14,69,5520.92,Yes,Platinum,Email,5,8,Medium
+cust_301,Sarah,Lee,richardwheeler@example.net,+1-678-561-0313x100,143 Myers Courts,Lake Madison,Vermont,Australia,35663,2023-04-13,2023-07-16,21,4518.36,Yes,Platinum,SMS,1,10,High
+cust_592,Michael,Meyer,kirbybrett@example.org,,0598 Moon Greens,Lisaview,Indiana,France,56266,2023-04-14,2024-08-09,51,1487.98,No,Gold,SMS,4,11,Medium
+cust_611,Nicholas,Andrews,justin46@example.com,420.410.8240x281,794 Edward Lock,North Alyssa,North Carolina,Japan,09679,2023-04-15,2024-04-29,18,4963.2,No,Platinum,SMS,5,1,High
+cust_402,Karen,Barnes,markskristina@example.com,+1-826-950-6229x2310,5307 Moore Village,Jeremyfort,Rhode Island,United States,95361,2023-04-18,2023-12-12,74,5230.18,Yes,Platinum,None,2,10,High
+cust_606,Tara,Anderson,margaret59@example.net,,649 Scott Point Suite 862,South Nicolas,Arkansas,Canada,01768,2023-04-19,2023-09-13,-5,7932.62,Yes,Platinum,None,1,8,High
+cust_69,Brian,Smith,christopherbruce@example.net,291-480-3397x40148,39261 Martin Garden Suite 856,Port Vanessa,Washington,Brazil,10780,2023-04-19,2024-10-03,39,8603.06,No,Platinum,SMS,5,19,Low
+cust_542,Michelle,Adkins,fisherstephanie@example.com,001-293-602-0203,22775 Heather Cove,West Jennifer,Arizona,Australia,17624,2023-04-22,2023-12-05,-67,3380.69,Yes,Platinum,SMS,5,0,High
+cust_221,Vickie,Turner,jjohnson@example.org,001-360-744-3270,67949 Mccullough Tunnel,Alvarezberg,Wisconsin,China,18657,2023-04-24,2023-12-30,51,9689.52,No,Platinum,Email,3,14,High
+cust_83,John,Burke,kimberly04@example.org,398.236.4037x61379,2696 Payne Extensions Suite 109,North Joseton,Arkansas,Brazil,52664,2023-04-26,2024-03-31,20,4471.01,No,Platinum,SMS,3,17,High
+cust_873,Scott,Wright,millerpaul@example.net,001-458-397-0152,68960 Rose Flat,Stephenland,Florida,India,88531,2023-04-27,2024-03-03,20,4466.1,No,Platinum,SMS,2,15,High
+cust_778,Christopher,Wright,weberamber@example.org,+1-409-534-2424x066,3348 Stephanie Glens Apt. 751,Grahamview,Washington,France,05387,2023-04-27,2024-06-19,2,3897.97,No,Platinum,Phone,1,8,High
+cust_264,Ashley,Adams,jasmine39@example.com,,5111 Shirley Expressway Apt. 148,Stokestown,Nevada,United Kingdom,89241,2023-04-28,2024-05-25,98,4715.44,Yes,Platinum,Email,5,2,High
+cust_984,Karl,Lara,madelinerodriguez@example.com,620.543.1927,66656 Gregory Flats,Millerchester,Minnesota,United Kingdom,45033,2023-04-30,2023-12-10,66,7419.23,Yes,Platinum,None,4,9,High
+cust_134,Wendy,Atkinson,kristen44@example.net,001-306-912-0347,5588 Cooper Loop Apt. 593,Port Justin,Massachusetts,China,88737,2023-04-30,2024-06-19,22,7214.62,Yes,Platinum,None,3,7,High
+cust_494,Billy,Smith,joel61@example.net,001-351-271-5239,929 Beck Course,Jamesview,Tennessee,China,96828,2023-05-01,2023-05-31,81,5579.91,Yes,Platinum,Email,2,4,High
+cust_691,Maria,Smith,whughes@example.net,4108792372,48649 Morse Gardens,Bradleyfort,Massachusetts,France,60825,2023-05-01,2023-12-08,41,4022.49,Yes,Platinum,None,1,12,High
+cust_922,Robert,Smith,uward@example.org,+1-439-357-1646,37090 Williams Gardens,Meyerton,North Dakota,China,83274,2023-05-02,2024-05-28,70,1006.02,No,Gold,Email,3,13,High
+cust_396,Scott,Armstrong,fshannon@example.net,001-655-815-1229,35415 Smith Ramp,Freystad,Kentucky,China,25669,2023-05-03,2024-10-08,82,196.01,No,Silver,Email,2,14,Low
+cust_153,James,Johnson,schaeferstephanie@example.org,001-233-812-7975x7366,9998 Abigail Mission Suite 038,Terrellton,Oklahoma,Germany,51278,2023-05-06,2024-04-04,32,9605.6,Yes,Platinum,Phone,4,16,High
+cust_451,Alexander,Floyd,willismichael@example.net,573.947.6427,37638 Daniel Stravenue,Alexaville,Louisiana,United States,86784,2023-05-07,2023-10-18,26,1079.48,Yes,Gold,Email,1,18,High
+cust_928,Kevin,Collier,codyburns@example.net,+1-537-492-6405,96885 Jose Curve Apt. 903,Austinmouth,Utah,China,88598,2023-05-08,2023-08-31,20,287.91,Yes,Silver,None,1,4,High
+cust_959,William,Russell,cwebster@example.net,697-935-8679x43364,63276 Barrett Unions,Brookeview,West Virginia,Japan,44381,2023-05-08,2024-04-18,13,2761.84,No,Platinum,None,4,3,High
+cust_219,Vanessa,Cunningham,michaelmitchell@example.net,001-526-783-1589,26611 Roger Curve Suite 371,Ericafurt,Pennsylvania,India,73766,2023-05-09,2023-12-03,10,2999.78,Yes,Platinum,None,5,10,High
+cust_461,Kristin,Smith,davidbrown@example.org,664-481-8804,3836 Allison Circles Suite 432,East Heatherport,Washington,Brazil,22897,2023-05-12,2024-04-14,23,4887.88,Yes,Platinum,SMS,1,18,High
+cust_525,Angela,Hurst,kennedywanda@example.net,+1-979-815-0596x2571,932 Sherry Curve,Ibarrastad,New Jersey,United Kingdom,83215,2023-05-13,2024-02-29,38,633.48,Yes,Gold,Email,5,11,High
+cust_341,Katie,Kramer,danastevens@example.net,643.424.0642,3343 Tiffany Green Suite 417,Bethstad,Wyoming,Australia,84626,2023-05-14,2024-07-20,1,137.37,Yes,Silver,Email,5,15,High
+cust_414,Christopher,King,marvinhoward@example.com,482.505.8295x829,61880 Barbara Glens Apt. 357,West Jessicastad,Oklahoma,Australia,52269,2023-05-14,2024-07-15,37,939.16,No,Gold,Email,5,5,High
+cust_239,Robin,Berry,nbaird@example.com,686-337-1597,82097 Jacob Cliff,Campbellbury,Maine,Australia,86952,2023-05-15,2024-01-07,27,2790.66,Yes,Platinum,Email,5,5,High
+cust_33,Christopher,Lewis,williamsmatthew@example.org,001-431-283-9335,28421 David Knolls Apt. 950,West Brian,West Virginia,United Kingdom,55677,2023-05-17,2024-06-07,23,8815.35,Yes,Platinum,Phone,3,13,High
+cust_736,Matthew,Mcdaniel,james14@example.net,+1-337-847-5580x3090,4717 Dunn Camp Apt. 902,Tylerville,Montana,China,79971,2023-05-18,2024-03-02,25,9044.66,Yes,Platinum,SMS,3,13,High
+cust_986,James,White,michaelflynn@example.net,330.854.8495,0794 Dustin Coves Apt. 024,South Frances,Nebraska,China,98788,2023-05-20,2023-11-08,39,350.49,No,Silver,Email,3,4,High
+cust_711,Martha,Douglas,susanhill@example.org,309-684-1016x7930,60499 Kelsey Causeway,Dianaburgh,Arizona,United States,20230,2023-05-21,2024-07-22,44,4375.8,No,Platinum,Email,5,10,Medium
+cust_650,Adam,Henderson,cheryl26@example.net,320-639-8313x5490,967 Victoria Rapid Apt. 195,Leestad,Kentucky,Australia,80095,2023-05-22,2024-09-26,92,2039.42,No,Platinum,SMS,4,12,Low
+cust_143,Alicia,Miles,brandon39@example.net,,480 Mary Club,New Colton,Washington,Canada,30780,2023-05-23,2023-08-28,68,9746.8,Yes,Platinum,Email,4,15,High
+cust_616,Jason,Brown,wkoch@example.com,+1-721-421-5649,9206 Owen Row Apt. 119,Schroederside,Oklahoma,Brazil,11027,2023-05-23,2024-01-16,86,6035.62,No,Platinum,None,5,8,High
+cust_553,Christopher,Bell,harrisonchristopher@example.org,,10712 Garcia Rue Apt. 882,Port Trevorchester,Virginia,Canada,34860,2023-05-26,2023-10-04,81,4385.46,Yes,Platinum,Phone,1,6,High
+cust_588,Carl,Rogers,ricedana@example.com,491-647-7447x3535,417 Michael Hills Suite 344,North Mathew,New York,Canada,67419,2023-05-26,2023-09-16,4,4051.58,No,Platinum,Phone,4,10,High
+cust_16,Rick,Daniels,abrown@example.com,001-590-996-7054x66889,6706 Caldwell Union,Ramseymouth,Florida,Canada,82061,2023-05-26,2024-08-31,44,220.13,Yes,Silver,Phone,1,2,Medium
+cust_291,Jessica,Powell,zachary63@example.org,001-328-219-6482x531,92098 Ashley Burg Apt. 752,Lake Rachael,Maryland,India,25906,2023-05-27,2023-09-29,46,9352.71,Yes,Platinum,Phone,2,18,High
+cust_674,Hannah,Munoz,rlewis@example.org,796.544.0282,7699 Jonathan Mill,Sellersburgh,Iowa,China,94994,2023-05-27,2023-11-15,93,-4872.36,No,Platinum,,3,2,High
+cust_424,Charles,Martinez,zli@example.org,834-577-8948,67917 Hughes Crest Apt. 215,North Melanieview,Connecticut,France,72392,2023-05-27,2023-07-30,3,4123.49,No,Platinum,Phone,5,18,High
+cust_858,Kathy,Lowery,calexander@example.com,4553817357,2506 Sarah Land,Phillipfurt,Indiana,Brazil,78165,2023-05-27,2024-03-25,8,5103.54,Yes,Platinum,SMS,1,8,High
+cust_67,Darlene,Brown,combscharles@example.net,9067231203,977 Adam Plaza,Smithhaven,Washington,Germany,36511,2023-05-28,2023-10-20,62,1149.73,Yes,Gold,None,4,2,High
+cust_996,Luis,Bailey,jonesmark@example.com,2925720948,575 Lopez Ridge Suite 339,South Amandamouth,Alabama,United Kingdom,68770,2023-05-29,2023-11-09,9,4394.39,No,Platinum,Email,5,2,High
+cust_60,Michael,Young,marshallerik@example.net,841.945.9332x72795,91878 Miller Port,North Mariahaven,Illinois,Brazil,75566,2023-05-29,2023-08-20,32,7507.26,No,Platinum,SMS,1,15,High
+cust_512,Christina,Herman,jhorton@example.com,386-494-1559x4501,75360 Wilson Mountains,South Feliciaton,Iowa,Japan,78620,2023-05-30,2024-06-24,41,7730.14,Yes,Platinum,,2,5,High
+cust_737,Jacqueline,Webb,grahamdaniel@example.net,(568)561-1997x6759,1705 Marvin Plain,West Jake,Minnesota,United States,84862,2023-05-31,2024-03-23,8,1285.53,No,Gold,SMS,3,18,High
+cust_95,Nicholas,Poole,franciscojones@example.org,705-941-1526x2181,2962 Craig Ford,South Heidi,Washington,India,96180,2023-06-01,2024-04-29,23,2015.94,No,Platinum,SMS,2,8,High
+cust_579,Jacob,Mclaughlin,ricemark@example.net,001-206-377-6106x592,19279 Huber Crescent Suite 815,Rileyside,Tennessee,France,32869,2023-06-02,2023-10-30,46,8980.35,No,Platinum,SMS,1,2,High
+cust_373,Tracey,Miller,raymondpugh@example.net,,825 Craig Expressway,Port Sarah,Virginia,Australia,20430,2023-06-02,2024-09-25,42,5143.81,Yes,Platinum,Phone,5,17,Low
+cust_670,Crystal,Martinez,wbailey@example.net,744.456.6229,9705 James Freeway,Garciachester,Florida,Japan,41080,2023-06-03,2023-06-18,14,5111.41,No,Platinum,Email,4,18,High
+cust_981,James,King,gregory04@example.org,286-574-7152,91985 Linda Lodge Suite 133,Natashaside,Massachusetts,United States,07010,2023-06-05,2024-04-13,63,6240.4,Yes,Platinum,Email,1,0,High
+cust_766,Christopher,Baker,michael56@example.net,329.565.5619x2767,1886 Meghan Garden Suite 612,Hubbardfurt,Wyoming,Brazil,58253,2023-06-06,2024-09-17,59,4632.33,Yes,Platinum,Email,3,20,Medium
+cust_407,Debbie,Foster,christie04@example.com,001-490-480-2711,231 Compton Junction,South Matthewland,New York,India,53003,2023-06-07,2024-02-23,79,6565.19,No,Platinum,,2,20,High
+cust_508,Danielle,Dyer,smiles@example.net,(368)934-9604x7842,85162 Tina Knolls,Port Crystal,Louisiana,France,71623,2023-06-09,2023-06-09,5,7780.13,Yes,Platinum,None,5,0,High
+cust_77,Garrett,Roberts,leonardhayes@example.org,(907)923-6887x676,90340 Walker Heights,Port Stephen,West Virginia,India,65422,2023-06-12,2023-08-06,98,5505.47,No,Platinum,Email,3,8,High
+cust_77,Garrett,Roberts,leonardhayes@example.org,(907)923-6887x676,90340 Walker Heights,Port Stephen,West Virginia,India,65422,2023-06-12,2023-08-06,98,5505.47,No,Platinum,Email,3,8,High
+cust_406,Kenneth,Johnson,dmiller@example.org,968.629.7514x743,250 Brian Islands,Woodmouth,Washington,United States,49656,2023-06-12,2024-04-17,12,8234.32,No,Platinum,None,1,2,High
+cust_100,Joyce,Malone,lori82@example.org,986-228-9023x3030,345 Wagner Roads Apt. 035,Wheelerburgh,New Mexico,Japan,77424,2023-06-14,2023-11-30,54,5877.53,Yes,Platinum,None,1,15,High
+cust_947,Victoria,Stone,rcochran@example.com,(487)574-5263x488,254 Adkins Crossroad Suite 351,South Taraside,Wisconsin,United Kingdom,24954,2023-06-16,2023-11-25,14,9935.47,No,Platinum,Phone,2,2,High
+cust_516,David,Baxter,beckykhan@example.com,404.272.6426x121,437 Perez Key,Delacruzside,Arkansas,Brazil,60951,2023-06-17,2024-10-05,73,1326.63,No,Gold,Email,4,9,Low
+cust_40,Katherine,Jones,kmarshall@example.net,299.755.2717x744,7700 Decker Club,New Brookefurt,New Jersey,India,76565,2023-06-17,2024-07-08,87,7483.86,Yes,Platinum,SMS,4,17,High
+cust_952,Rebecca,Robinson,tpeters@example.com,274.907.0366x6560,228 David Falls Apt. 193,Grimesside,Hawaii,Canada,63515,2023-06-18,2023-10-23,10,9717.93,Yes,Platinum,Phone,1,6,High
+cust_887,Gina,Tucker,richardsonbenjamin@example.com,+1-910-874-0433x6895,246 Elizabeth Islands Apt. 109,North Ericaton,Connecticut,Australia,65560,2023-06-18,2023-12-11,90,881.63,No,Gold,Email,2,0,High
+cust_582,Kimberly,Ferguson,kelly09@example.org,+1-886-605-2102x62706,82484 Meyer Trail,North Angela,Ohio,Germany,75622,2023-06-18,2024-08-17,15,6973.85,No,Platinum,,2,16,Medium
+cust_460,Nina,Gray,christopher84@example.net,(566)791-3624,054 Kristen Lane Apt. 807,South Jaredchester,Rhode Island,Australia,81006,2023-06-21,2024-04-15,30,2569.88,No,Platinum,Email,5,12,High
+cust_181,Steven,Taylor,xlopez@example.net,501.365.8046x498,085 Daniel Lakes Suite 905,Gregoryside,Virginia,China,09283,2023-06-24,2024-06-30,31,2432.16,Yes,Platinum,Phone,1,3,High
+cust_593,Alexandra,Myers,millerjessica@example.net,5389856811,5900 Martha Mills,Raystad,Massachusetts,Japan,19874,2023-06-24,2024-01-14,12,2164.79,No,Platinum,None,4,9,High
+cust_535,Kendra,Smith,smithmichael@example.org,660.389.4118,599 Susan Knolls,Kathleenbury,Mississippi,Germany,90419,2023-07-01,2023-09-08,33,1334.06,No,Gold,SMS,3,0,High
+cust_761,Malik,Russell,frysharon@example.net,(865)417-3281,087 Lori Drives,North Brittney,Kansas,Brazil,52545,2023-07-01,2023-08-05,82,8948.49,Yes,Platinum,Phone,1,17,High
+cust_196,Luke,Johnson,andersonmichael@example.net,001-705-261-6556,34911 Wilson Extension,New Markmouth,Texas,France,55875,2023-07-02,2024-09-01,16,1792.95,No,Gold,Phone,2,0,Medium
+cust_238,Matthew,Miller,roymcmahon@example.com,677.280.5292,553 Simmons Terrace Suite 845,New Kristenberg,Georgia,United Kingdom,43787,2023-07-02,2024-07-14,24,-6408.38,No,Platinum,None,1,19,High
+cust_348,Matthew,Phillips,danielsguy@example.com,(307)354-0915x08632,276 Reed Mount,Port Rebecca,Washington,Japan,69124,2023-07-03,2023-07-22,99,7438.8,Yes,Platinum,SMS,5,16,High
+cust_677,Kenneth,Mendoza,jsmith@example.com,6364059529,07402 Nelson Spring Suite 758,South Shawn,Florida,Australia,49161,2023-07-03,2023-07-04,38,5698.61,No,Platinum,Email,3,0,High
+cust_539,Emily,Khan,dyerdonald@example.com,(382)314-7709x207,38023 Graves Extension Apt. 921,Rebeccahaven,Delaware,Japan,68953,2023-07-07,2024-02-21,30,3804.21,No,Platinum,None,3,4,High
+cust_59,Mark,Simon,jennifer05@example.com,001-832-396-6851,75304 Young Terrace,Stephanieport,Pennsylvania,Japan,95250,2023-07-07,2023-11-06,84,2708.12,No,Platinum,None,4,18,High
+cust_950,Ryan,Gilbert,daviskaren@example.net,743.844.9975,888 Mary Mountains,Brownberg,Delaware,India,48520,2023-07-07,2023-09-16,82,4473.33,Yes,Platinum,Phone,5,15,High
+cust_250,Lisa,Mccoy,terrydeanna@example.com,+1-872-343-9920x116,2644 Willis Street,Goodwinland,Connecticut,Canada,83886,2023-07-07,2024-07-15,18,9628.09,No,Platinum,Email,3,20,High
+cust_313,Michelle,Peterson,nlee@example.net,385.459.8217x6619,17309 Johnson View Suite 465,Port Monicaport,California,India,70548,2023-07-10,2024-08-10,15,4150.28,Yes,Platinum,Email,1,18,Medium
+cust_916,Jennifer,Berry,xvega@example.org,+1-611-636-4034,770 Hannah Extensions,Reillymouth,Virginia,France,87108,2023-07-11,2024-08-21,2,1513.56,No,Gold,Phone,4,10,Medium
+cust_863,Kathleen,Scott,kathleen36@example.net,001-286-281-1143x3064,771 Stewart Keys Apt. 627,Hickmanton,Hawaii,Australia,47205,2023-07-12,2024-05-26,69,7210.49,Yes,Platinum,Phone,2,13,High
+cust_109,Mary,Vaughn,pmarsh@example.org,920-421-6979,9027 Rodriguez Loop Suite 014,Alexanderhaven,Wyoming,Brazil,97969,2023-07-12,2024-03-30,30,4144.0,No,Platinum,None,4,3,High
+cust_798,Courtney,Gomez,jeffreyhansen@example.net,487.465.6993x13606,13860 Olson Radial,Elizabethmouth,Colorado,Brazil,99285,2023-07-12,2023-07-19,1,977.74,No,Gold,None,3,13,High
+cust_982,Vanessa,Gaines,jennamason@example.com,(863)227-9042x33810,700 Hernandez Rapids,New Josephmouth,Tennessee,Canada,39229,2023-07-16,2024-07-02,61,256.32,No,Silver,None,1,3,High
+cust_701,Alicia,Owens,jason20@example.com,3955437766,858 Brian Stream,Hannaland,Maryland,Japan,27518,2023-07-18,2023-12-13,67,7790.46,No,Platinum,None,4,14,High
+cust_548,Gregory,Mitchell,nicholsrebekah@example.net,894-681-5269x25596,13074 John Trail Apt. 426,Port Justinview,Tennessee,Canada,71864,2023-07-19,2023-11-09,57,7156.85,Yes,Platinum,Email,1,2,High
+cust_180,Jeffrey,Pennington,robinvillanueva@example.com,3079806867,18063 Michael Garden Apt. 074,Lake Stephen,Oregon,Brazil,98449,2023-07-19,2024-10-07,84,2571.88,No,Platinum,Phone,2,17,Low
+cust_655,Holly,Coleman,graveslisa@example.com,001-540-736-4882x15977,662 Susan Fort Suite 066,Munozhaven,Nebraska,Japan,37686,2023-07-21,2023-09-17,6,5809.06,No,Platinum,Phone,5,15,High
+cust_294,Kelly,Mcgee,zgraham@example.org,823-946-1994x237,459 Catherine Meadow Apt. 955,South Garyton,North Carolina,United States,33670,2023-07-23,2023-12-02,19,5870.23,Yes,Platinum,Email,5,11,High
+cust_259,Cody,Mccann,sierrawilson@example.net,+1-459-862-6301x3674,6475 David Corner,South Darlenehaven,Iowa,Germany,03519,2023-07-23,2024-10-12,18,3833.38,Yes,Platinum,Phone,1,16,Low
+cust_786,Melinda,Griffin,bcobb@example.org,967.768.7404x2076,9753 Davis Island,Mirandaborough,Arkansas,United Kingdom,82026,2023-07-24,2024-07-14,27,1264.35,Yes,Gold,Phone,2,16,High
+cust_678,Sara,Greer,cameronjohn@example.com,985.664.6149,793 Alexandra Forge Suite 984,West Carolhaven,Nevada,Brazil,05007,2023-07-25,2024-04-29,95,5790.83,No,Platinum,Email,4,12,High
+cust_340,Emily,Yoder,rebeccamatthews@example.com,606.560.1382x41270,04485 Matthew Port Apt. 971,North Ianland,Idaho,Japan,42116,2023-07-27,2024-10-02,26,3585.64,No,Platinum,SMS,2,1,Low
+cust_861,Tiffany,Fry,courtneygutierrez@example.com,361-892-2188x22063,76130 Jake Greens Apt. 693,Huntermouth,South Dakota,China,80387,2023-07-27,2024-01-28,68,6051.09,Yes,Platinum,SMS,2,18,High
+cust_288,Benjamin,Reese,robertpayne@example.org,+1-663-353-3905x504,766 Bell Plains Suite 851,South Ross,Idaho,Australia,72951,2023-08-01,2024-03-28,81,9940.93,Yes,Platinum,None,3,15,High
+cust_964,Thomas,Lawrence,andrew52@example.com,9272068756,81292 Nicole Locks Apt. 391,East Travis,Kentucky,France,48200,2023-08-04,2024-04-19,58,4911.71,No,Platinum,,4,8,High
+cust_436,Robert,Ross,kerry32@example.net,315.606.6626x7055,7693 Jordan Freeway,Johnburgh,Michigan,China,21366,2023-08-04,2024-04-21,89,6849.56,No,Platinum,SMS,4,6,High
+cust_680,Tyler,Thompson,matthewespinoza@example.net,771.688.8223x78870,8061 Heidi Glens,Richardmouth,West Virginia,Canada,75861,2023-08-06,2024-10-05,64,6230.74,No,Platinum,None,4,0,Low
+cust_506,Devon,Chang,warroyo@example.net,239.878.5708x20048,7123 Elliott Hills Suite 112,Craigshire,Louisiana,Japan,22173,2023-08-06,2024-02-07,22,5714.11,No,Platinum,Phone,5,3,High
+cust_685,Bobby,Harris,fwalton@example.com,809.257.3940x59802,944 Debra Valleys,Port Jesusland,Minnesota,France,70027,2023-08-07,2024-07-06,46,7696.05,No,Platinum,Phone,5,19,High
+cust_622,Douglas,Morris,robersonpatricia@example.org,(510)370-3350x8424,248 Gordon Forges,North Kevinville,West Virginia,China,56217,2023-08-07,2024-07-26,87,3534.11,No,Platinum,SMS,1,0,Medium
+cust_750,Judy,Johnson,glasssamantha@example.com,371-465-7893,5188 Miller Crescent Suite 860,Port Deniseton,Alabama,Brazil,94663,2023-08-10,2023-12-01,61,2690.67,No,Platinum,Email,2,7,High
+cust_715,Matthew,Rivera,bcarlson@example.net,(761)468-4552,410 Cynthia Haven Suite 179,Abigailstad,Nevada,India,51675,2023-08-11,2024-03-17,9,4846.87,No,Platinum,Phone,1,8,High
+cust_751,Brooke,Little,fhoffman@example.com,+1-270-330-2930x1125,074 Ashley Brooks Suite 952,East Jeremy,Illinois,India,53988,2023-08-11,2024-08-01,49,5717.99,No,Platinum,SMS,5,2,Medium
+cust_29,Linda,Santana,charleslandry@example.net,,640 Renee Summit,Wallport,Wyoming,Germany,30663,2023-08-14,2024-01-12,65,4890.43,Yes,Platinum,Email,4,8,High
+cust_955,Ronald,Vasquez,ndiaz@example.com,+1-361-734-1749,088 White Turnpike,Wyattborough,Illinois,Canada,80167,2023-08-14,2024-06-01,19,4614.93,Yes,Platinum,Email,2,0,High
+cust_144,Alicia,Wright,angelagrant@example.net,895-776-1228,975 Pierce Islands,Robertchester,Washington,France,42896,2023-08-15,2024-04-13,9,3454.58,Yes,Platinum,SMS,2,1,High
+cust_792,Lindsey,Franco,bennettmichael@example.net,(338)231-9348,81463 Martinez Rest,West Robin,Connecticut,China,90827,2023-08-15,2024-01-21,10,4093.79,Yes,Platinum,Email,4,18,High
+cust_518,Tiffany,Fleming,hayesrachel@example.com,001-933-742-7203x88621,801 Rivers Views,West Markborough,Arizona,Brazil,51175,2023-08-16,2024-07-21,63,312.34,No,Silver,Email,3,15,Medium
+cust_577,Amber,Lee,glopez@example.org,405-224-3838x05826,6862 Avila Gardens,East Megan,Indiana,United States,66246,2023-08-16,2024-01-28,15,3835.72,No,Platinum,Email,3,11,High
+cust_835,Jerry,Larson,robbinsjoseph@example.net,4154273117,1475 Duncan Turnpike Apt. 018,Davidbury,Indiana,Canada,43749,2023-08-18,2024-10-11,88,5488.2,Yes,Platinum,SMS,1,11,Low
+cust_473,Edward,Matthews,melissa40@example.org,(873)300-8696,68311 Lisa Isle,North Sierrafurt,North Dakota,Canada,07839,2023-08-19,2023-12-15,41,4851.77,Yes,Platinum,Phone,2,16,High
+cust_398,Tracy,Adams,fsellers@example.net,381-302-1312x51293,059 Eric Road,Welchmouth,Texas,United Kingdom,14372,2023-08-20,2023-09-12,14,175.46,No,Silver,Phone,5,3,High
+cust_73,Jessica,Hahn,samuelcarter@example.net,867-324-3426,796 Stephens Turnpike Suite 891,Port Johnstad,Hawaii,China,85304,2023-08-20,2024-04-15,37,4397.14,No,Platinum,SMS,4,8,High
+cust_314,Sarah,Porter,imontgomery@example.net,597-740-0564,38503 Jones Port,West Tinachester,Rhode Island,India,97401,2023-08-20,2023-09-23,34,3836.6,No,Platinum,None,1,5,High
+cust_517,Cynthia,Richardson,stacy24@example.org,283-885-4540,5475 Molly Vista Apt. 123,Lake Traci,Maine,Australia,70921,2023-08-22,2024-06-28,19,8612.35,No,Platinum,SMS,4,5,High
+cust_921,Samantha,Hodge,tara23@example.com,001-774-587-7007x8812,1218 Andrea Estates,South Timothy,Pennsylvania,India,08418,2023-08-22,2024-05-29,82,2839.65,Yes,Platinum,Email,1,2,High
+cust_334,Wyatt,Trevino,morseronald@example.org,(420)928-1237x1067,866 Kenneth Mews,Jenniferview,North Dakota,Australia,42756,2023-08-23,2024-01-26,29,6938.31,No,Platinum,SMS,2,3,High
+cust_27,Melissa,Jenkins,julie66@example.net,+1-227-402-8951x7187,217 Morgan Square Suite 158,Finleyfort,Ohio,Australia,05206,2023-08-25,2023-12-01,48,2857.02,No,Platinum,SMS,5,20,High
+cust_866,Anthony,Smith,wardstephanie@example.org,001-282-992-4828x7321,27365 Gardner Drive,North Thomas,Alabama,Brazil,08896,2023-08-25,2024-08-13,88,5329.37,Yes,Platinum,Phone,4,16,Medium
+cust_433,Julie,Hoffman,johnsonjeffery@example.net,(207)365-9759x545,6808 Yolanda Drives Suite 574,East Kathleen,Illinois,United Kingdom,12715,2023-08-25,2023-12-18,39,115.45,Yes,Silver,SMS,3,15,High
+cust_806,Chelsea,Collier,fgreer@example.net,001-791-398-1775,441 Munoz Expressway,Jamieville,Nevada,France,36623,2023-08-28,2023-11-10,6,9696.28,No,Platinum,None,2,19,High
+cust_534,Katherine,Lyons,millerdaniel@example.org,,79805 Schneider Fort,North Alecfurt,Maine,Germany,89307,2023-08-30,2024-10-05,8,6296.71,Yes,Platinum,Email,3,19,Low
+cust_12,Tammy,Ramirez,ifrazier@example.com,8147294019,9816 Jonathan Station Suite 088,West Ryan,Texas,Japan,43780,2023-08-31,2024-05-31,98,1794.73,Yes,Gold,SMS,5,19,High
+cust_125,Bradley,Berry,dennishunt@example.net,,79772 Maria Rapid,Port Brandi,Wyoming,China,24340,2023-09-01,2024-03-29,8,3525.9,Yes,Platinum,SMS,4,14,High
+cust_688,Kenneth,Thomas,vmorrow@example.net,969-389-0623x2723,890 Nicole Forks Suite 900,Stewartview,Virginia,Brazil,71562,2023-09-05,2024-03-06,54,7694.5,Yes,Platinum,Phone,4,10,High
+cust_488,Wanda,Henry,smccarty@example.org,(377)546-2025x82543,812 Mary Crossroad,New Douglas,Tennessee,Japan,01429,2023-09-05,2024-05-17,18,3936.74,No,Platinum,None,1,5,High
+cust_782,Jasmine,Gibbs,toddcollins@example.org,001-342-686-1789x257,50385 Patterson Extensions,Baxterport,North Carolina,Australia,09852,2023-09-07,2024-07-12,80,803.1,Yes,Gold,SMS,4,9,High
+cust_139,Tristan,Peterson,kristi75@example.com,001-505-612-0461x872,13673 James Street Apt. 837,Maldonadoport,Massachusetts,France,21290,2023-09-07,2023-09-24,13,8393.37,No,Platinum,Phone,2,1,High
+cust_590,Sara,Daniel,yburnett@example.net,6186915673,1776 Brittany Locks Apt. 433,Taylorshire,Kentucky,Germany,49793,2023-09-07,2024-02-29,4,4022.28,Yes,Platinum,None,3,2,High
+cust_447,Christopher,Marquez,rebecca41@example.com,001-904-261-5402x11901,6814 Brittany Points Apt. 152,Lake Samantha,Vermont,Brazil,14115,2023-09-09,2023-09-15,25,5671.35,No,Platinum,SMS,4,8,High
+cust_795,Samantha,Lara,barnesdaniel@example.net,001-866-491-0082x2421,221 Kelly Route Suite 269,Blevinstown,North Dakota,United Kingdom,25870,2023-09-10,2024-03-28,2,1176.14,Yes,Gold,None,4,18,High
+cust_323,Barbara,Bartlett,john53@example.com,513-976-5158x81579,92836 Catherine Underpass Suite 551,South Robertberg,Oregon,Germany,65276,2023-09-11,2024-07-18,92,9670.57,No,Platinum,None,4,11,High
+cust_574,Gregory,Hernandez,kimberlywatson@example.com,315.782.6868x76401,806 Zhang Terrace Apt. 006,New Sarah,New York,Brazil,58466,2023-09-17,2024-03-25,86,3055.32,No,Platinum,Email,4,14,High
+cust_303,Veronica,Conley,karirowe@example.org,657-775-8474x5705,48026 Donna Divide Suite 703,Howardland,Illinois,China,50017,2023-09-18,2024-10-04,56,1579.47,Yes,Gold,SMS,2,6,Low
+cust_800,Jessica,Snyder,michelle86@example.net,265.362.9258x22828,35306 Simmons Stream,Erinchester,New York,India,54175,2023-09-18,2024-04-03,57,6272.11,Yes,Platinum,Phone,1,9,High
+cust_51,David,Hernandez,fernandodonovan@example.org,,99590 Christopher Row,Debrashire,Nebraska,India,81517,2023-09-18,2024-04-02,93,1658.8,No,Gold,Phone,5,17,High
+cust_287,Thomas,Barker,tammykim@example.net,001-460-789-3199,27275 Laura Spring Suite 480,Hardingberg,South Dakota,Germany,59395,2023-09-18,2024-05-04,64,4125.8,No,Platinum,Email,1,8,High
+cust_245,Jeffrey,Barrett,debra50@example.org,664.397.1892,625 Cynthia Spurs Suite 715,New Rhondamouth,Missouri,Australia,67482,2023-09-20,2023-12-20,38,336.62,Yes,Silver,SMS,2,14,High
+cust_507,Rebecca,Hernandez,qlane@example.com,+1-804-209-5314x19615,327 Craig Valley Apt. 565,Port Sarahshire,Texas,United States,88322,2023-09-20,2023-11-30,35,4144.56,No,Platinum,Phone,3,14,High
+cust_522,Alexis,Hall,smithheather@example.com,266.310.0898x761,56140 Rachael Highway Suite 319,Port Timothychester,Wisconsin,Canada,72634,2023-09-21,2023-12-06,57,1769.98,No,Gold,Email,5,3,High
+cust_522,Alexis,Hall,smithheather@example.com,266.310.0898x761,56140 Rachael Highway Suite 319,Port Timothychester,Wisconsin,Canada,72634,2023-09-21,2023-12-06,57,1769.98,No,Gold,Email,5,3,High
+cust_937,Rhonda,Hansen,padkins@example.org,+1-349-399-1365x055,687 Walter Underpass,Jonestown,Ohio,Brazil,02004,2023-09-21,2024-05-17,56,8829.74,No,Platinum,SMS,3,19,High
+cust_444,Kristina,Gomez,idrake@example.com,001-709-211-2252x8837,6186 Gary River Suite 913,Grantmouth,Missouri,China,42734,2023-09-22,2023-12-09,20,3720.27,Yes,Platinum,Phone,2,15,High
+cust_752,Cynthia,Smith,oliviasmith@example.com,+1-530-924-2662x4975,57144 Shah Ranch Suite 674,Lake Omarfort,Indiana,China,47934,2023-09-25,2024-01-01,6,4657.88,No,Platinum,None,4,14,High
+cust_137,Christopher,Parker,tgreen@example.org,9826547807,4930 Lopez Points,Fosterburgh,Virginia,Japan,97116,2023-09-26,2024-08-12,16,2857.78,Yes,Platinum,SMS,4,16,Medium
+cust_137,Christopher,Parker,tgreen@example.org,9826547807,4930 Lopez Points,Fosterburgh,Virginia,Japan,97116,2023-09-26,2024-08-12,16,2857.78,Yes,Platinum,SMS,4,16,Medium
+cust_880,Dale,Moore,rebeccaweaver@example.org,+1-705-764-4685x3045,502 Lewis Isle Suite 077,Tateport,Indiana,Australia,30921,2023-09-26,2024-04-02,88,3853.59,Yes,Platinum,None,2,3,High
+cust_25,Shawn,Edwards,darrell68@example.org,+1-487-660-3859x77034,710 Jennifer Inlet Apt. 861,Port Robin,New Jersey,Australia,15897,2023-09-27,2023-11-25,86,7164.76,Yes,Platinum,SMS,4,4,High
+cust_18,Danny,Gould,xlyons@example.com,(699)812-4190,319 Curtis Trail Suite 919,West Amandastad,California,Brazil,66818,2023-09-27,2023-10-01,53,1912.2,Yes,Gold,None,3,13,High
+cust_154,Brandon,Carter,xwilkerson@example.com,326.449.0827x718,6570 Shawn Station,South Christopher,Massachusetts,Brazil,91165,2023-09-28,2024-06-28,28,9963.69,No,Platinum,None,2,3,High
+cust_725,Mary,Willis,turnerkimberly@example.com,5225061901,9379 Miller Circle,North Debbieburgh,Virginia,France,76754,2023-09-28,2024-03-12,5,2814.76,Yes,Platinum,Email,2,20,High
+cust_840,Nathan,Watson,andersonjesse@example.org,381.991.3505x3494,7557 Patricia Lock,Salinasburgh,North Carolina,France,83312,2023-09-29,2024-10-10,60,5027.27,No,Platinum,None,5,7,Low
+cust_769,Stacy,Wilson,timothybrown@example.com,+1-934-410-4062x911,247 April Brooks,New Dannyshire,Wyoming,Australia,52992,2023-10-02,2024-08-20,64,4118.67,Yes,Platinum,SMS,1,3,Medium
+cust_123,Sean,White,jillwebb@example.com,5377314530,7005 Jane Pike Suite 498,South Desiree,Mississippi,United Kingdom,77529,2023-10-04,2024-08-16,31,1037.02,No,Gold,Phone,2,19,Medium
+cust_242,Trevor,Riddle,carneycharles@example.org,756.872.4380x70176,0041 Mark Summit,Washingtonland,Colorado,India,72384,2023-10-08,2024-07-02,77,1387.29,No,Gold,None,2,15,High
+cust_263,Joshua,Garcia,nicholasgarcia@example.org,(684)697-1859,25625 Woods Crossroad,Alberthaven,Virginia,India,20881,2023-10-08,2023-11-30,15,2418.41,Yes,Platinum,Email,3,10,High
+cust_350,Robert,Anderson,steven51@example.org,805.731.9497,8055 Reed Mills Apt. 773,Lake Peter,Montana,Brazil,04730,2023-10-12,2024-05-11,22,757.9,No,Gold,SMS,2,10,High
+cust_415,Jeffery,Bell,gwatts@example.org,+1-672-530-8172x1436,00041 Jacob Trail,North Jonville,Nevada,Australia,47361,2023-10-13,2023-10-16,64,7373.75,Yes,Platinum,Phone,3,6,High
+cust_891,Chad,Ferguson,gbyrd@example.net,+1-859-332-1359,73480 Nicole Drive,Bakerstad,South Carolina,India,65426,2023-10-14,2023-12-02,20,7656.52,No,Platinum,Phone,5,9,High
+cust_481,Steven,Bishop,jcruz@example.net,001-568-972-2589,858 Raymond Ferry,West Brett,Louisiana,Australia,04419,2023-10-15,2024-08-30,77,2329.5,Yes,Platinum,SMS,1,15,Medium
+cust_716,Tina,Harper,johnsondaniel@example.net,001-456-975-6355x842,2662 Sullivan Burg,Patricktown,New Mexico,United Kingdom,03457,2023-10-15,2023-11-14,39,5686.77,No,Platinum,Email,5,6,High
+cust_445,Bobby,Chavez,duncanandre@example.net,(356)405-7121x988,8851 Kristi Route Suite 348,Carterville,Arkansas,United States,39849,2023-10-16,2024-10-17,8,3561.62,Yes,Platinum,Email,2,15,Low
+cust_419,Christopher,Rich,thomas83@example.org,702-619-2378,29618 Jesse Drive Suite 260,Briantown,Delaware,China,69256,2023-10-17,2024-05-18,13,3261.11,No,Platinum,Phone,5,8,High
+cust_193,Maureen,Alvarez,harry71@example.com,581.712.6691x215,613 Hardy Harbors,Katelynfurt,Minnesota,Germany,62868,2023-10-18,2024-09-29,93,227.49,No,Silver,Email,2,18,Low
+cust_532,Tina,Velez,richard28@example.org,750-877-4065x79551,92090 Barrera Islands,North Trevorport,Washington,Canada,04112,2023-10-18,2024-05-24,88,6340.54,No,Platinum,Email,3,17,High
+cust_408,Darlene,Foster,amydavis@example.org,221.243.3080x037,22855 Avila Skyway,Smithport,New York,Japan,03582,2023-10-21,2024-06-30,37,1955.52,Yes,Gold,,1,11,High
+cust_620,Kimberly,George,espinozataylor@example.com,460-588-1972,7718 Todd Villages Apt. 076,North Ianport,Oklahoma,United States,02457,2023-10-26,2024-07-08,23,5571.1,No,Platinum,Phone,4,13,High
+cust_756,Kelsey,Parks,madisonchristensen@example.net,001-753-411-1235x90426,2866 Linda Key Apt. 085,Walkerborough,Oklahoma,China,94205,2023-10-29,2024-02-29,97,6556.53,No,Platinum,Phone,4,7,High
+cust_430,Andrew,Wagner,longgary@example.com,,329 Carlos Lane,North Justin,North Dakota,Australia,64720,2023-10-30,2024-03-17,95,2848.91,Yes,Platinum,Phone,5,5,High
+cust_704,Jesse,Madden,jackthompson@example.com,(520)319-0113x4843,25286 Laura Estate,Lake Carla,Michigan,Germany,54466,2023-11-01,2024-02-26,48,3039.57,No,Platinum,Email,2,4,High
+cust_794,Emily,Garcia,jensenpamela@example.com,(698)345-5766x345,912 Mcmillan Walks,Matthewton,Nebraska,United States,40712,2023-11-07,2024-09-25,90,6660.1,Yes,Platinum,SMS,5,14,Low
+cust_337,Dwayne,Martin,morrispaula@example.org,(587)867-5481,7548 Schmidt Rapids Apt. 242,Castrofort,Vermont,India,33339,2023-11-08,2024-05-18,82,2565.33,Yes,Platinum,,1,20,High
+cust_347,Kelsey,Turner,judy19@example.com,757.658.5126x86120,976 Steven Canyon,Port Tracystad,Arkansas,United Kingdom,79056,2023-11-09,2024-02-03,-62,9204.78,Yes,Platinum,None,4,1,High
+cust_113,Victor,Moreno,tranryan@example.net,,5472 Robert Squares Suite 858,East Jason,Virginia,Germany,38587,2023-11-09,2024-09-20,74,2269.33,No,Platinum,Email,5,8,Low
+cust_668,Brett,Young,bfoster@example.org,(202)581-6409x891,120 Danielle Divide,Derekview,Michigan,France,21220,2023-11-11,2024-07-30,60,6767.64,Yes,Platinum,None,5,20,Medium
+cust_875,Tanner,Horton,josephpeggy@example.org,+1-907-637-9499x9445,1076 Julia Dale Suite 543,Kaylastad,Oregon,Canada,14804,2023-11-12,2023-11-22,19,-729.77,Yes,Gold,None,4,3,High
+cust_357,Stacey,Peterson,jamie24@example.net,001-313-757-7908x33506,8881 Sean Pike,East Jonathan,West Virginia,Brazil,24445,2023-11-12,2024-06-20,59,6587.98,Yes,Platinum,None,1,16,High
+cust_885,Ryan,Thomas,jashley@example.net,326-980-9282x6164,53718 Johnson Loaf,Danielstown,Illinois,India,10235,2023-11-13,2024-10-05,62,6937.27,No,Platinum,SMS,2,20,Low
+cust_636,Nathan,Sharp,sherrywyatt@example.com,952.586.4612x0961,99284 Baxter Groves,East Gabrielville,California,Canada,46878,2023-11-14,2024-08-31,51,9432.19,Yes,Platinum,Phone,1,18,Medium
+cust_886,Richard,Torres,kmontes@example.com,+1-512-779-8312x4285,60199 Tiffany Point Suite 808,Smithville,New Mexico,Brazil,00654,2023-11-15,2024-08-04,69,5366.76,Yes,Platinum,None,1,18,Medium
+cust_232,Dylan,Parker,kelly08@example.net,+1-520-938-8065x33315,599 Jensen Manor Suite 217,South Jeffreytown,South Dakota,Brazil,29733,2023-11-16,2024-04-21,75,4014.04,No,Platinum,Email,3,17,High
+cust_81,James,Barker,nicoleturner@example.com,554-815-2064,103 Miller Ramp,New Erin,Alabama,Germany,01557,2023-11-19,2024-08-17,66,7057.06,No,Platinum,None,4,7,Medium
+cust_1000,Joanna,Singh,gainesgabriel@example.net,775-861-6809,185 Martinez Forge Apt. 665,East Aprilland,Michigan,France,57005,2023-11-20,2024-09-07,97,6636.73,Yes,Platinum,Phone,4,2,Medium
+cust_700,Matthew,Brown,mariecasey@example.com,001-944-586-7228x83904,45461 Parks Highway,East Michael,Delaware,India,34673,2023-11-20,2024-06-02,53,828.65,Yes,Gold,None,2,15,High
+cust_146,Kevin,Duncan,jessicacummings@example.com,(379)219-4096,6613 Cynthia Roads Suite 048,West Amberberg,Massachusetts,France,66351,2023-11-21,2024-01-10,40,5158.68,No,Platinum,SMS,1,20,High
+cust_435,Stephanie,Scott,crystal58@example.org,+1-998-849-3306x74584,441 Angela Vista,East Steven,Georgia,United Kingdom,13424,2023-11-21,2024-05-06,92,7373.81,No,Platinum,None,2,8,High
+cust_344,Karen,Anderson,kristina01@example.com,001-425-576-2702x32441,1328 Smith Estate,Coryside,Utah,Brazil,52149,2023-11-22,2024-09-19,80,2690.41,Yes,Platinum,SMS,3,5,Low
+cust_748,Michelle,Holland,sullivantodd@example.com,001-818-777-6288x363,62762 Jack Meadows,Wallacehaven,Alabama,United States,75195,2023-11-23,2024-01-26,81,7958.16,Yes,Platinum,None,2,2,High
+cust_474,Kelly,Obrien,brian62@example.net,939.676.2053x44077,07266 Caitlyn Key Apt. 817,Livingstonton,Hawaii,Japan,74611,2023-11-23,2024-06-08,40,3342.36,No,Platinum,Phone,1,11,High
+cust_550,Tara,Ramirez,ryanbullock@example.com,447-501-7320x865,7296 Fleming Lodge Apt. 370,West Rhondaton,Wisconsin,Brazil,82984,2023-11-24,2024-08-18,62,4366.22,Yes,Platinum,Phone,1,12,Medium
+cust_418,Paul,Garner,kelseywilliams@example.org,459.473.7112,7560 Reid Coves,Wellsview,Nevada,United States,73545,2023-11-26,2023-12-17,-65,3479.42,Yes,Platinum,None,1,16,High
+cust_679,Leslie,Edwards,carla32@example.com,001-364-332-2394x61212,485 John Avenue Apt. 276,East Renee,Pennsylvania,Brazil,70107,2023-11-27,2024-03-05,30,7145.76,Yes,Platinum,None,5,10,High
+cust_679,Leslie,Edwards,carla32@example.com,001-364-332-2394x61212,485 John Avenue Apt. 276,East Renee,Pennsylvania,Brazil,70107,2023-11-27,2024-03-05,30,7145.76,Yes,Platinum,None,5,10,High
+cust_465,Samantha,Carr,uchang@example.com,578-268-8002,156 Andrea Villages,East Haleymouth,New Mexico,India,83972,2023-11-27,2024-02-21,34,859.94,No,Gold,Phone,2,15,High
+cust_635,Brian,Deleon,nedwards@example.net,+1-620-712-3763x177,10629 Davidson Port Apt. 759,New Davidfurt,New Hampshire,Brazil,10464,2023-11-27,2023-12-29,3,562.72,Yes,Gold,SMS,5,9,High
+cust_625,Donald,Howard,dgarcia@example.org,5879156478,17543 Kimberly Mills,Loriport,North Carolina,India,43009,2023-11-30,2024-07-03,73,5152.45,No,Platinum,SMS,1,15,High
+cust_15,Stephanie,Vance,jrivas@example.com,(677)943-4873,434 Flores Plains,East Edwardfurt,Vermont,China,20529,2023-12-01,2023-12-21,55,9643.99,Yes,Platinum,SMS,4,20,High
+cust_380,Jeffrey,Mckenzie,amycontreras@example.com,2736333732,97768 Robert Vista,Burtonfurt,West Virginia,United Kingdom,34775,2023-12-01,2024-10-12,29,6172.68,No,Platinum,Phone,1,5,Low
+cust_84,Walter,Perry,imiller@example.net,+1-324-614-1832x856,303 Sandy Crescent Suite 990,Elizabethburgh,Delaware,Australia,02161,2023-12-02,2024-07-14,74,3835.88,No,Platinum,Email,3,15,High
+cust_788,Madison,Miller,fbass@example.org,+1-315-683-7466,7618 Dixon Skyway Apt. 479,Rossfurt,Oklahoma,Canada,19802,2023-12-03,2023-12-08,47,3988.46,Yes,Platinum,None,4,13,High
+cust_742,James,Ellis,susanwhite@example.org,001-614-939-0705,0157 Christopher Isle,Lake Jacquelineton,California,India,52532,2023-12-03,2024-09-19,27,4009.12,Yes,Platinum,SMS,1,2,Low
+cust_714,Charles,Noble,taraalvarez@example.net,(976)646-3913x810,619 Jackson Row,North Michael,Arkansas,Australia,10480,2023-12-05,2023-12-31,97,5974.08,Yes,Platinum,None,5,16,High
+cust_935,Bryan,Boyd,clarkmindy@example.com,+1-946-660-4903x764,9116 Jacob Crescent Suite 039,Halestad,Oklahoma,United Kingdom,54079,2023-12-05,2024-07-18,35,2743.93,Yes,Platinum,Email,3,17,High
+cust_515,Melissa,Wilson,kellyrichmond@example.com,(677)346-2591x60112,8488 Holder Avenue,North Thomashaven,Montana,China,63572,2023-12-06,2024-10-15,81,8363.38,No,Platinum,SMS,3,10,Low
+cust_500,Brian,Wilson,williamsanthony@example.net,(283)317-6417x26808,1290 Terri Squares Apt. 713,South Shawnbury,Arkansas,Japan,61049,2023-12-08,2024-03-21,-94,6322.26,No,Platinum,Phone,5,7,High
+cust_162,Susan,Castro,clarkmichael@example.com,224-493-2149x587,0160 Ronald Fall,Jensenport,Michigan,United States,26472,2023-12-08,2024-07-06,11,464.16,No,Silver,,5,13,High
+cust_469,Laura,Galloway,matthewyoung@example.net,+1-382-260-3359,570 William Port,Port Keithshire,Idaho,Australia,02568,2023-12-10,2024-04-29,80,9268.03,No,Platinum,Email,3,3,High
+cust_216,Kathleen,Jimenez,mooremichael@example.org,,6532 Cobb Dam Suite 667,Sherrymouth,Georgia,United States,01804,2023-12-13,2024-05-21,12,4058.73,No,Platinum,None,1,20,High
+cust_370,Craig,Bailey,christophermcneil@example.org,776.787.2904x7742,7932 Zachary Valley,East Donna,West Virginia,Australia,12925,2023-12-13,2024-03-09,85,3325.52,No,Platinum,SMS,2,19,High
+cust_757,Matthew,Miller,zdavila@example.net,+1-919-235-1174x5553,72816 Gonzalez Mills Suite 612,Lake Loganfort,Mississippi,Japan,55967,2023-12-15,2024-08-05,97,4692.7,No,Platinum,SMS,1,10,Medium
+cust_397,Rebecca,Johnson,rebecca03@example.net,247-265-0471x5802,3766 Heather Groves Suite 558,Russellmouth,Florida,India,45883,2023-12-15,2024-06-02,77,1435.69,Yes,Gold,SMS,2,10,High
+cust_480,Amy,Proctor,william42@example.com,+1-959-288-1145x788,52386 Myers Flat Apt. 097,Omarland,South Carolina,Germany,08821,2023-12-15,2024-07-06,20,7793.29,Yes,Platinum,Phone,2,0,High
+cust_210,Jacob,Mccoy,williamsmatthew@example.com,+1-432-678-8147x61742,649 Andrea Cape,New Rogerville,New Jersey,Germany,87120,2023-12-16,2024-08-21,98,8217.7,No,Platinum,None,2,11,Medium
+cust_846,Jason,Townsend,polson@example.org,+1-931-467-8719x26154,24025 Rogers Burg,West Kennethton,North Carolina,Canada,98067,2023-12-16,2024-07-07,38,2998.79,No,Platinum,SMS,2,0,High
+cust_605,Kelly,Buchanan,isaiahthomas@example.net,(602)952-3941x2094,69032 May Knoll Suite 132,Ortizmouth,Rhode Island,Australia,39836,2023-12-16,2023-12-23,40,1262.19,Yes,Gold,Email,4,3,High
+cust_369,Leah,Cline,nathan62@example.com,(928)522-5120,5495 Krista Isle Apt. 702,Williamsfurt,Wisconsin,France,78948,2023-12-18,2024-02-07,68,2207.42,Yes,Platinum,Email,5,5,High
+cust_241,Renee,Suarez,cford@example.net,547-454-6926,6291 Hale Cape Apt. 248,Elizabethland,Vermont,Germany,95729,2023-12-18,2024-02-22,79,5905.78,Yes,Platinum,SMS,1,7,High
+cust_495,Madeline,Buck,fgay@example.org,+1-397-919-1260x22132,2019 Darren Light Suite 122,North Christinaton,New Hampshire,China,18325,2023-12-19,2024-07-07,78,2991.43,Yes,Platinum,Email,1,13,High
+cust_464,Brenda,Stephenson,fosterjeffrey@example.org,211-597-8718,137 Dennis Row,Yvonneton,Nebraska,China,05056,2023-12-19,2024-10-04,65,909.93,No,Gold,SMS,4,4,Low
+cust_799,William,Clark,wolfjessica@example.net,001-353-682-9441,053 Alexander Points Apt. 951,Wellston,Oregon,United Kingdom,43935,2023-12-25,2024-01-31,65,9485.35,No,Platinum,Phone,2,6,High
+cust_215,Erica,Thompson,romanmatthew@example.org,+1-431-383-7455x084,7119 Madison Canyon,East Crystalborough,Mississippi,Canada,21083,2023-12-25,2024-07-23,48,9593.38,No,Platinum,Phone,2,9,Medium
+cust_479,Kimberly,Ryan,rgiles@example.com,(292)618-2192x5967,9984 Stephanie Crossroad,Port Markton,Rhode Island,United Kingdom,91175,2023-12-26,2024-07-09,94,304.54,No,Silver,None,4,9,High
+cust_541,Bonnie,Nolan,martin40@example.net,582-627-2002,322 Johnathan Harbors,Tonyview,Tennessee,Germany,28212,2023-12-28,2024-09-25,43,2710.56,Yes,Platinum,SMS,5,12,Low
+cust_599,Mark,Goodman,ftaylor@example.org,543.606.8811x640,881 Harris Mountains,Pearsonstad,North Carolina,Brazil,29657,2023-12-29,2024-03-01,89,8184.63,No,Platinum,Email,3,5,High
+cust_316,Alejandro,Gutierrez,ritteralexis@example.net,701.702.7240,2967 Diane Club,Shawnaborough,New York,Germany,92940,2024-01-01,2024-04-13,40,2810.66,No,Platinum,Email,2,4,High
+cust_912,Stephanie,Harrington,samanthastone@example.org,001-536-278-8387x36932,3647 Stone Loop,Roachview,North Dakota,Germany,56957,2024-01-04,2024-10-01,33,6360.52,Yes,Platinum,Phone,1,8,Low
+cust_904,Preston,Edwards,bishopjenna@example.org,657-944-5203x0276,88240 Lynn Lake,East Jennifer,Colorado,Canada,22590,2024-01-04,2024-03-25,59,3144.05,No,Platinum,Phone,1,8,High
+cust_339,Janet,Hill,maddoxmadeline@example.net,497.472.7810x5092,1070 Davis Plains,Tonyaborough,Tennessee,United Kingdom,80979,2024-01-04,2024-04-08,54,8308.22,Yes,Platinum,Email,3,3,High
+cust_114,David,Page,williambenson@example.com,001-315-287-9968x460,00342 Vega Drive Apt. 438,West Lisaville,South Carolina,France,89043,2024-01-06,2024-09-09,1,1822.24,Yes,Gold,None,1,4,Medium
+cust_177,Vincent,Clements,michael08@example.org,918.519.5883,31277 Ernest Cape Apt. 543,Kingmouth,Arizona,United Kingdom,14187,2024-01-07,2024-09-26,59,9122.12,No,Platinum,SMS,3,19,Low
+cust_270,Ronald,Williams,adamsjuan@example.com,001-963-650-2000x534,2475 Torres Court,Lake Andreaberg,Michigan,China,47761,2024-01-08,2024-04-19,81,779.93,No,Gold,SMS,1,15,High
+cust_394,Sharon,Reynolds,njohnson@example.com,001-824-792-6932,27599 Erica Turnpike Apt. 100,West Melissamouth,Minnesota,France,27109,2024-01-10,2024-10-06,93,1142.25,No,Gold,None,2,18,Low
+cust_411,Sharon,Jones,wilkersonmelissa@example.net,3042047692,36514 Valdez Hills Apt. 142,Stephenborough,Delaware,Japan,83955,2024-01-11,2024-07-20,14,5590.72,No,Platinum,SMS,1,16,High
+cust_944,Crystal,Hartman,cwebb@example.org,(556)327-7402x1572,2423 Hernandez Views,Guerratown,North Dakota,China,42578,2024-01-12,2024-06-06,1,9117.32,No,Platinum,Phone,4,1,High
+cust_619,Darryl,Rodriguez,ladkins@example.com,001-686-901-6259x08419,0113 Peterson Junction Apt. 107,New Allison,New Hampshire,Germany,68997,2024-01-12,2024-05-23,70,3442.72,Yes,Platinum,Email,4,3,High
+cust_7,Scott,Callahan,williamsyvette@example.org,432-867-7360,4746 Moore Hill,North Beth,Ohio,Japan,08490,2024-01-15,2024-01-30,29,6849.3,Yes,Platinum,Phone,1,10,High
+cust_803,Thomas,Fowler,sandrathomas@example.net,683-849-2766x809,80403 Renee Plaza,North Marymouth,Iowa,France,57993,2024-01-15,2024-04-27,78,4300.24,No,Platinum,SMS,3,7,High
+cust_416,Carla,Cooper,jared69@example.net,399.807.0755x0476,706 Sydney Trace Apt. 748,North Johnville,New Jersey,Canada,50288,2024-01-16,2024-03-22,16,9202.68,No,Platinum,Email,5,1,High
+cust_621,Michael,Bell,smithdenise@example.net,832-736-2216x9069,6706 Fleming Knolls Apt. 691,New Melissa,Mississippi,Brazil,91855,2024-01-16,2024-09-14,85,5542.3,No,Platinum,None,5,5,Medium
+cust_543,Olivia,Russell,rgonzalez@example.org,,029 Robert Via,South Kennethton,Hawaii,Canada,76790,2024-01-16,2024-06-10,88,4464.96,Yes,Platinum,SMS,3,6,High
+cust_246,Briana,Mcneil,andrewblake@example.org,836-539-1025x7432,97524 Schneider Trace,New Latoyachester,Tennessee,China,38309,2024-01-18,2024-03-20,15,2686.21,No,Platinum,Email,4,17,High
+cust_603,Matthew,Sparks,abarry@example.net,(219)753-6890,9500 Troy Dale Suite 900,Robinsonmouth,Colorado,Australia,25340,2024-01-20,2024-01-29,-25,7953.12,Yes,Platinum,None,4,2,High
+cust_826,Jeremy,Stark,psalazar@example.org,357.486.5294,70064 Schmidt Views Suite 487,Johnville,Pennsylvania,France,83305,2024-01-21,2024-08-24,9,7140.54,Yes,Platinum,None,1,12,Medium
+cust_446,Heather,Cabrera,juanatkinson@example.org,351.774.4600x45212,45512 Brandi Common,North Joshua,Wisconsin,Brazil,72617,2024-01-23,2024-09-24,94,1937.72,No,Gold,SMS,2,8,Low
+cust_509,Tammy,Choi,josephross@example.net,339.806.2467x28799,114 Jason Village,New Paulabury,Minnesota,Brazil,87163,2024-01-24,2024-07-02,94,8740.05,No,Platinum,SMS,2,3,High
+cust_252,Katherine,Green,nalexander@example.org,+1-921-941-6141x5093,04090 Jason Turnpike,South Carrieview,New York,Canada,62528,2024-01-25,2024-07-04,52,5160.98,No,Platinum,,4,15,High
+cust_754,Sandra,Santana,john69@example.net,744.236.9580,0509 Amanda Locks Suite 200,Gonzalezburgh,Wisconsin,Germany,79604,2024-01-27,2024-06-25,30,993.11,Yes,Gold,SMS,1,17,High
+cust_924,Joshua,Ayala,waynegriffin@example.net,,69303 Megan Loaf Suite 525,Walkertown,South Carolina,Germany,94315,2024-01-27,2024-10-17,40,8386.46,No,Platinum,,1,13,Low
+cust_802,David,Goodman,tylerchristine@example.com,353-849-6551x564,963 Robin Causeway Apt. 582,Port Danielborough,Arizona,Canada,11755,2024-01-27,2024-04-22,28,5228.12,Yes,Platinum,None,5,16,High
+cust_909,Peter,Brown,wchavez@example.net,(857)223-1631,781 Denise Walk,West Kayleemouth,Alaska,United Kingdom,25137,2024-01-28,2024-06-27,94,1092.4,No,Gold,None,2,12,High
+cust_368,Christopher,Hunter,hscott@example.com,3068661554,16704 Williams Vista Apt. 290,New Eric,Vermont,United Kingdom,62080,2024-01-31,2024-02-15,6,1545.5,No,Gold,Email,5,9,High
+cust_689,Emily,Arnold,ljoyce@example.com,001-241-976-7553x981,8159 Luke Rapids,New Biancastad,North Carolina,India,80261,2024-01-31,2024-07-12,47,6298.11,Yes,Platinum,Phone,5,13,High
+cust_970,Kathy,Berg,ifrederick@example.net,(718)752-5576x881,08196 Kirk Greens,Hughesmouth,Alabama,Germany,93379,2024-01-31,2024-06-12,9,7999.85,Yes,Platinum,None,1,6,High
+cust_997,Ricardo,Blake,kimriley@example.com,510-710-4279x749,210 Melissa Union Apt. 889,Carrville,Indiana,United States,20898,2024-01-31,2024-09-12,77,5409.97,Yes,Platinum,Phone,3,8,Medium
+cust_43,Heather,Weber,jenniferwilliams@example.com,+1-937-994-7383x47359,8862 Laurie Dam Suite 075,Lake Meghanville,Maine,Brazil,11494,2024-02-01,2024-04-11,79,8498.88,Yes,Platinum,None,4,20,High
+cust_151,Philip,Taylor,rmeyer@example.net,+1-536-439-2649x5782,48262 Lonnie Point,East Lonnieberg,Washington,United States,04365,2024-02-03,2024-09-17,19,8488.21,No,Platinum,Email,2,2,Medium
+cust_62,Robert,Haney,ywest@example.com,482-551-2868,47868 Morrow Gateway,Reedview,Illinois,Brazil,95531,2024-02-03,2024-02-11,83,7121.31,No,Platinum,Email,1,9,High
+cust_718,Gregory,Moore,herrerathomas@example.org,935.399.9400x41084,1135 Margaret Trail,Jamesmouth,Georgia,United States,22092,2024-02-04,2024-06-19,62,2740.3,No,Platinum,None,3,20,High
+cust_429,Jeremy,Collins,hallchristopher@example.org,001-524-387-6230,42817 Cummings Drives,East Kristin,Massachusetts,United States,23018,2024-02-04,2024-06-14,99,3976.16,Yes,Platinum,Email,3,19,High
+cust_268,Lauren,Klein,karen68@example.net,001-762-811-0225x8030,7447 Kathleen Gateway,Lake William,Kansas,United Kingdom,37350,2024-02-05,2024-09-13,16,136.52,Yes,Silver,Email,2,15,Medium
+cust_351,Christian,Tucker,christopher85@example.com,857-270-2992x9596,736 Nicholas Vista Apt. 163,North Ashley,Idaho,India,21356,2024-02-05,2024-10-14,31,797.52,No,Gold,None,1,15,Low
+cust_364,Sarah,Taylor,zsimmons@example.com,7809850960,511 Terri Tunnel Apt. 828,New Sandraborough,Wisconsin,Japan,10080,2024-02-05,2024-05-25,29,7426.7,No,Platinum,,5,9,High
+cust_663,Christine,Caldwell,carriewilson@example.com,2776004093,1840 Cassandra Turnpike Apt. 218,Lake Jasonfurt,Montana,Brazil,21514,2024-02-05,2024-08-12,91,6598.8,No,Platinum,,5,0,Medium
+cust_72,Tyler,Jensen,trodriguez@example.org,(559)965-7569x2459,65479 Mark Harbors Suite 519,New Wendy,Idaho,Australia,89854,2024-02-06,2024-02-12,55,1156.62,Yes,Gold,Phone,3,4,High
+cust_906,Rebecca,Nguyen,jsmith@example.net,313-543-4857,962 Patterson Mall,East Tristanport,Florida,India,15702,2024-02-06,2024-03-15,80,9172.23,Yes,Platinum,None,3,16,High
+cust_184,Stephanie,Montgomery,jennifermitchell@example.org,001-422-531-0592x745,552 West Estates,Davidtown,Montana,India,65960,2024-02-07,2024-10-04,64,1871.25,No,Gold,Email,1,9,Low
+cust_911,John,Robinson,meganlloyd@example.com,287-944-8883x92375,85825 Newton Knolls,Yolandaville,Indiana,India,81792,2024-02-08,2024-09-21,8,9365.23,No,Platinum,None,4,6,Low
+cust_57,Laura,Hill,berryamy@example.com,(624)604-1574x733,99330 Dana Center,South Markfort,Connecticut,Australia,89786,2024-02-09,2024-02-10,14,6974.96,No,Platinum,Email,5,1,High
+cust_637,Michael,Stewart,jason21@example.net,+1-414-730-8779x7247,21883 Fuller Spring Suite 819,Lake Sara,Alabama,Japan,40151,2024-02-10,2024-06-10,33,4969.55,Yes,Platinum,Phone,5,3,High
+cust_637,Michael,Stewart,jason21@example.net,+1-414-730-8779x7247,21883 Fuller Spring Suite 819,Lake Sara,Alabama,Japan,40151,2024-02-10,2024-06-10,33,4969.55,Yes,Platinum,Phone,5,3,High
+cust_312,Catherine,Pittman,manuelhale@example.com,(598)533-4774,8319 Crystal Skyway,East Arthurberg,Alabama,India,47629,2024-02-13,2024-07-02,72,3979.58,No,Platinum,,5,14,High
+cust_884,Michael,Riley,joynelson@example.com,7964064724,3787 Harrison Plaza Suite 070,Robertfort,New Jersey,Canada,60551,2024-02-14,2024-02-27,15,5782.65,No,Platinum,Phone,1,10,High
+cust_884,Michael,Riley,joynelson@example.com,7964064724,3787 Harrison Plaza Suite 070,Robertfort,New Jersey,Canada,60551,2024-02-14,2024-02-27,15,5782.65,No,Platinum,Phone,1,10,High
+cust_874,Zachary,Williamson,adrianmcneil@example.com,361-713-9979x927,33878 Khan Drive Suite 898,Huntville,Ohio,Australia,34344,2024-02-15,2024-10-10,73,4910.28,Yes,Platinum,SMS,1,9,Low
+cust_948,Traci,King,jerry82@example.net,920.647.6766x6082,871 Brian Mountains Suite 313,Petersborough,Connecticut,United States,49183,2024-02-16,2024-08-07,89,8681.47,No,Platinum,Email,1,1,Medium
+cust_627,Ryan,Gordon,alawson@example.net,,0892 Gonzalez Manor,West Caitlynmouth,Nevada,France,34235,2024-02-16,2024-05-02,56,2025.57,Yes,Platinum,Phone,3,8,High
+cust_627,Ryan,Gordon,alawson@example.net,,0892 Gonzalez Manor,West Caitlynmouth,Nevada,France,34235,2024-02-16,2024-05-02,56,2025.57,Yes,Platinum,Phone,3,8,High
+cust_472,David,Thomas,jpeterson@example.org,(895)382-6418x6965,87612 Lindsay Island,Tinaville,Kentucky,Germany,25672,2024-02-16,2024-05-23,85,8522.31,No,Platinum,Email,1,9,High
+cust_602,Nathaniel,Braun,laura24@example.org,832-861-1890x034,630 Smith Plains,Westburgh,Arkansas,France,20351,2024-02-18,2024-02-25,19,138.85,No,Silver,SMS,4,13,High
+cust_586,Kevin,Roberts,nathan39@example.com,521-338-3507x12455,900 Preston Shoals,North Sarah,California,United Kingdom,94496,2024-02-18,2024-04-15,80,9242.08,No,Platinum,Phone,2,4,High
+cust_768,Robert,Eaton,bgreen@example.com,(556)289-6987x0368,8379 Richard Forks,Port Melvinburgh,West Virginia,United Kingdom,19502,2024-02-19,2024-08-08,90,5690.47,No,Platinum,Email,2,5,Medium
+cust_781,Alexandra,Flynn,zgarcia@example.com,(866)950-5188x601,9234 Tara Land Suite 985,West Mariotown,Tennessee,Australia,44426,2024-02-21,2024-05-29,65,5878.81,Yes,Platinum,Phone,1,19,High
+cust_962,Paul,Thompson,mary51@example.org,001-826-958-3879x6334,646 Reese Gateway Apt. 273,Bakermouth,Rhode Island,France,19720,2024-02-22,2024-08-09,3,1783.38,No,Gold,Email,2,0,Medium
+cust_726,Nicholas,Lopez,nicholas47@example.org,555.494.0799x23045,67781 Rivera Highway,Grossbury,New Hampshire,Japan,02185,2024-02-22,2024-03-21,25,6601.79,Yes,Platinum,Email,5,4,High
+cust_529,Karen,Brown,andrewstheresa@example.net,(771)515-2610,92300 Jones Meadows Suite 007,Rebeccaland,North Carolina,India,75736,2024-02-25,2024-07-06,46,2265.15,No,Platinum,Email,5,15,High
+cust_686,Martin,Ramirez,mcdonaldmegan@example.org,8319977748,514 William Manors Suite 823,New Alejandraberg,Rhode Island,Brazil,42444,2024-02-27,2024-06-27,97,1118.2,Yes,Gold,Email,5,1,High
+cust_850,Cheryl,Calderon,kevin20@example.org,(348)524-8863,71450 Sherry Villages Apt. 802,Sheltonshire,Delaware,Germany,35047,2024-02-28,2024-07-17,14,9893.8,No,Platinum,,2,11,High
+cust_230,Brian,Cook,sherryparsons@example.net,217.991.1006x512,9611 Anita Hill,Moraleschester,Iowa,Australia,79088,2024-02-28,2024-07-22,76,9972.68,Yes,Platinum,Email,4,6,Medium
+cust_513,Lindsey,Clark,john21@example.net,001-245-259-0670,48942 Kelly Lane Suite 489,Reynoldschester,Arkansas,Australia,43345,2024-02-29,2024-04-29,70,3509.68,No,Platinum,SMS,2,9,High
+cust_234,Erica,Gray,morganjason@example.com,455.428.9611,86559 Rowland Gardens,Port Christinaborough,Ohio,Japan,39060,2024-03-01,2024-05-15,75,6879.77,Yes,Platinum,None,3,12,High
+cust_199,Edward,Jennings,megan65@example.org,+1-536-244-2493x6312,7786 Lucas Camp,East Joseph,Alaska,United States,34369,2024-03-01,2024-05-04,32,7408.01,No,Platinum,None,2,17,High
+cust_493,April,Anderson,burnettkaren@example.org,(656)908-3200,889 Bailey Fords Suite 852,Lake Amanda,Arkansas,Australia,98884,2024-03-02,2024-09-05,28,5892.73,No,Platinum,None,4,14,Medium
+cust_271,Kimberly,Rice,john43@example.net,(711)629-1093x3711,82023 Pierce Glen Suite 571,Joneschester,North Dakota,China,66544,2024-03-02,2024-04-09,87,7230.56,Yes,Platinum,Email,1,0,High
+cust_354,Daniel,Munoz,monica23@example.com,001-210-906-8761x6481,046 Michael Stravenue Suite 611,Port Jose,Pennsylvania,Brazil,99273,2024-03-03,2024-08-15,15,983.4,Yes,Gold,Email,3,11,Medium
+cust_638,Blake,Vasquez,mgallegos@example.org,229.498.6515,8464 Nicole Isle Suite 883,Port Malik,Nevada,Australia,93640,2024-03-05,2024-04-04,55,2187.9,Yes,Platinum,Phone,2,8,High
+cust_385,Carol,Berry,xmccarthy@example.org,427.309.0814x41529,92957 Bowers Crescent Apt. 535,East Susan,New York,China,25187,2024-03-06,2024-03-15,-11,8419.51,Yes,Platinum,Phone,3,20,High
+cust_410,Paul,Rodriguez,jameshudson@example.net,639-245-7039x4380,53765 Joyce Rapids,South Timothy,Rhode Island,Japan,37901,2024-03-07,2024-08-04,-75,3487.47,No,Platinum,Phone,5,6,Medium
+cust_895,Curtis,Johnson,shannonbradshaw@example.org,403.672.7186,5631 David Club Apt. 807,New Rebecca,Ohio,Brazil,99892,2024-03-10,2024-09-27,62,3138.76,No,Platinum,None,2,1,Low
+cust_201,Linda,Manning,grobinson@example.org,,673 Suarez Drive Suite 754,Lake Tammyton,West Virginia,Germany,87299,2024-03-11,2024-03-23,8,5571.61,Yes,Platinum,None,5,15,High
+cust_956,Tracy,Sullivan,michelle01@example.org,639-415-4804,4792 Jose Prairie,North Aaronhaven,Montana,Brazil,13247,2024-03-13,2024-06-05,46,2663.13,Yes,Platinum,SMS,4,6,High
+cust_905,Vickie,Smith,brandilutz@example.com,240.794.1218,7959 Jasmine Haven,Franklinview,Colorado,Brazil,18365,2024-03-13,2024-08-03,34,9861.57,No,Platinum,None,2,3,Medium
+cust_531,Kim,Beck,lwalker@example.org,243.857.4835x268,606 Lee Plaza Apt. 448,New Kevin,Idaho,Japan,42171,2024-03-13,2024-06-04,97,7790.91,No,Platinum,Email,5,19,High
+cust_38,Derrick,Scott,david76@example.org,(268)838-8516,1596 Mckinney Mall,Dariustown,Massachusetts,Japan,23028,2024-03-14,2024-07-26,88,7197.11,Yes,Platinum,SMS,4,2,Medium
+cust_30,Dana,Oliver,courtneyberger@example.net,7478095214,28588 Rivas Glens,Coffeyport,West Virginia,United Kingdom,44897,2024-03-17,2024-06-25,95,4423.94,No,Platinum,Email,1,2,High
+cust_960,Paul,Montgomery,teresa15@example.com,+1-934-474-5024x0537,489 Edwards Forks,Marvintown,Kansas,United Kingdom,58294,2024-03-17,2024-05-31,27,3482.85,No,Platinum,SMS,1,3,High
+cust_965,Tammy,Choi,gravestammy@example.org,768.370.5807x9106,4070 Rose Trace,Scottview,North Carolina,Japan,26227,2024-03-18,2024-05-05,100,6642.73,No,Platinum,,3,16,High
+cust_240,Miguel,Smith,michele66@example.org,528-667-1632,729 Matthews Parkway Suite 430,South Caleb,Montana,Brazil,79779,2024-03-21,2024-07-09,68,9659.5,No,Platinum,None,5,12,High
+cust_491,George,Garcia,qlloyd@example.net,743-588-2325,8446 Tracy Rue,Mclaughlinfort,Iowa,United Kingdom,21677,2024-03-21,2024-05-21,23,7693.88,Yes,Platinum,None,3,9,High
+cust_920,Calvin,Warren,rmoyer@example.net,+1-841-607-9116x114,1198 Bruce Ports Suite 542,Morganfort,Indiana,France,96402,2024-03-27,2024-08-11,15,9264.23,No,Platinum,None,3,5,Medium
+cust_24,Bill,Reynolds,cassandra01@example.org,+1-899-904-9027x87429,5655 Mia Isle,Steeleport,Texas,Australia,52989,2024-03-27,2024-07-17,52,1207.67,Yes,Gold,Email,5,2,High
+cust_705,Jay,Lopez,zevans@example.com,+1-476-202-4986x634,67734 Thompson Mountains Apt. 561,Haleyfurt,Montana,Germany,49119,2024-03-28,2024-07-20,28,1838.94,No,Gold,Email,1,17,High
+cust_466,Justin,Werner,hornerebecca@example.org,+1-336-659-5201x491,433 Moreno Junctions,New Donaldchester,Illinois,China,22861,2024-03-29,2024-04-30,95,5247.24,Yes,Platinum,Email,3,13,High
+cust_690,Gary,Serrano,williampierce@example.com,(438)302-0761x23961,518 Eric Port,Booneville,North Carolina,Brazil,18040,2024-03-29,2024-04-03,67,7948.13,No,Platinum,Email,4,4,High
+cust_958,Brian,Hicks,cbradley@example.org,959-271-5579x327,54917 Harris Valley,Lake Mary,Nebraska,Japan,01104,2024-03-31,2024-07-26,56,1100.75,Yes,Gold,Phone,1,7,Medium
+cust_302,James,Walsh,jessica12@example.net,001-497-243-2512x257,5024 George Trace Apt. 957,South Morganfort,Delaware,United Kingdom,06422,2024-04-02,2024-07-23,94,759.27,Yes,Gold,SMS,5,19,Medium
+cust_838,Angela,Walker,zgonzalez@example.net,533-207-3453,64122 Chang Glen,Lake Ashleystad,Illinois,France,94162,2024-04-02,2024-05-03,95,6781.34,No,Platinum,None,5,4,High
+cust_519,Jerome,Ball,josephenglish@example.com,940.601.8167,5244 Rangel Lake,Joseton,Ohio,United Kingdom,28060,2024-04-03,2024-09-24,66,1038.29,Yes,Gold,SMS,5,20,Low
+cust_141,Colleen,Brown,jacquelinemoody@example.org,935.985.7306x5240,739 Amy Islands Suite 498,North Amanda,New Hampshire,Canada,39255,2024-04-03,2024-07-19,100,2888.13,No,Platinum,Email,1,7,High
+cust_804,Nicole,Ross,wgarcia@example.com,,272 Crystal Summit Apt. 649,North Carolberg,Virginia,France,70062,2024-04-04,2024-06-11,43,8064.64,Yes,Platinum,None,4,4,High
+cust_656,Bonnie,Bradley,qfaulkner@example.org,(804)429-8622,6617 Thompson Key,Bishopshire,Rhode Island,Japan,86655,2024-04-04,2024-07-28,56,1426.54,Yes,Gold,SMS,1,4,Medium
+cust_967,Andrea,Hopkins,wendy93@example.org,820.275.6052,523 Rachel Rest,Jamesbury,Alaska,Germany,79196,2024-04-06,2024-05-08,81,6791.23,No,Platinum,Phone,3,11,High
+cust_160,Michelle,Walton,jennifer46@example.org,335.974.3842x1503,8235 Oconnor Pine,Kimberlyberg,Wyoming,Australia,13379,2024-04-06,2024-10-05,45,9475.36,No,Platinum,Email,3,6,Low
+cust_934,William,Montgomery,fosterjulie@example.org,(430)689-9646,3548 Larson Fall,East Loristad,Missouri,United States,04720,2024-04-06,2024-07-13,67,5122.33,Yes,Platinum,,3,3,High
+cust_105,Jason,Ayala,tracygallagher@example.org,(296)566-6760,58300 Jeremy Wells Suite 421,Gordonport,Hawaii,United Kingdom,09058,2024-04-07,2024-06-03,34,533.47,No,Gold,Email,1,15,High
+cust_977,Nicole,Gilmore,jocelynstephens@example.com,212.642.6647x42644,832 Greene Mews Suite 379,Aprilside,New Mexico,United Kingdom,58648,2024-04-08,2024-06-05,79,9069.42,Yes,Platinum,SMS,2,19,High
+cust_604,Shannon,Martin,harrislisa@example.net,2876167221,461 Rodriguez Expressway Apt. 707,Kirkchester,Arkansas,France,19467,2024-04-09,2024-09-01,18,8172.22,No,Platinum,Phone,3,0,Medium
+cust_422,Lindsay,Stark,mary95@example.com,987.769.8999x2751,4449 Lawrence Islands,New James,Maryland,United Kingdom,25646,2024-04-10,2024-07-17,54,5000.98,No,Platinum,None,3,8,High
+cust_188,Trevor,Arellano,bianca96@example.com,+1-971-458-9042x9025,04565 Keith Pines Apt. 832,New Karenside,Massachusetts,Germany,41947,2024-04-11,2024-08-19,43,3026.44,Yes,Platinum,SMS,3,7,Medium
+cust_941,Christopher,Thomas,kirbylaura@example.org,916.341.8044x60819,83469 Baker Port Suite 060,Mariahaven,Arizona,Germany,54760,2024-04-12,2024-08-20,78,2129.63,Yes,Platinum,Email,5,8,Medium
+cust_743,Robert,Johnson,taylormichael@example.net,001-534-775-9783x354,92149 Kennedy Course Suite 638,Mercerfurt,Maine,China,89469,2024-04-16,2024-09-13,98,3605.49,Yes,Platinum,Phone,2,9,Medium
+cust_855,Kimberly,Fields,william81@example.com,3369100770,75949 Lisa Via Apt. 781,North Scottshire,Virginia,Japan,55960,2024-04-17,2024-10-16,24,2502.17,Yes,Platinum,SMS,2,13,Low
+cust_200,Andrea,Newman,stuarttodd@example.org,8154941651,98189 Crawford Course,New David,Massachusetts,Germany,43661,2024-04-17,2024-08-30,30,8159.7,No,Platinum,SMS,2,9,Medium
+cust_124,Zachary,Bennett,zacharygomez@example.com,479.408.2723x1843,9136 Cortez Orchard,Mendozashire,Hawaii,Brazil,85338,2024-04-18,2024-04-22,60,7546.91,No,Platinum,SMS,3,4,High
+cust_107,Heather,Mccoy,robert18@example.com,+1-592-561-8914x117,356 Martin Plaza Suite 375,North Alexander,Colorado,Brazil,14975,2024-04-20,2024-08-19,10,8993.67,No,Platinum,Phone,1,4,Medium
+cust_868,Jason,Smith,ptaylor@example.com,5289303424,91692 Michelle Creek Suite 631,Larsenchester,South Carolina,Germany,51030,2024-04-21,2024-07-14,91,2692.46,Yes,Platinum,Phone,2,1,High
+cust_142,Shawn,Parsons,bgross@example.net,,511 Bradley Curve Apt. 031,Leeton,Oregon,Brazil,84616,2024-04-21,2024-08-17,77,5365.18,Yes,Platinum,Phone,3,13,Medium
+cust_661,Heather,Whitaker,garzazachary@example.org,970.634.2444,7607 Cline Trail,West Valerie,Alabama,Australia,91180,2024-04-22,2024-07-05,75,9980.07,Yes,Platinum,Phone,4,2,High
+cust_661,Heather,Whitaker,garzazachary@example.org,970.634.2444,7607 Cline Trail,West Valerie,Alabama,Australia,91180,2024-04-22,2024-07-05,75,9980.07,Yes,Platinum,Phone,4,2,High
+cust_470,Jonathan,Aguirre,tavila@example.net,+1-669-496-4899x718,693 Mark Cove Suite 084,East Pamela,Connecticut,Australia,24743,2024-04-24,2024-09-13,27,5468.78,No,Platinum,None,5,4,Medium
+cust_732,Michelle,Jones,turnermisty@example.net,(902)923-4778x045,1840 Johnson Forks,North Kelly,Oklahoma,Japan,89713,2024-04-26,2024-10-08,31,9436.04,No,Platinum,Email,4,18,Low
+cust_258,Jacqueline,Kelley,andersonkaren@example.net,4475292774,305 Erika Walks,South Stephanie,Nevada,Canada,89557,2024-04-27,2024-10-05,55,6943.37,No,Platinum,Email,2,12,Low
+cust_455,Andrew,Hill,lynnyoung@example.org,001-223-333-2470x7392,4621 Thomas Avenue,West Austin,Idaho,Japan,90211,2024-04-28,2024-07-09,54,7463.62,No,Platinum,None,4,3,High
+cust_675,Donald,Taylor,andrewdavis@example.net,6164933284,7199 Pamela Branch,Riveramouth,Colorado,Australia,43526,2024-04-28,2024-08-25,4,2100.2,Yes,Platinum,Phone,4,20,Medium
+cust_927,James,Eaton,feliciachen@example.net,538.945.6125x78047,851 Herring Ports,Fernandezfurt,Maine,Japan,48935,2024-04-30,2024-06-29,16,6318.1,No,Platinum,SMS,5,5,High
+cust_739,Matthew,Moore,wwhite@example.com,(698)834-5150x25285,08730 Martinez Stravenue,Lake Stephenbury,Oklahoma,Australia,94220,2024-04-30,2024-10-09,26,6409.14,Yes,Platinum,Email,3,6,Low
+cust_914,Michele,Rich,daviscathy@example.com,001-805-655-4654x2683,7140 Kelly Union,Crystalmouth,Louisiana,Australia,44798,2024-05-03,2024-07-01,45,9420.0,No,Platinum,None,5,5,High
+cust_157,Emily,Carr,tammycurry@example.com,3146556168,14586 Heather Ridge Apt. 198,South Jenniferport,Nevada,Japan,80303,2024-05-04,2024-06-16,17,6123.36,Yes,Platinum,Email,3,12,High
+cust_457,Rachel,Hall,castroralph@example.net,001-220-382-8323,815 Jordan Isle,Port Gregory,Nevada,India,64792,2024-05-06,2024-06-08,93,3241.27,Yes,Platinum,Phone,4,17,High
+cust_865,James,Rivas,ufarrell@example.com,992-547-4111,0386 Susan Lock Suite 611,West Stacy,Maine,United Kingdom,96220,2024-05-06,2024-06-08,77,2748.74,Yes,Platinum,SMS,1,18,High
+cust_664,Bill,Palmer,rcohen@example.net,001-307-888-0265x295,693 Jennifer Junctions Suite 230,New Tricia,Maryland,China,35057,2024-05-06,2024-07-28,17,2121.55,Yes,Platinum,SMS,3,1,Medium
+cust_101,Mary,Green,mitchellpaul@example.org,001-233-933-4680,290 Johnny Valley,Jenniferview,Nevada,Australia,49846,2024-05-08,2024-07-21,57,4452.51,Yes,Platinum,SMS,1,11,Medium
+cust_9,Albert,Howell,jonesjason@example.com,(651)235-4278,124 Pamela Summit Apt. 449,Lake Matthew,Utah,India,83631,2024-05-09,2024-07-29,75,4000.01,Yes,Platinum,,5,15,Medium
+cust_284,Michael,Davis,jennifermurray@example.com,472-919-7054x669,955 Evelyn Parkways Suite 409,Lake Krystalside,Alabama,France,20759,2024-05-09,2024-06-25,88,6306.67,Yes,Platinum,SMS,1,0,High
+cust_440,Julie,Zimmerman,susan92@example.org,(546)917-5202,26005 Mcbride Landing Suite 017,East Dylan,Utah,Australia,86833,2024-05-15,2024-09-08,33,8174.33,Yes,Platinum,Email,2,12,Medium
+cust_5,Kyle,Brown,millertodd@example.org,001-682-827-8248x96383,8713 Caleb Brooks Apt. 930,Lake Crystalbury,California,Australia,04618,2024-05-17,2024-05-27,91,704.86,Yes,Gold,SMS,1,7,High
+cust_783,John,Lucas,katherinerussell@example.net,2633585301,8969 Miller Valley,North Katherine,Tennessee,China,66523,2024-05-17,2024-06-08,57,7395.16,No,Platinum,Phone,3,10,High
+cust_815,Logan,Mitchell,rodriguezconnor@example.net,+1-751-436-7380,88193 Monroe Stravenue,Palmerville,Ohio,Germany,37130,2024-05-19,2024-10-08,29,5003.33,No,Platinum,Phone,5,9,Low
+cust_208,William,Nelson,brandybonilla@example.net,001-392-761-3715x04165,17774 Mark Cape,Nguyenshire,Florida,France,28205,2024-05-21,2024-09-18,27,3713.34,No,Platinum,,5,7,Medium
+cust_563,James,Mccoy,ewood@example.net,(820)630-0449,29390 Donald Street Suite 121,Lake Michelle,Michigan,Canada,52075,2024-05-22,2024-08-08,80,3625.39,Yes,Platinum,None,2,8,Medium
+cust_836,Joshua,Owen,ericryan@example.org,001-859-466-7715x39022,3650 Jennifer Divide Apt. 900,Turnermouth,Nebraska,Germany,09355,2024-05-22,2024-08-26,2,988.49,Yes,Gold,None,1,3,Medium
+cust_307,Katie,Davis,christinaturner@example.org,001-885-429-8940,078 Combs Corner Apt. 415,Port Kellyfort,Vermont,United Kingdom,43926,2024-05-22,2024-06-09,58,455.72,No,Silver,None,3,7,High
+cust_833,Michael,Miller,heatherthompson@example.net,001-677-536-7724,54978 Martin Way Suite 571,Rebeccaport,Iowa,India,68465,2024-05-24,2024-08-27,89,1441.01,Yes,Gold,Email,3,20,Medium
+cust_894,Hunter,Chavez,travisbonnie@example.com,(538)890-1248x4479,1156 Taylor Curve Apt. 070,Rogersview,North Dakota,United Kingdom,04466,2024-05-24,2024-10-13,96,2126.52,Yes,Platinum,Phone,4,5,Low
+cust_523,Kyle,Cline,marilyn10@example.org,807.962.0545,0066 Henderson Course,North Rebeccafurt,Mississippi,United States,39703,2024-05-25,2024-09-05,12,2183.94,Yes,Platinum,Email,2,4,Medium
+cust_211,Michael,Richards,wilsondorothy@example.org,(960)616-4597,32194 Ryan Brook Apt. 610,Lake Thomas,Vermont,Japan,53597,2024-05-27,2024-10-13,83,9572.8,Yes,Platinum,Email,1,0,Low
+cust_371,Christina,Wright,jack45@example.net,298.889.4256x529,20203 Randy Branch,Webbstad,Illinois,United States,82907,2024-05-28,2024-10-13,15,6692.7,No,Platinum,,5,19,Low
+cust_273,Jeffrey,Ferguson,benjamin24@example.org,603-438-1059x551,450 Madison Forges Suite 240,Lake Juliefurt,Tennessee,France,34231,2024-05-28,2024-08-26,16,5025.39,Yes,Platinum,Phone,2,16,Medium
+cust_384,Matthew,Walton,andrew90@example.net,8516208005,951 Jacob River,Whiteborough,Minnesota,India,13210,2024-05-30,2024-10-05,36,8402.7,Yes,Platinum,SMS,4,14,Low
+cust_938,Dylan,Jefferson,karengould@example.net,001-450-371-9612x933,9522 Anna Wall,Blaketon,Indiana,Canada,63153,2024-05-31,2024-06-10,58,1680.82,Yes,Gold,SMS,5,13,High
+cust_775,James,Patterson,mendozaderek@example.com,,36540 Patricia Courts,Kellyburgh,Maine,Australia,72950,2024-05-31,2024-07-07,48,9088.48,Yes,Platinum,,1,13,High
+cust_990,Hector,Smith,ronald27@example.org,001-826-202-6118,93609 Brittany Vista,Port Angelamouth,Arkansas,United States,06922,2024-05-31,2024-10-17,4,8521.79,Yes,Platinum,Phone,1,3,Low
+cust_478,Karen,Moyer,vasquezjacqueline@example.net,001-266-717-7067x3682,8212 Jeffrey Keys,Emilyland,Montana,United Kingdom,89465,2024-06-01,2024-07-21,84,9330.97,Yes,Platinum,SMS,1,17,Medium
+cust_119,Jennifer,Brown,haynescharles@example.net,244-991-4766,326 Choi Divide,Ericastad,Alabama,Australia,73052,2024-06-02,2024-06-21,65,5591.65,No,Platinum,Email,4,1,High
+cust_943,Sharon,Coffey,otaylor@example.com,874-468-5902,1166 Kayla Plains Suite 603,Candiceberg,Louisiana,India,52932,2024-06-04,2024-08-23,-16,1249.69,Yes,Gold,,5,12,Medium
+cust_366,Jennifer,Ray,kendraharris@example.org,708-790-2851,334 Roger Groves,East Kelsey,Alaska,China,18498,2024-06-05,2024-10-10,70,7387.12,Yes,Platinum,Phone,3,14,Low
+cust_4,Daniel,Burton,ycarlson@example.com,+1-878-448-0184x514,48281 Skinner Parkways Apt. 252,New Mariotown,Delaware,Germany,48077,2024-06-07,2024-09-25,6,7300.02,Yes,Platinum,None,1,17,Low
+cust_98,Jason,Lee,hendersonvanessa@example.com,829.745.1168,709 Rodriguez Drive Apt. 999,North Annaville,Maine,Brazil,70707,2024-06-08,2024-10-01,4,6199.27,No,Platinum,Phone,1,20,Low
+cust_217,Chad,Morgan,kholden@example.com,8606290846,0489 Isabella Mission Apt. 899,Terryfurt,Wyoming,France,26360,2024-06-09,2024-06-20,73,9773.52,Yes,Platinum,Email,2,6,High
+cust_765,Kaitlyn,Watkins,deborah67@example.org,9002521410,63485 Laura Skyway Suite 123,Smithstad,Colorado,Brazil,14935,2024-06-10,2024-08-24,36,2025.01,Yes,Platinum,None,1,12,Medium
+cust_94,Tammy,Johnson,samantha93@example.net,001-417-325-1355,0433 Michael Turnpike Apt. 006,Oconnorburgh,Nebraska,United Kingdom,65130,2024-06-10,2024-07-25,81,980.67,Yes,Gold,SMS,4,1,Medium
+cust_325,Dennis,White,hernandezalan@example.net,(976)757-2894x134,889 Mitchell Lights,Katherineberg,Arizona,France,96789,2024-06-11,2024-09-13,36,6409.54,No,Platinum,SMS,3,6,Medium
+cust_919,Melissa,Thompson,lawrencebell@example.org,+1-933-372-8756,26564 Sampson Mountains,Port Christopherhaven,Oklahoma,Germany,17526,2024-06-12,2024-09-13,65,8192.32,Yes,Platinum,None,4,13,Medium
+cust_979,April,Benjamin,stanleyamanda@example.org,001-423-224-6872,3378 Brown Loaf,East Xavierfort,Maryland,Canada,93148,2024-06-12,2024-08-17,43,5947.45,No,Platinum,None,3,1,Medium
+cust_282,Ashley,Williams,uwilliams@example.org,,96790 Martin Springs,Millerland,Virginia,Australia,30853,2024-06-13,2024-09-23,46,3968.48,Yes,Platinum,SMS,3,5,Low
+cust_90,Lisa,Davis,david70@example.org,001-566-470-6625,7209 Deborah Parks Suite 870,West Patrickchester,Illinois,China,84734,2024-06-13,2024-08-18,19,2329.56,No,Platinum,None,3,0,Medium
+cust_467,Jason,Guzman,charleshayes@example.com,,6608 Darren Crossroad Suite 003,New Nicolestad,Missouri,India,52645,2024-06-13,2024-06-24,47,3489.6,No,Platinum,SMS,5,20,High
+cust_231,Shawn,Marshall,nhobbs@example.org,407-685-9311x09193,7972 Devin Cape Apt. 249,Palmerstad,Maryland,India,77003,2024-06-14,2024-09-19,87,4998.04,No,Platinum,Phone,3,4,Low
+cust_173,Adam,Zimmerman,zmendoza@example.net,001-218-330-6719x85546,517 Holland Fall Apt. 634,Mosleystad,New York,France,11624,2024-06-14,2024-08-08,43,6741.33,No,Platinum,SMS,1,19,Medium
+cust_393,Jared,Sullivan,cmurray@example.com,(575)755-6283x3339,654 Philip Mountains Apt. 874,Williamsborough,Michigan,Japan,72812,2024-06-19,2024-09-06,83,2815.29,Yes,Platinum,Phone,2,11,Medium
+cust_452,Richard,Brown,allenjustin@example.org,001-789-298-2780x20586,21464 Willis Road Suite 999,Codyfort,South Carolina,China,26226,2024-06-19,2024-07-28,33,500.37,Yes,Gold,Email,1,6,Medium
+cust_501,Tanya,Hess,michael84@example.com,736-921-3009x6258,694 Johnson Crest Apt. 533,Mooremouth,Kentucky,Canada,57841,2024-06-19,2024-08-10,95,8482.22,No,Platinum,None,1,10,Medium
+cust_733,Stacey,Schroeder,seansimon@example.org,001-509-845-1676x706,286 Adam Cliff,Port Margaret,Alaska,Canada,06924,2024-06-20,2024-09-14,17,629.4,No,Gold,Email,3,19,Medium
+cust_871,Greg,Morgan,caitlinwilliams@example.org,915-925-5862,0317 Schmidt Brook,North Jonathan,Minnesota,France,70447,2024-06-20,2024-08-19,29,7307.46,No,Platinum,Phone,3,0,Medium
+cust_902,Andrea,Brown,johnsonemily@example.org,(933)474-3567x027,56596 Ford Prairie Suite 575,Cherylstad,Mississippi,Brazil,03832,2024-06-20,2024-07-28,17,3396.82,No,Platinum,None,1,12,Medium
+cust_908,Lisa,Clark,ohaley@example.com,+1-367-904-1710x3891,50133 Andrew Gateway Suite 495,Johnsonfort,California,India,34068,2024-06-24,2024-08-18,10,2238.28,No,Platinum,Email,3,14,Medium
+cust_505,Eric,Ortega,mccoydonna@example.com,981-435-9989,70889 Reilly Pass,Port Loriland,Ohio,France,52798,2024-06-24,2024-07-29,72,5363.5,Yes,Platinum,SMS,3,2,Medium
+cust_87,Kristen,Stevenson,stevenvargas@example.com,001-838-632-0603x85050,83670 Jennifer Course,East Phyllishaven,Nebraska,India,92362,2024-06-25,2024-08-16,41,6271.72,No,Platinum,Email,5,2,Medium
+cust_321,Victoria,Hester,gregorymeredith@example.com,+1-309-335-1187,59561 Liu Divide,West Catherinestad,Michigan,Canada,53996,2024-06-27,2024-08-08,37,284.23,Yes,Silver,Phone,5,6,Medium
+cust_356,David,Lawson,oscott@example.org,,2985 Gray Oval,Port Alicia,Idaho,Australia,63939,2024-06-27,2024-06-28,59,8247.3,Yes,Platinum,SMS,1,13,High
+cust_527,Joseph,Martin,lcook@example.org,,209 David Ways Suite 709,Lake Brandonfurt,Iowa,India,92792,2024-06-28,2024-08-12,47,8401.23,Yes,Platinum,SMS,2,4,Medium
+cust_939,Sarah,Crawford,paul74@example.net,5662112620,516 Henry Course Apt. 118,Williamsland,Ohio,France,11231,2024-06-29,2024-09-11,51,309.1,Yes,Silver,SMS,4,5,Medium
+cust_939,Sarah,Crawford,paul74@example.net,5662112620,516 Henry Course Apt. 118,Williamsland,Ohio,France,11231,2024-06-29,2024-09-11,51,309.1,Yes,Silver,SMS,4,5,Medium
+cust_10,John,Odonnell,davisrodney@example.com,2053242786,280 Aguilar Drive,Andersonport,Mississippi,India,05730,2024-06-29,2024-07-22,-77,644.64,No,Gold,None,5,8,Medium
+cust_562,Jeremy,Ibarra,hbaker@example.net,,10972 Hayley Crescent,Gillfort,Massachusetts,United Kingdom,40000,2024-06-29,2024-08-25,92,5003.88,Yes,Platinum,SMS,3,13,Medium
+cust_297,Maria,Perry,joshua56@example.org,+1-357-790-6477,30021 Callahan Stream,Perezland,Illinois,India,95411,2024-07-02,2024-08-10,99,9652.19,Yes,Platinum,Phone,5,10,Medium
+cust_254,Catherine,Ross,baileysheila@example.com,,1783 Jason Terrace,North Ryantown,Hawaii,Germany,43296,2024-07-03,2024-09-22,44,-5477.63,Yes,Platinum,None,3,1,Low
+cust_584,Katrina,Lee,qirwin@example.com,(379)508-7018x72600,1034 Turner Glen Apt. 990,Webbmouth,Nevada,France,73721,2024-07-03,2024-08-14,53,5791.26,No,Platinum,None,5,16,Medium
+cust_708,Kenneth,Ruiz,christinagoodwin@example.net,+1-216-515-3811x68371,3726 Thomas Expressway,North Joshuachester,New Mexico,Brazil,73100,2024-07-04,2024-07-06,95,2780.98,Yes,Platinum,Phone,1,18,High
+cust_547,James,Ochoa,chrismccarthy@example.com,+1-987-860-5457x69475,535 Samuel Port Suite 466,Riversland,Nevada,United Kingdom,27845,2024-07-06,2024-07-19,57,703.29,Yes,Gold,None,2,20,High
+cust_551,Lisa,Randolph,johnsonsharon@example.com,+1-980-500-2722x1425,0943 Kayla Forge,Riceland,New York,France,22059,2024-07-09,2024-07-29,43,6821.54,No,Platinum,Email,1,11,Medium
+cust_713,Christopher,Cobb,wyattnicole@example.com,932-219-4024,814 David Ville,Rosalesport,Massachusetts,United States,18420,2024-07-09,2024-10-11,39,3905.5,No,Platinum,Phone,4,10,Low
+cust_755,Heidi,Griffin,lmeadows@example.com,350-738-0162x585,204 Johnson Ferry,West Jasonbury,California,Germany,18755,2024-07-10,2024-09-07,25,7059.37,Yes,Platinum,SMS,1,9,Medium
+cust_278,Robert,Leon,devon36@example.com,+1-378-887-8836,135 James Vista,West Angelaberg,Delaware,Canada,08309,2024-07-12,2024-08-16,65,1343.8,No,Gold,Email,5,18,Medium
+cust_233,Jason,Castillo,lindsay63@example.com,(405)601-5081,95003 Justin Forges Suite 258,East James,Idaho,France,34814,2024-07-12,2024-07-14,22,6473.53,Yes,Platinum,None,3,13,High
+cust_50,Laura,Hicks,gallowaylaura@example.org,805.989.5782x9114,9125 Shannon Springs Suite 289,Port Tammy,Nevada,Japan,66412,2024-07-12,2024-07-17,96,7348.99,Yes,Platinum,,2,8,High
+cust_749,Dawn,Miller,umayo@example.org,(589)789-0749,55977 Hernandez Islands,Jamestown,Oklahoma,India,25137,2024-07-13,2024-08-17,97,8825.4,No,Platinum,None,5,14,Medium
+cust_306,Rebecca,Orozco,carla29@example.com,+1-959-423-4268x34414,1287 Gordon Spur Suite 756,Fisherchester,New Jersey,Canada,04128,2024-07-14,2024-07-16,40,7850.92,No,Platinum,None,3,2,High
+cust_66,Terrance,Franco,nathangutierrez@example.net,420.548.9964,69378 Scott View Suite 772,Garyside,New York,Germany,24624,2024-07-18,2024-09-05,90,9441.46,No,Platinum,Email,1,18,Medium
+cust_758,Julie,Juarez,nicole26@example.org,548.318.7620x99069,03995 Ryan Park Apt. 450,Jennifershire,Ohio,Brazil,19223,2024-07-19,2024-07-30,58,8530.91,Yes,Platinum,SMS,2,18,Medium
+cust_92,Glenn,Young,linda59@example.org,001-259-392-9378x427,93087 Martin Ridges,Port David,Virginia,Australia,23761,2024-07-20,2024-10-03,49,5723.51,No,Platinum,SMS,1,12,Low
+cust_545,Justin,Hines,kevin07@example.com,(434)993-3965x0496,26261 Kenneth Drive,Javierchester,Texas,United Kingdom,18516,2024-07-21,2024-09-24,15,6959.58,No,Platinum,SMS,4,2,Low
+cust_729,Sheila,Sanchez,kendra39@example.net,001-823-813-2465,78417 Laurie Parks,Petersonland,Michigan,Australia,28066,2024-07-21,2024-08-02,7,2786.55,No,Platinum,None,3,0,Medium
+cust_618,David,Morales,cheryl86@example.org,472.218.6003,97899 Christopher Valley,Antoniotown,Indiana,France,39536,2024-07-21,2024-09-01,20,3034.5,Yes,Platinum,Email,5,15,Medium
+cust_712,Robert,Butler,powellamy@example.org,001-619-690-3421x3485,35316 Heather Port,South Maryshire,Connecticut,Germany,27424,2024-07-23,2024-08-25,19,1834.86,Yes,Gold,Phone,3,13,Medium
+cust_632,Michael,Williams,bbrown@example.net,(776)252-7284x53974,088 Turner Alley Suite 756,East Bradleytown,Texas,India,94200,2024-07-24,2024-09-10,53,3193.35,Yes,Platinum,Phone,4,8,Medium
+cust_365,Joshua,Hayes,debrajones@example.net,001-257-886-0694,35624 Breanna Trafficway,Amandaborough,Wyoming,France,75793,2024-07-28,2024-10-09,71,547.48,No,Gold,Phone,5,14,Low
+cust_706,Carl,Freeman,xhorne@example.org,+1-880-796-6414x7533,7466 Estrada Junction,New Beverly,Vermont,China,92213,2024-07-28,2024-08-07,58,9003.87,No,Platinum,None,5,4,Medium
+cust_206,Tammy,George,smithwilliam@example.com,965-428-0924x2875,8624 Lawrence Crossroad,Savageview,West Virginia,Canada,47764,2024-07-29,2024-08-20,96,9995.72,No,Platinum,Phone,5,6,Medium
+cust_572,Jacqueline,White,nwalters@example.org,,1658 Donald Rapids,North Destiny,Oregon,China,95544,2024-07-30,2024-08-11,1,4183.54,Yes,Platinum,Email,4,16,Medium
+cust_49,Joshua,Horne,fitzgeraldvictor@example.com,+1-514-347-3947,72715 Mckinney Plaza,Patriciaburgh,Virginia,China,93504,2024-07-30,2024-09-19,90,205.12,No,Silver,None,1,11,Low
+cust_243,Samuel,Ruiz,mckenzie20@example.net,624-418-6210,2308 Scott Causeway Apt. 647,New Adamfurt,Wyoming,Japan,26943,2024-07-31,2024-08-29,22,4901.52,Yes,Platinum,Phone,3,14,Medium
+cust_8,Breanna,Shaw,brianromero@example.org,291-336-1939,998 Donovan Ford Suite 346,Lake Debbie,New Jersey,France,41942,2024-08-01,2024-10-12,28,6557.83,No,Platinum,None,2,8,Low
+cust_719,David,Petersen,oroberts@example.net,+1-257-680-9783x02801,453 Jones Isle,Port Kathleen,Wisconsin,Japan,13032,2024-08-02,2024-08-22,73,708.65,Yes,Gold,None,1,4,Medium
+cust_140,Sharon,Meyer,timothy43@example.com,3318365024,09792 Townsend Gateway,South Christopher,South Carolina,Brazil,44858,2024-08-03,2024-10-17,58,6157.33,Yes,Platinum,Email,3,6,Low
+cust_128,Timothy,Wood,tking@example.net,(262)413-7213x865,012 Frost Mews Apt. 143,Christopherton,Washington,Japan,50875,2024-08-03,2024-09-02,83,1733.86,Yes,Gold,None,4,16,Medium
+cust_76,Emily,Burns,candice96@example.net,355-479-2499,34125 William Manor Apt. 966,South Cynthia,Vermont,Brazil,85076,2024-08-03,2024-08-16,12,4705.4,No,Platinum,SMS,3,3,Medium
+cust_514,Alexis,Gibbs,leroy57@example.com,580-797-4533x89062,6226 Haynes Center Apt. 659,Jeremyton,Alabama,Japan,91568,2024-08-04,2024-09-04,57,516.75,Yes,Gold,None,1,3,Medium
+cust_514,Alexis,Gibbs,leroy57@example.com,580-797-4533x89062,6226 Haynes Center Apt. 659,Jeremyton,Alabama,Japan,91568,2024-08-04,2024-09-04,57,516.75,Yes,Gold,None,1,3,Medium
+cust_672,Ashley,Brooks,jonathanjones@example.org,001-754-579-4064,579 Luis Mount,New Sarahland,Wisconsin,Brazil,84778,2024-08-04,2024-09-20,97,6705.9,No,Platinum,SMS,2,6,Low
+cust_949,Randy,Davis,castillokenneth@example.org,843-601-0614x452,744 Jason Ranch Suite 115,East Lori,Louisiana,India,76605,2024-08-05,2024-08-17,35,6989.66,Yes,Platinum,None,1,4,Medium
+cust_186,Cassie,Harding,raymond65@example.com,(904)655-4781x376,662 Douglas Hollow,Mcneilhaven,Michigan,United Kingdom,09166,2024-08-05,2024-09-17,2,7368.81,No,Platinum,Phone,2,19,Medium
+cust_91,Crystal,Pham,mayokimberly@example.com,587.259.8564x2059,78593 Craig Shoals Apt. 480,New Meghan,Missouri,Canada,47005,2024-08-07,2024-10-17,57,9452.9,No,Platinum,None,3,14,Low
+cust_576,Nichole,Barton,davismichelle@example.com,(369)499-9498,80036 Ortiz Street,Lake Aaron,Alabama,China,46092,2024-08-09,2024-09-30,70,5756.54,Yes,Platinum,Email,5,10,Low
+cust_847,Brenda,Pierce,ashleycrawford@example.net,538.687.2461x630,300 Betty Highway,West Eric,Maryland,Japan,81563,2024-08-09,2024-10-17,5,-9354.79,No,Platinum,Email,3,0,Low
+cust_135,Sergio,Miller,steven22@example.net,869-696-1125x35544,9876 Ivan Brooks Apt. 341,East Randy,Connecticut,Australia,08862,2024-08-09,2024-09-11,69,2399.29,No,Platinum,Phone,3,18,Medium
+cust_290,Robert,Hoover,xsmith@example.org,744.744.6306x00025,638 Lee Row,Pooleshire,Nevada,Australia,17392,2024-08-12,2024-09-07,21,1010.34,Yes,Gold,SMS,5,1,Medium
+cust_21,James,Rodgers,jenny89@example.com,,84271 Audrey Mountains,Alexanderburgh,Arkansas,Brazil,33593,2024-08-14,2024-09-14,62,2145.34,No,Platinum,Email,2,12,Medium
+cust_951,Catherine,Robinson,olevine@example.net,(474)490-3312,548 Sarah Mill,West Shannonville,Maryland,Australia,96424,2024-08-15,2024-10-01,12,2645.48,No,Platinum,Email,3,17,Low
+cust_821,Christopher,Tucker,leemichael@example.net,609.541.2460x516,37684 Katelyn Motorway Suite 776,North Paulbury,Maryland,United States,43046,2024-08-15,2024-09-25,47,7262.32,Yes,Platinum,Phone,4,13,Low
+cust_528,Stephanie,Stevens,margaretramirez@example.com,(382)989-5400,47312 Jones Plains,Adamland,Arkansas,India,46563,2024-08-16,2024-09-25,18,855.79,No,Gold,None,5,13,Low
+cust_540,Adam,Diaz,hamiltonkendra@example.net,(338)855-8819x59772,053 Nichols Valley,North Amy,Missouri,India,80278,2024-08-16,2024-09-17,87,3163.73,Yes,Platinum,Email,5,20,Medium
+cust_71,Angela,Hunt,johnsonmichael@example.org,+1-495-860-4661x839,44472 Gary Harbor,Evansland,Mississippi,Germany,33491,2024-08-17,2024-09-30,5,2322.45,No,Platinum,None,1,7,Low
+cust_844,Michelle,West,stephenbell@example.com,9787308306,454 Robert Common,Paulview,Oregon,Japan,05130,2024-08-17,2024-09-09,88,6095.84,No,Platinum,Phone,5,7,Medium
+cust_851,John,Berry,reyesangel@example.com,889-411-9925,768 Keith Cape Apt. 414,East Katelynhaven,Connecticut,Canada,15032,2024-08-17,2024-10-17,25,2856.15,Yes,Platinum,None,4,10,Low
+cust_807,Katherine,Wolf,elizabeth74@example.com,665.565.9070x554,68771 Heath Union Apt. 209,Katrinaton,New York,Brazil,53574,2024-08-20,2024-09-29,85,8572.43,Yes,Platinum,None,3,19,Low
+cust_968,John,Atkinson,agomez@example.org,9795915402,12953 Angela Islands,North Kellyborough,Colorado,Germany,87572,2024-08-21,2024-08-29,25,420.59,No,Silver,Email,4,14,Medium
+cust_55,Megan,Wheeler,terickson@example.com,9556169409,097 Alexandria Stravenue,Hernandezbury,Arizona,Canada,75548,2024-08-22,2024-08-28,73,9478.09,No,Platinum,SMS,3,5,Medium
+cust_973,Erica,Peterson,fhopkins@example.org,(855)993-5027,064 Kimberly Trail Apt. 727,Wardland,Maine,France,48711,2024-08-22,2024-09-30,32,8118.97,No,Platinum,None,4,3,Low
+cust_32,Benjamin,Ferrell,davispaige@example.org,(275)786-9261x7964,7351 Stephens Rue,Bruceview,Illinois,France,16512,2024-08-23,2024-10-08,27,6823.85,Yes,Platinum,SMS,5,13,Low
+cust_97,Jacob,Williams,omarshall@example.com,001-502-211-5869,687 Thomas Common Suite 089,North Stacy,New Hampshire,United States,23160,2024-08-23,2024-09-01,34,5370.36,No,Platinum,SMS,3,18,Medium
+cust_492,Sheri,Duncan,michelle97@example.net,001-312-479-9702x927,3978 Higgins Forest,Zimmermanmouth,Florida,United Kingdom,76467,2024-08-25,2024-10-15,-26,45.29,No,Bronze,Email,4,15,Low
+cust_20,Jacqueline,Hill,blackjames@example.org,001-567-683-7770x1436,8856 Bell Motorway Suite 443,Lake Jamesville,West Virginia,Australia,70737,2024-08-25,2024-10-01,10,4436.88,Yes,Platinum,Email,5,0,Low
+cust_483,Sarah,Peterson,josecohen@example.com,(485)872-5629,358 Garcia Wall,New Jenniferstad,Mississippi,India,03864,2024-08-25,2024-09-20,29,7426.24,Yes,Platinum,Phone,1,5,Low
+cust_194,Vanessa,Dixon,katrinarodriguez@example.com,773.420.1017x0269,911 Sparks Flats Suite 778,Amyside,Ohio,United States,02817,2024-08-27,2024-08-28,9,9861.51,No,Platinum,Email,3,13,Medium
+cust_538,Kathryn,Weaver,pdixon@example.org,(211)666-7329,5988 Morris Port Apt. 129,Collinsfurt,Arizona,France,30771,2024-08-27,2024-09-08,7,6426.19,Yes,Platinum,Email,2,14,Medium
+cust_676,David,Price,kmorris@example.net,+1-591-438-3100x643,2277 Owens Ford,South Oliviahaven,Vermont,United Kingdom,04927,2024-08-29,2024-09-18,61,4224.57,Yes,Platinum,Phone,2,14,Medium
+cust_112,Lauren,Kelley,jacqueline02@example.com,(561)949-3316,516 Sara Villages,Port Patriciamouth,Texas,France,77743,2024-08-30,2024-09-05,14,5783.41,Yes,Platinum,Phone,4,7,Medium
+cust_462,Elizabeth,Parker,eric36@example.net,(958)263-1441,6255 Cline Canyon Apt. 635,Amyburgh,Maine,India,25623,2024-09-03,2024-10-14,54,9303.16,Yes,Platinum,Phone,5,0,Low
+cust_482,Karla,Price,gina90@example.org,,9423 Frances Streets,Kristinebury,Illinois,United Kingdom,72090,2024-09-04,2024-10-14,-50,4919.54,Yes,Platinum,Phone,2,7,Low
+cust_471,Jeffrey,Deleon,jpowell@example.org,(690)587-2617x60723,9538 Diane Points,Port Loriport,Alabama,Japan,45679,2024-09-04,2024-10-13,6,2562.01,Yes,Platinum,SMS,2,19,Low
+cust_346,Patrick,White,justinhughes@example.com,,602 Anderson Parkways,Parkstown,New York,Brazil,86198,2024-09-04,2024-09-21,73,6787.15,Yes,Platinum,None,3,19,Low
+cust_223,Maria,Combs,imiller@example.net,669-307-0562x60856,82422 Tate Drives,Stephanieburgh,Arkansas,India,81041,2024-09-05,2024-09-12,41,3613.4,Yes,Platinum,Email,3,14,Medium
+cust_780,Leah,Mills,johnsonbrittany@example.net,,0617 Monica Way Suite 901,Christineland,Colorado,United Kingdom,03950,2024-09-07,2024-09-15,43,1761.56,No,Gold,None,1,10,Medium
+cust_319,Erica,Garrison,ucoleman@example.net,001-684-726-7320x44138,94544 David Port Suite 427,Smithtown,New Jersey,Australia,05351,2024-09-10,2024-09-28,5,4569.92,No,Platinum,Phone,3,11,Low
+cust_289,Patrick,Bruce,swalters@example.net,311-910-9617,463 Kimberly Plaza,Wilsonfort,Delaware,India,46456,2024-09-12,2024-10-14,35,1806.36,No,Gold,Phone,1,8,Low
+cust_486,Jimmy,Palmer,richard25@example.net,001-466-905-9867x87442,548 Quinn Manors Suite 594,New David,South Carolina,India,16053,2024-09-12,2024-10-11,95,402.12,No,Silver,Email,2,9,Low
+cust_274,Andrea,Montoya,markharris@example.net,,240 Martin Fall Suite 931,North Ronald,New Jersey,Germany,85058,2024-09-15,2024-09-18,100,8450.02,No,Platinum,Email,5,14,Medium
+cust_864,Alfred,Blair,dmckay@example.org,762-666-0323,029 Cooper River,Mcdonaldbury,Washington,Japan,60187,2024-09-15,2024-10-11,45,8950.18,No,Platinum,Email,4,2,Low
+cust_379,Allen,Lopez,regina84@example.net,+1-826-691-3119,585 Anderson Lights,Port Stephanieport,South Carolina,China,75226,2024-09-15,2024-09-25,51,5376.15,Yes,Platinum,SMS,2,11,Low
+cust_578,Kristine,Moyer,lisarussell@example.net,385-518-6267,410 James Shore Apt. 339,North Emily,North Carolina,Australia,96326,2024-09-16,2024-09-27,18,9812.7,Yes,Platinum,Email,4,18,Low
+cust_816,Jorge,Lambert,anthonyjones@example.net,833.235.4011x27283,87647 Williams Ports,South Dorisfort,Nevada,China,14710,2024-09-16,2024-09-23,41,3095.83,Yes,Platinum,SMS,5,15,Low
+cust_353,Yolanda,Greene,udougherty@example.net,529.471.5096,3273 Anderson Circles Apt. 397,Sanchezmouth,Kansas,Brazil,23684,2024-09-18,2024-10-03,44,3639.79,Yes,Platinum,Phone,4,10,Low
+cust_699,Christina,Lewis,bryan46@example.com,(742)860-1863x72631,9227 Bennett Greens Apt. 490,East Saraside,Massachusetts,India,00826,2024-09-18,2024-10-10,67,7377.75,Yes,Platinum,SMS,5,18,Low
+cust_399,Dominic,Hardin,lopezjennifer@example.org,5639301658,792 Roberts Springs,South Jacksontown,Colorado,Japan,23550,2024-09-19,2024-09-26,65,7526.31,Yes,Platinum,,2,19,Low
+cust_61,Melissa,Ramos,jenniferburns@example.net,207.828.6790x874,39106 Graves Plains Apt. 170,Robertberg,Wyoming,France,84586,2024-09-24,2024-10-09,36,8804.4,No,Platinum,Email,5,6,Low
+cust_434,Jeffrey,Williams,mckayjames@example.net,362.468.9430,7137 Sandy Park,North Elizabethmouth,South Carolina,Germany,95911,2024-09-25,2024-10-14,2,7661.03,No,Platinum,Phone,1,17,Low
+cust_475,Kayla,Baker,rzuniga@example.net,513-733-7312x552,78170 Melissa Expressway Apt. 192,South Danielchester,Kansas,Japan,67779,2024-09-25,2024-10-02,36,8120.81,No,Platinum,None,1,17,Low
+cust_791,James,Richardson,alankelly@example.com,746.458.1539,8955 Lisa Pike,Janiceland,Hawaii,Japan,73114,2024-09-25,2024-10-02,94,7256.2,No,Platinum,None,4,12,Low
+cust_218,Amanda,Price,abigailfernandez@example.org,688-548-5200,681 Mckenzie Green Suite 101,Evanstown,New Jersey,Canada,44931,2024-09-29,2024-10-14,88,9256.59,Yes,Platinum,Phone,3,0,Low
+cust_227,Maria,Howard,marycain@example.org,775-537-0304,433 Coffey Camp,Trevorborough,Alabama,Australia,26202,2024-09-30,2024-10-11,93,6254.09,Yes,Platinum,None,1,4,Low
+cust_825,Katherine,Wallace,brownsamuel@example.org,(612)589-6220x682,33023 Johnny Light,Port Richardtown,Missouri,China,74687,2024-10-01,2024-10-05,62,2744.51,Yes,Platinum,Phone,4,15,Low
+cust_734,April,Gordon,david48@example.org,,360 Bowman Glen,Pamelaberg,Alaska,Germany,74201,2024-10-01,2024-10-16,49,4022.81,No,Platinum,Phone,5,19,Low
+cust_383,Chelsea,Joseph,briana19@example.org,,7252 Larry Fall Suite 471,West Richard,Iowa,Germany,46533,2024-10-02,2024-10-12,89,5845.86,No,Platinum,SMS,4,5,Low
+cust_613,Christopher,Hoffman,stephenjohnson@example.net,001-723-229-6151x2048,665 Stephanie Trail Suite 460,Dianaberg,New Hampshire,Brazil,55415,2024-10-04,2024-10-15,87,3680.74,Yes,Platinum,None,1,12,Low
+cust_14,Christine,Davis,emilywalker@example.org,(500)837-9176,3201 Robinson Unions Suite 083,South Dennismouth,Texas,China,70117,2024-10-04,2024-10-12,11,865.68,No,Gold,Email,5,4,Low
+cust_395,Kyle,Jones,brandy77@example.com,001-824-441-8222x618,431 Regina Court Apt. 267,Woodstown,Pennsylvania,China,90694,2024-10-04,2024-10-09,76,1619.68,Yes,Gold,Phone,1,5,Low
+cust_787,Dawn,Williams,joanna65@example.com,(582)734-4538x565,26600 Jorge Burgs,North Brianbury,Maryland,Australia,77166,2024-10-06,2024-10-13,55,1772.59,Yes,Gold,SMS,3,18,Low
+cust_559,Michael,Johnson,tom64@example.com,,8676 Armstrong Ramp Suite 416,South Pamela,Nevada,India,91022,2024-10-07,2024-10-09,22,6965.99,Yes,Platinum,None,2,18,Low
+cust_453,Michaela,Kelly,amandasnyder@example.com,+1-501-919-2360,118 Higgins Forges Apt. 351,West Alexandershire,Nebraska,United States,16266,2024-10-08,2024-10-14,47,5584.62,No,Platinum,,1,19,Low
+cust_966,Zachary,Mack,vlewis@example.net,304-949-2728x0903,643 Ronnie Summit,Juliehaven,Louisiana,United Kingdom,34722,2024-10-11,2024-10-17,46,4983.34,Yes,Platinum,None,3,6,Low
+cust_204,Sandra,Holland,rebeccamccann@example.org,320-269-6942x152,7133 Sophia Via Suite 476,South Melissa,Rhode Island,Brazil,28755,2024-10-12,2024-10-13,48,933.72,Yes,Gold,Email,3,12,Low
+cust_796,Lauren,Erickson,smithashley@example.org,+1-657-722-8703x22007,243 Crosby Drive Suite 145,Lake Lisa,Michigan,United Kingdom,89222,2024-10-13,2024-10-17,55,2536.18,No,Platinum,None,5,9,Low
+cust_205,Erica,Barnes,bsparks@example.com,739-873-5971x072,669 Jones Point,North Marvinbury,New Mexico,China,46940,2024-10-14,2024-10-17,93,6717.79,Yes,Platinum,None,2,10,Low
+cust_697,Heather,Cochran,anthony29@example.net,(786)243-3026,218 Robert Mission Suite 196,Gutierrezland,Alabama,Canada,18792,2024-10-15,2024-10-17,7,7568.03,Yes,Platinum,None,3,18,Low
